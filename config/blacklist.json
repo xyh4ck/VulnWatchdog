@@ -1,7 +1,7 @@
 {
   "$schema": "blacklist-schema.json",
   "version": "1.0.0",
-  "last_updated": "2026-06-29T17:33:02.788971Z",
+  "last_updated": "2026-06-29T19:33:18.888026Z",
   "description": "VulnWatchdog 黑名单配置文件 - 用于过滤低质量POC和恶意仓库",
   "settings": {
     "auto_blacklist_enabled": true,
@@ -2224,6 +2224,106 @@
         "last_quality_score": 2,
         "last_poisoning_risk": 8,
         "notes": "自动拉黑 - 失败原因: POC质量过低: 2/10"
+      },
+      {
+        "username": "shokribardiya",
+        "reason": "POC质量持续过低(最近评分: 2/10)",
+        "added_date": "2026-06-29",
+        "added_by": "auto",
+        "fail_count": 1,
+        "last_quality_score": 2,
+        "last_poisoning_risk": 12,
+        "notes": "自动拉黑 - 失败原因: POC质量过低: 2/10"
+      },
+      {
+        "username": "sakthivel10q",
+        "reason": "POC质量持续过低(最近评分: 2/10)",
+        "added_date": "2026-06-29",
+        "added_by": "auto",
+        "fail_count": 1,
+        "last_quality_score": 2,
+        "last_poisoning_risk": 12,
+        "notes": "自动拉黑 - 失败原因: POC质量过低: 2"
+      },
+      {
+        "username": "InfoSecAntara",
+        "reason": "POC质量持续过低(最近评分: 2/10)",
+        "added_date": "2026-06-29",
+        "added_by": "auto",
+        "fail_count": 1,
+        "last_quality_score": 2,
+        "last_poisoning_risk": 8,
+        "notes": "自动拉黑 - 失败原因: POC质量过低: 2/10"
+      },
+      {
+        "username": "ElJoamy",
+        "reason": "POC质量持续过低(最近评分: 2/10)",
+        "added_date": "2026-06-29",
+        "added_by": "auto",
+        "fail_count": 1,
+        "last_quality_score": 2,
+        "last_poisoning_risk": 8,
+        "notes": "自动拉黑 - 失败原因: POC质量过低: 2/10"
+      },
+      {
+        "username": "strobelpierre",
+        "reason": "POC质量持续过低(最近评分: 2/10)",
+        "added_date": "2026-06-29",
+        "added_by": "auto",
+        "fail_count": 1,
+        "last_quality_score": 2,
+        "last_poisoning_risk": 12,
+        "notes": "自动拉黑 - 失败原因: POC质量过低: 2/10"
+      },
+      {
+        "username": "karim4353",
+        "reason": "POC质量持续过低(最近评分: 2/10)",
+        "added_date": "2026-06-29",
+        "added_by": "auto",
+        "fail_count": 1,
+        "last_quality_score": 2,
+        "last_poisoning_risk": 12,
+        "notes": "自动拉黑 - 失败原因: POC质量过低: 2/10"
+      },
+      {
+        "username": "pedrorichil",
+        "reason": "POC质量持续过低(最近评分: 2/10)",
+        "added_date": "2026-06-29",
+        "added_by": "auto",
+        "fail_count": 1,
+        "last_quality_score": 2,
+        "last_poisoning_risk": 18,
+        "notes": "自动拉黑 - 失败原因: POC质量过低: 2/10"
+      },
+      {
+        "username": "theman001",
+        "reason": "POC质量持续过低(最近评分: 2/10)",
+        "added_date": "2026-06-29",
+        "added_by": "auto",
+        "fail_count": 1,
+        "last_quality_score": 2,
+        "last_poisoning_risk": 18,
+        "notes": "自动拉黑 - 失败原因: POC质量过低: 2/10"
+      },
+      {
+        "username": "aliksir",
+        "reason": "POC质量持续过低(最近评分: 1/10)",
+        "added_date": "2026-06-29",
+        "added_by": "auto",
+        "fail_count": 1,
+        "last_quality_score": 1,
+        "last_poisoning_risk": 3,
+        "notes": "自动拉黑 - 失败原因: POC质量过低: 1/10"
+      },
+      {
+        "username": "anuththara2007-W",
+        "reason": "POC质量持续过低(最近评分: 2/10)",
+        "added_date": "2026-06-29",
+        "added_by": "auto",
+        "fail_count": 1,
+        "last_quality_score": 2,
+        "last_poisoning_risk": 8,
+        "notes": "自动拉黑 - 失败原因: POC质量过低: 2/10"
       }
     ],
     "repositories": [
@@ -2259,11 +2359,11 @@
     "repositories": []
   },
   "statistics": {
-    "total_blocked": 1691,
-    "blocked_by_author": 1690,
+    "total_blocked": 1756,
+    "blocked_by_author": 1755,
     "blocked_by_repository": 1,
     "blocked_by_cve": 0,
-    "auto_blacklisted_authors": 220,
+    "auto_blacklisted_authors": 230,
     "auto_blacklisted_repositories": 0
   }
 }
