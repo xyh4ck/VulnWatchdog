@@ -1,7 +1,7 @@
 {
   "$schema": "blacklist-schema.json",
   "version": "1.0.0",
-  "last_updated": "2026-06-30T13:56:14.240763Z",
+  "last_updated": "2026-06-30T16:50:36.963891Z",
   "description": "VulnWatchdog 黑名单配置文件 - 用于过滤低质量POC和恶意仓库",
   "settings": {
     "auto_blacklist_enabled": true,
@@ -2594,6 +2594,26 @@
         "last_quality_score": 2,
         "last_poisoning_risk": 8,
         "notes": "自动拉黑 - 失败原因: POC质量过低: 2/10"
+      },
+      {
+        "username": "Dmitri131313",
+        "reason": "POC质量持续过低(最近评分: 2/10)",
+        "added_date": "2026-06-30",
+        "added_by": "auto",
+        "fail_count": 1,
+        "last_quality_score": 2,
+        "last_poisoning_risk": 12,
+        "notes": "自动拉黑 - 失败原因: POC质量过低: 2/10"
+      },
+      {
+        "username": "tardummy01",
+        "reason": "POC质量持续过低(最近评分: 1/10)",
+        "added_date": "2026-06-30",
+        "added_by": "auto",
+        "fail_count": 1,
+        "last_quality_score": 1,
+        "last_poisoning_risk": 8,
+        "notes": "自动拉黑 - 失败原因: 影响应用未知, POC质量过低: 1/10"
       }
     ],
     "repositories": [
@@ -2629,11 +2649,11 @@
     "repositories": []
   },
   "statistics": {
-    "total_blocked": 2217,
-    "blocked_by_author": 2216,
+    "total_blocked": 2265,
+    "blocked_by_author": 2264,
     "blocked_by_repository": 1,
     "blocked_by_cve": 0,
-    "auto_blacklisted_authors": 257,
+    "auto_blacklisted_authors": 259,
     "auto_blacklisted_repositories": 0
   }
 }
