@@ -1,7 +1,7 @@
 {
   "$schema": "blacklist-schema.json",
   "version": "1.0.0",
-  "last_updated": "2026-06-29T22:32:43.610668Z",
+  "last_updated": "2026-06-30T00:18:59.715550Z",
   "description": "VulnWatchdog 黑名单配置文件 - 用于过滤低质量POC和恶意仓库",
   "settings": {
     "auto_blacklist_enabled": true,
@@ -2404,6 +2404,56 @@
         "last_quality_score": 2,
         "last_poisoning_risk": 8,
         "notes": "自动拉黑 - 失败原因: POC质量过低: 2"
+      },
+      {
+        "username": "kinryulabs",
+        "reason": "投毒风险持续过高(最近风险: 82%)",
+        "added_date": "2026-06-29",
+        "added_by": "auto",
+        "fail_count": 1,
+        "last_quality_score": 9,
+        "last_poisoning_risk": 82,
+        "notes": "自动拉黑 - 失败原因: 投毒风险过高: 82%"
+      },
+      {
+        "username": "vulnquest58",
+        "reason": "POC质量持续过低(最近评分: 2/10)",
+        "added_date": "2026-06-30",
+        "added_by": "auto",
+        "fail_count": 1,
+        "last_quality_score": 2,
+        "last_poisoning_risk": 15,
+        "notes": "自动拉黑 - 失败原因: POC质量过低: 2/10"
+      },
+      {
+        "username": "hakkuri01",
+        "reason": "POC质量持续过低(最近评分: 2/10)",
+        "added_date": "2026-06-30",
+        "added_by": "auto",
+        "fail_count": 1,
+        "last_quality_score": 2,
+        "last_poisoning_risk": 12,
+        "notes": "自动拉黑 - 失败原因: POC质量过低: 2/10"
+      },
+      {
+        "username": "SystemVll",
+        "reason": "POC质量持续过低(最近评分: 2/10)",
+        "added_date": "2026-06-30",
+        "added_by": "auto",
+        "fail_count": 1,
+        "last_quality_score": 2,
+        "last_poisoning_risk": 8,
+        "notes": "自动拉黑 - 失败原因: POC质量过低: 2/10"
+      },
+      {
+        "username": "killsystema",
+        "reason": "POC质量持续过低(最近评分: 2/10)",
+        "added_date": "2026-06-30",
+        "added_by": "auto",
+        "fail_count": 1,
+        "last_quality_score": 2,
+        "last_poisoning_risk": 8,
+        "notes": "自动拉黑 - 失败原因: POC质量过低: 2/10"
       }
     ],
     "repositories": [
@@ -2439,11 +2489,11 @@
     "repositories": []
   },
   "statistics": {
-    "total_blocked": 1897,
-    "blocked_by_author": 1896,
+    "total_blocked": 1959,
+    "blocked_by_author": 1958,
     "blocked_by_repository": 1,
     "blocked_by_cve": 0,
-    "auto_blacklisted_authors": 238,
+    "auto_blacklisted_authors": 243,
     "auto_blacklisted_repositories": 0
   }
 }
