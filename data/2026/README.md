@@ -1,6 +1,6 @@
 # 2026年 CVE漏洞列表
 
-> 📊 共收录 **231** 个CVE漏洞
+> 📊 共收录 **237** 个CVE漏洞
 
 ---
 
@@ -10,6 +10,7 @@
 |---------|------|----------|-----------|
 | [CVE-2026-0628](CVE-2026-0628-fevar54_CVE-2026-0628-POC.md) | CVE-2026-0628 - Google Chrome (WebView组件) 权限绕过/脚本注入 | ⚪ 高 (High) | 1 |
 | [CVE-2026-0770](CVE-2026-0770-affix_CVE-2026-0770-PoC.md) | CVE-2026-0770 - Langflow 远程代码执行 (RCE) | ⚪ 关键 (Critical) | 1 |
+| [CVE-2026-10520](CVE-2026-10520-watchtowrlabs_watchTowr-vs-Ivanti-Sentry-RCE-CVE-2026-10520-CVE-2026-10523.md) | CVE-2026-10520 - Ivanti Sentry 命令注入/RCE | ⚪ 严重（Critical） | 1 |
 | [CVE-2026-10580](CVE-2026-10580-0xgh057r3c0n_CVE-2026-10580.md) | CVE-2026-10580 - WordPress Hippoo Mobile App for WooCommerce... | ⚪ 严重 | 2 |
 | [CVE-2026-10580](CVE-2026-10580-Polosss_By-Poloss..-..CVE-2026-10580.md) | CVE-2026-10580 - Hippoo Mobile App for WooCommerce 认证绕过/权限提升 | ⚪ 严重 | 2 |
 | [CVE-2026-1357](CVE-2026-1357-halilkirazkaya_CVE-2026-1357.md) | CVE-2026-1357 - WPvivid Backup & Migration 任意文件上传, 远程代码执行 (R... | 🔴 Critical | 1 |
@@ -17,15 +18,15 @@
 | [CVE-2026-1560](CVE-2026-1560-Z3YR0xX_CVE-2026-1560-Authenticated-Remote-Code-Execution-in-Lazy-Blocks-4.2.0.md) | CVE-2026-1560 - Custom Block Builder – Lazy Blocks WordPress... | 🟠 High | 1 |
 | [CVE-2026-20841](CVE-2026-20841-404godd_CVE-2026-20841-PoC.md) | CVE-2026-20841 - Windows Notepad（记事本） 命令注入 | ⚪ 高危 | 11 |
 | [CVE-2026-20841](CVE-2026-20841-BTtea_CVE-2026-20841-PoC.md) | CVE-2026-20841 - Windows Notepad（新版记事本） 命令注入/RCE | ⚪ 高危 | 11 |
-| [CVE-2026-20841](CVE-2026-20841-EleniChristopoulou_PoC-CVE-2026-20841.md) | CVE-2026-20841 - Microsoft Windows 记事本（新版/Store版 Notepad） 命令... | ⚪ 高危 | 11 |
+| [CVE-2026-20841](CVE-2026-20841-EleniChristopoulou_PoC-CVE-2026-20841.md) | CVE-2026-20841 - Windows Notepad App（新版记事本） 命令注入 | ⚪ 高危 | 11 |
 | [CVE-2026-20841](CVE-2026-20841-RajaUzairAbdullah_CVE-2026-20841.md) | CVE-2026-20841 - Windows Notepad 远程代码执行 | ⚪ 高危 | 11 |
-| [CVE-2026-20841](CVE-2026-20841-SecureWithUmer_CVE-2026-20841.md) | CVE-2026-20841 - Microsoft Windows Notepad（新版/Store分发版本） 命令注... | ⚪ 高危 | 11 |
-| [CVE-2026-20841](CVE-2026-20841-atiilla_CVE-2026-20841.md) | CVE-2026-20841 - Windows Notepad App（微软新版记事本） 命令注入 | ⚪ 高危 | 11 |
-| [CVE-2026-20841](CVE-2026-20841-dogukankurnaz_CVE-2026-20841-PoC.md) | CVE-2026-20841 - Windows Notepad App（Microsoft Store版新版记事本） ... | ⚪ 高危 | 11 |
+| [CVE-2026-20841](CVE-2026-20841-SecureWithUmer_CVE-2026-20841.md) | CVE-2026-20841 - Windows 记事本（Microsoft Store 分发的新版 Notepad A... | ⚪ 高危 | 11 |
+| [CVE-2026-20841](CVE-2026-20841-atiilla_CVE-2026-20841.md) | CVE-2026-20841 - Windows Notepad App（微软商店分发的新版记事本） 命令注入 | ⚪ 高危 | 11 |
+| [CVE-2026-20841](CVE-2026-20841-dogukankurnaz_CVE-2026-20841-PoC.md) | CVE-2026-20841 - Windows Notepad App（Microsoft Store版本） 命令注入 | ⚪ 高危 | 11 |
 | [CVE-2026-20841](CVE-2026-20841-hackfaiz_CVE-2026-20841-PoC.md) | CVE-2026-20841 - Microsoft Windows Notepad 命令注入 | ⚪ 高危 | 11 |
 | [CVE-2026-20841](CVE-2026-20841-hamzamalik3461_CVE-2026-20841.md) | CVE-2026-20841 - Microsoft Windows 记事本 远程代码执行 (RCE) / 命令注入 | ⚪ 高 | 11 |
-| [CVE-2026-20841](CVE-2026-20841-patchpoint_CVE-2026-20841.md) | CVE-2026-20841 - Microsoft Windows Notepad App（新版记事本） 命令注入 | ⚪ 高危 | 11 |
-| [CVE-2026-20841](CVE-2026-20841-tangent65536_CVE-2026-20841.md) | CVE-2026-20841 - Windows Notepad App（新版记事本） 命令注入 | ⚪ 高危 | 11 |
+| [CVE-2026-20841](CVE-2026-20841-patchpoint_CVE-2026-20841.md) | CVE-2026-20841 - Windows Notepad App（Microsoft Store分发的新版记事本... | ⚪ 高危 | 11 |
+| [CVE-2026-20841](CVE-2026-20841-tangent65536_CVE-2026-20841.md) | CVE-2026-20841 - Windows Notepad App（Microsoft Store 分发的新版记事... | ⚪ 高危 | 11 |
 | [CVE-2026-21440](CVE-2026-21440-k0nnect_cve-2026-21440-writeup.md) | CVE-2026-21440 - AdonisJS (@adonisjs/bodyparser) 路径穿越 (Path ... | 🔴 CRITICAL | 2 |
 | [CVE-2026-21440](CVE-2026-21440-you-ssef9_CVE-2026-21440.md) | CVE-2026-21440 - AdonisJS BodyParser 路径穿越/任意文件写入 | ⚪ 高危 | 2 |
 | [CVE-2026-21509](CVE-2026-21509-DameDode_CVE-2026-21509-POC.md) | CVE-2026-21509 - Microsoft Office 安全功能绕过 | ⚪ 高危 | 6 |
@@ -51,12 +52,12 @@
 | [CVE-2026-22557](CVE-2026-22557-BishopFox_CVE-2026-22557-check.md) | CVE-2026-22557 - UniFi Network Application 路径遍历/任意文件读取 | ⚪ 严重 | 3 |
 | [CVE-2026-22557](CVE-2026-22557-GarethMSheldon_cve-2026-22557-unifi-detection.md) | CVE-2026-22557 - Ubiquiti UniFi Network Application 路径遍历 | ⚪ 严重/critical | 3 |
 | [CVE-2026-22557](CVE-2026-22557-ThePotatoOfDoom_CVE-2026-22557-PoC.md) | CVE-2026-22557 - UniFi Network Application 路径穿越 | ⚪ 高危 | 3 |
-| [CVE-2026-23111](CVE-2026-23111-Baba01hacker666_CVE-2026-23111.md) | CVE-2026-23111 - Linux kernel nf_tables 子系统 Use-After-Free/本... | ⚪ 严重/高危 | 4 |
-| [CVE-2026-23111](CVE-2026-23111-bakano98_cve-2026-23111-poc.md) | CVE-2026-23111 - Linux Kernel nftables（nf_tables） Use-After-... | ⚪ 高危 | 4 |
+| [CVE-2026-23111](CVE-2026-23111-Baba01hacker666_CVE-2026-23111.md) | CVE-2026-23111 - Linux kernel nftables/nf_tables Use-After-F... | ⚪ 高危 | 4 |
+| [CVE-2026-23111](CVE-2026-23111-bakano98_cve-2026-23111-poc.md) | CVE-2026-23111 - Linux Kernel nftables Use-After-Free / 本地权限... | ⚪ 高危 | 4 |
 | [CVE-2026-23111](CVE-2026-23111-criann_check-cve-2026-23111.md) | CVE-2026-23111 - Linux kernel nf_tables 本地权限提升 | ⚪ 高危 | 4 |
 | [CVE-2026-23111](CVE-2026-23111-ishankaru_CVE-2026-23111-nftables-lab.md) | CVE-2026-23111 - Linux kernel 的 nf_tables 子系统 本地权限提升/Use-Aft... | ⚪ 高危 | 4 |
 | [CVE-2026-2406](CVE-2026-2406-ridpath_Terrminus-CVE-2026-2406.md) | CVE-2026-24061 - Telnet Daemon (telnetd) 认证绕过, 权限提升 | ⚪ 高危 | 1 |
-| [CVE-2026-24061](CVE-2026-24061-0p5cur_CVE-2026-24061-POC.md) | CVE-2026-24061 - GNU InetUtils telnetd 远程认证绕过/参数注入 | 🔴 Critical | 45 |
+| [CVE-2026-24061](CVE-2026-24061-0p5cur_CVE-2026-24061-POC.md) | CVE-2026-24061 - GNU InetUtils telnetd 认证绕过 | 🔴 Critical | 45 |
 | [CVE-2026-24061](CVE-2026-24061-0x7556_CVE-2026-24061.md) | CVE-2026-24061 - GNU InetUtils telnetd 远程认证绕过, 提权, 远程代码执行 | ⚪ 严重 | 45 |
 | [CVE-2026-24061](CVE-2026-24061-0xXyc_telnet-inetutils-auth-bypass-CVE-2026-24061.md) | CVE-2026-24061 - GNU InetUtils telnetd 参数注入导致的认证绕过 | ⚪ 严重 | 45 |
 | [CVE-2026-24061](CVE-2026-24061-FurkanKAYAPINAR_CVE-2026-24061-telnet2root.md) | CVE-2026-24061 - GNU Inetutils telnetd 远程认证绕过, 参数注入, 提权 (Pre... | ⚪ 严重 (Critical) | 45 |
@@ -73,16 +74,16 @@
 | [CVE-2026-24061](CVE-2026-24061-SeptembersEND_CVE--2026-24061.md) | CVE-2026-24061 - GNU InetUtils telnetd 远程认证绕过/提权/参数注入 | ⚪ 高危 | 45 |
 | [CVE-2026-24061](CVE-2026-24061-SystemVll_CVE-2026-24061.md) | CVE-2026-24061 - GNU inetutils-telnetd 认证绕过 | 🔴 Critical | 45 |
 | [CVE-2026-24061](CVE-2026-24061-X-croot_CVE-2026-24061_POC.md) | CVE-2026-24061 - GNU InetUtils telnetd 远程代码执行 (认证绕过) | ⚪ 高危 | 45 |
-| [CVE-2026-24061](CVE-2026-24061-ahmadsadeeq_TelnetdBypass-.md) | CVE-2026-24061 - GNU InetUtils telnetd 远程认证绕过/参数注入 | ⚪ 关键级 | 45 |
-| [CVE-2026-24061](CVE-2026-24061-akpmarcelin_CVE-2026-24061-lab.md) | CVE-2026-24061 - GNU InetUtils telnetd 认证绕过/参数注入 | ⚪ 关键 | 45 |
-| [CVE-2026-24061](CVE-2026-24061-anxs3c_CVE-2026-24061-GNU-InetUtils-telnetd.md) | CVE-2026-24061 - GNU InetUtils telnetd 远程认证绕过/参数注入 | ⚪ 关键 | 45 |
+| [CVE-2026-24061](CVE-2026-24061-ahmadsadeeq_TelnetdBypass-.md) | CVE-2026-24061 - GNU InetUtils telnetd 认证绕过 | ⚪ 严重/关键 | 45 |
+| [CVE-2026-24061](CVE-2026-24061-akpmarcelin_CVE-2026-24061-lab.md) | CVE-2026-24061 - GNU InetUtils telnetd 认证绕过 | ⚪ 严重/关键 | 45 |
+| [CVE-2026-24061](CVE-2026-24061-anxs3c_CVE-2026-24061-GNU-InetUtils-telnetd.md) | CVE-2026-24061 - GNU InetUtils telnetd 认证绕过/参数注入 | 🔴 Critical | 45 |
 | [CVE-2026-24061](CVE-2026-24061-athack-ctf_chall2026-telneted.md) | CVE-2026-0001 - Telnet服务及其CTF挑战实现 认证绕过/信息泄露 | ⚪ 中危 | 45 |
 | [CVE-2026-24061](CVE-2026-24061-buzz075_CVE-2026-24061.md) | CVE-2026-24061 - GNU InetUtils telnetd 参数注入 (Argument Inject... | 🔴 Critical (高危) | 45 |
 | [CVE-2026-24061](CVE-2026-24061-canpilayda_inetutils-telnetd-cve-2026-24061.md) | CVE-2026-24061 - GNU Inetutils telnetd 认证绕过 | ⚪ 严重 | 45 |
 | [CVE-2026-24061](CVE-2026-24061-cumakurt_tscan.md) | CVE-2026-24061 - GNU Inetutils telnetd 身份认证绕过 | ⚪ 严重 | 45 |
 | [CVE-2026-24061](CVE-2026-24061-cyberpoul_CVE-2026-24061-POC.md) | CVE-2026-24061 - GNU InetUtils telnetd 远程认证绕过、特权升级、任意代码执行 | ⚪ 高危。攻击者可远程绕过认证 | 45 |
 | [CVE-2026-24061](CVE-2026-24061-dotelpenguin_telnetd_CVE-2026-24061_tester.md) | CVE-2026-24061 - GNU InetUtils telnetd 认证绕过 / 环境变量注入 | ⚪ 高危 (Critical) | 45 |
-| [CVE-2026-24061](CVE-2026-24061-ekomsSavior_telnet_scan.md) | CVE-2026-24061 - GNU InetUtils telnetd 认证绕过 | ⚪ 严重（关键级） | 45 |
+| [CVE-2026-24061](CVE-2026-24061-ekomsSavior_telnet_scan.md) | CVE-2026-24061 - GNU InetUtils telnetd 认证绕过 | ⚪ 严重 | 45 |
 | [CVE-2026-24061](CVE-2026-24061-franckferman_CVE_2026_24061_PoC.md) | CVE-2026-24061 - GNU InetUtils telnetd 认证绕过/环境注入/提权 (RCE) | ⚪ 非常高危 | 45 |
 | [CVE-2026-24061](CVE-2026-24061-hilwa24_CVE-2026-24061.md) | CVE-2026-24061 - Telnet 服务 认证绕过 (Authentication Bypass) | ⚪ 高危 | 45 |
 | [CVE-2026-24061](CVE-2026-24061-ibrahmsql_CVE-2026-24061-PoC.md) | CVE-2026-24061 - GNU Inetutils telnetd Authentication Bypass | 🔴 Critical | 45 |
@@ -91,23 +92,23 @@
 | [CVE-2026-24061](CVE-2026-24061-kyukazamiqq_CVE-2026-24061.md) | CVE-2026-24061 - GNU Inetutils telnetd 认证绕过/参数注入 | ⚪ 严重 | 45 |
 | [CVE-2026-24061](CVE-2026-24061-lavabyte_telnet-CVE-2026-24061.md) | CVE-2026-24061 - GNU InetUtils telnetd 认证绕过, 参数注入, 权限提升 | ⚪ 高危/关键 | 45 |
 | [CVE-2026-24061](CVE-2026-24061-madfxr_Twenty-Three-Scanner.md) | CVE-2026-24061 - GNU InetUtils telnetd 远程认证绕过, 参数注入 | ⚪ 高危 | 45 |
-| [CVE-2026-24061](CVE-2026-24061-mbanyamer_CVE-2026-24061-GNU-Inetutils-telnetd-Remote-Authentication-Bypass-Root-Shell-.md) | CVE-2026-24061 - GNU Inetutils telnetd 认证绕过/参数注入 | ⚪ 严重/关键 | 45 |
-| [CVE-2026-24061](CVE-2026-24061-midox008_CVE-2026-24061.md) | CVE-2026-24061 - GNU Inetutils telnetd 认证绕过/参数注入 | ⚪ 严重/关键 | 45 |
+| [CVE-2026-24061](CVE-2026-24061-mbanyamer_CVE-2026-24061-GNU-Inetutils-telnetd-Remote-Authentication-Bypass-Root-Shell-.md) | CVE-2026-24061 - GNU Inetutils telnetd 认证绕过 | ⚪ 严重/关键 | 45 |
+| [CVE-2026-24061](CVE-2026-24061-midox008_CVE-2026-24061.md) | CVE-2026-24061 - GNU Inetutils telnetd 认证绕过 | ⚪ 严重 | 45 |
 | [CVE-2026-24061](CVE-2026-24061-nrnw_CVE-2026-24061-GNU-inetutils-Telnet-Detector.md) | CVE-2026-24061 - GNU InetUtils Telnetd 认证绕过 | ⚪ 严重高危 | 45 |
 | [CVE-2026-24061](CVE-2026-24061-obrunolima1910_CVE-2026-24061.md) | CVE-2026-24061 - GNU InetUtils telnetd 远程认证绕过/提权 | ⚪ 严重 | 45 |
 | [CVE-2026-24061](CVE-2026-24061-obrunolima1910_obrunolima1910.github.io.md) | CVE-2026-24061 - GNU InetUtils telnetd 远程认证绕过 / 参数注入 (Remote... | ⚪ 严重 (Critical) | 45 |
-| [CVE-2026-24061](CVE-2026-24061-przemytn_CVE-2026-24061.md) | CVE-2026-24061 - GNU InetUtils telnetd 认证绕过/参数注入 | ⚪ 严重 | 45 |
-| [CVE-2026-24061](CVE-2026-24061-scumfrog_cve-2026-24061.md) | CVE-2026-24061 - GNU InetUtils telnetd 认证绕过/参数注入 | 🔴 Critical | 45 |
+| [CVE-2026-24061](CVE-2026-24061-przemytn_CVE-2026-24061.md) | CVE-2026-24061 - GNU InetUtils telnetd 认证绕过/参数注入 | ⚪ 高危/关键级 | 45 |
+| [CVE-2026-24061](CVE-2026-24061-scumfrog_cve-2026-24061.md) | CVE-2026-24061 - GNU InetUtils telnetd 认证绕过 | ⚪ 严重 | 45 |
 | [CVE-2026-24061](CVE-2026-24061-setuju_telnetd.md) | CVE-2026-24061 - GNU Inetutils telnetd 认证绕过 | ⚪ 严重/关键 | 45 |
 | [CVE-2026-24061](CVE-2026-24061-tc4dy_CVE-2026-24061-PoC-Exploit.md) | CVE-2026-24061 - GNU inetutils-telnetd 身份验证绕过/参数注入 | 🔴 Critical | 45 |
-| [CVE-2026-24061](CVE-2026-24061-tiborscholtz_CVE-2026-24061.md) | CVE-2026-24061 - GNU InetUtils telnetd 认证绕过/参数注入 | 🔴 Critical | 45 |
+| [CVE-2026-24061](CVE-2026-24061-tiborscholtz_CVE-2026-24061.md) | CVE-2026-24061 - GNU InetUtils telnetd 认证绕过/参数注入 | ⚪ 严重/关键 | 45 |
 | [CVE-2026-2441](CVE-2026-2441-D3b0j33t_CVE-2026-2441-PoC.md) | CVE-2026-2441 - Google Chrome / Chromium Blink CSS引擎 Use-Aft... | ⚪ 高危 | 7 |
-| [CVE-2026-2441](CVE-2026-2441-MartinaStarone_CVE-2026-2441.md) | CVE-2026-2441 - Google Chrome及基于Chromium的浏览器 Use-After-Free/... | ⚪ 高危 | 7 |
+| [CVE-2026-2441](CVE-2026-2441-MartinaStarone_CVE-2026-2441.md) | CVE-2026-2441 - Google Chrome / Chromium-based browsers Use-... | ⚪ 高危 | 7 |
 | [CVE-2026-2441](CVE-2026-2441-NetVanguard-cmd_CVE-2026-2441.md) | CVE-2026-2441 - Google Chrome Use-after-free (UAF), Remote C... | ⚪ 高危 (High) | 7 |
 | [CVE-2026-2441](CVE-2026-2441-atiilla_CVE-2026-2441_PoC.md) | CVE-2026-2441 - Google Chrome / Chromium Blink Use-After-Fre... | ⚪ 高危 | 7 |
 | [CVE-2026-2441](CVE-2026-2441-fartlover37_CVE-2026-2441-PoC.md) | CVE-2026-2441 - Google Chrome Use-after-free (UAF) | ⚪ 高危 (High) | 7 |
 | [CVE-2026-2441](CVE-2026-2441-huseyinstif_CVE-2026-2441-PoC.md) | CVE-2026-2441 - Google Chrome / Chromium-based browsers Use-... | ⚪ 高危 | 7 |
-| [CVE-2026-2441](CVE-2026-2441-theemperorspath_CVE-2026-2441-PoC.md) | CVE-2026-2441 - Google Chrome / Chromium Blink CSS engine Us... | ⚪ 高危 | 7 |
+| [CVE-2026-2441](CVE-2026-2441-theemperorspath_CVE-2026-2441-PoC.md) | CVE-2026-2441 - Google Chrome / Blink CSS engine Use-After-F... | ⚪ 严重 | 7 |
 | [CVE-2026-2472](CVE-2026-2472-JoshuaProvoste_CVE-2026-2472-Vertex-AI-SDK-Google-Cloud.md) | CVE-2026-2472 - Google Cloud Vertex AI Python SDK（google-clo... | ⚪ 高危 | 1 |
 | [CVE-2026-25253](CVE-2026-25253-EQSTLab_CVE-2026-25253.md) | CVE-2026-25253 - OpenClaw AI代理劫持 / 远程代码执行 / 令牌窃取 | ⚪ 高危 | 1 |
 | [CVE-2026-25643](CVE-2026-25643-DyniePro_CVE-2026-25643.md) | CVE-2026-25643 - Frigate NVR 配置操纵导致的RCE (命令注入) | ⚪ 高危 (Critical) | 3 |
@@ -192,7 +193,7 @@
 | [CVE-2026-43503](CVE-2026-43503-gl1tch0x1_DirtyClone.md) | CVE-2026-43503 - Linux内核 本地权限提升 | ⚪ 高危 | 5 |
 | [CVE-2026-43503](CVE-2026-43503-mooder1_dirtyclone-CVE-2026-43503.md) | CVE-2026-43503 - Linux Kernel 本地权限提升 | ⚪ 高危 | 5 |
 | [CVE-2026-43700](CVE-2026-43700-dem0ns_CVE-2026-43700.md) | CVE-2026-43700 - Apple Safari / WebKit 信息泄露/同源策略绕过 | ⚪ 高危 | 1 |
-| [CVE-2026-43735](CVE-2026-43735-dem0ns_CVE-2026-43735.md) | CVE-2026-43735 - Apple Safari / WebKit 跨域信息泄露/同源策略绕过 | ⚪ 高危 | 1 |
+| [CVE-2026-43735](CVE-2026-43735-dem0ns_CVE-2026-43735.md) | CVE-2026-43735 - Apple WebKit / Safari 跨域信息泄露/同源策略绕过 | ⚪ 高危 | 1 |
 | [CVE-2026-44789](CVE-2026-44789-BiiTts_CVE-2026-44789-n8n-PrototypePollution-RCE.md) | CVE-2026-44789 - n8n工作流自动化平台 原型污染/远程代码执行 | ⚪ 严重 | 1 |
 | [CVE-2026-46300](CVE-2026-46300-1neptune_Fragnesia.md) | CVE-2026-46300 - Linux Kernel（XFRM ESP-in-TCP / splice / pag... | ⚪ 高危 | 6 |
 | [CVE-2026-46300](CVE-2026-46300-BenedictEjepu_CVE-2026-46300-Fragnesia---TryHackMe-Lab-Project.md) | CVE-2026-46300 - Linux Kernel / XFRM ESP-in-TCP 子系统 本地权限提升 | ⚪ 高危 | 6 |
@@ -205,28 +206,33 @@
 | [CVE-2026-46331](CVE-2026-46331-g0thamRabb1t_cve-2026-46331-pedit-cow-auditd-detection.md) | CVE-2026-46331 - Linux Kernel net/sched act_pedit 本地权限提升 | ⚪ 高危 | 4 |
 | [CVE-2026-46331](CVE-2026-46331-sgkdev_packet_edit_meme.md) | CVE-2026-46331 - Linux Kernel net/sched act_pedit 本地权限提升 | ⚪ 高危 | 4 |
 | [CVE-2026-46490](CVE-2026-46490-BiiTts_CVE-2026-46490-samlify-SAML-Attribute-Injection.md) | CVE-2026-46490 - SAML登录响应生成组件 XML注入/属性篡改 | ⚪ 高危 | 1 |
-| [CVE-2026-48907](CVE-2026-48907-0xgh057r3c0n_CVE-2026-48907.md) | CVE-2026-48907 - Joomla Content Editor (JCE Core/Pro) 远程代码执行 | ⚪ 高危 | 13 |
-| [CVE-2026-48907](CVE-2026-48907-87achrafg-stack_CVE-2026-48907.md) | CVE-2026-48907 - JCE Joomla 插件 远程代码执行 | ⚪ 严重 | 13 |
-| [CVE-2026-48907](CVE-2026-48907-Almavj_Joomla_CVE_2026_48907.md) | CVE-2026-48907 - Joomla Content Editor (JCE Core/Pro) 远程代码执行 | ⚪ 高危 | 13 |
-| [CVE-2026-48907](CVE-2026-48907-K3ysTr0K3R_CVE-2026-48907.md) | CVE-2026-48907 - Joomla Content Editor (JCE) 扩展 远程代码执行 | ⚪ 严重/高危/Critical | 13 |
-| [CVE-2026-48907](CVE-2026-48907-g0thamRabb1t_joomla-jce-cve-2026-48907-detection.md) | CVE-2026-48907 - Joomla Content Editor (JCE) 远程代码执行 | ⚪ 严重 | 13 |
-| [CVE-2026-48907](CVE-2026-48907-gh1mau_masta-cve-2026-48907.md) | CVE-2026-48907 - Joomla Content Editor (JCE) 远程代码执行/RCE | ⚪ 严重 | 13 |
-| [CVE-2026-48907](CVE-2026-48907-grayxploit_CVE-2026-48907.md) | CVE-2026-48907 - Joomla Content Editor (JCE) 远程代码执行 | ⚪ 严重/高危 | 13 |
-| [CVE-2026-48907](CVE-2026-48907-pssec-io_CVE-2026-48907.md) | CVE-2026-48907 - Joomla Content Editor (JCE Core/Pro) 远程代码执行 | 🔴 Critical | 13 |
-| [CVE-2026-48907](CVE-2026-48907-sec0x_CVE-2026-48907.md) | CVE-2026-48907 - Joomla Content Editor (JCE) 插件 未授权远程代码执行 | ⚪ 严重 | 13 |
-| [CVE-2026-48907](CVE-2026-48907-wearehackers160_CVE-2026-48907.md) | CVE-2026-48907 - Joomla Content Editor (JCE) 未授权远程代码执行 | ⚪ 严重 | 13 |
-| [CVE-2026-48907](CVE-2026-48907-webshellseo8_CVE-2026-48907-Unauthenticated-RCE-in-JCE.md) | CVE-2026-48907 - Joomla Content Editor (JCE) RCE | ⚪ 严重 | 13 |
-| [CVE-2026-48907](CVE-2026-48907-xitexploiter96-dot_CVE-2026-48907-.md) | CVE-2026-48907 - Joomla Content Editor (JCE) 远程代码执行 | 🔴 Critical | 13 |
-| [CVE-2026-48907](CVE-2026-48907-ywh-jfellus_CVE-2026-48907.md) | CVE-2026-48907 - Joomla Content Editor (JCE) 未授权远程代码执行 | ⚪ 严重/高危 | 13 |
+| [CVE-2026-48907](CVE-2026-48907-0xgh057r3c0n_CVE-2026-48907.md) | CVE-2026-48907 - Joomla Content Editor (JCE) RCE/未授权文件上传 | ⚪ 严重 | 14 |
+| [CVE-2026-48907](CVE-2026-48907-87achrafg-stack_CVE-2026-48907.md) | CVE-2026-48907 - Joomla Content Editor（JCE） 远程代码执行（RCE）/访问控制... | ⚪ 严重 | 14 |
+| [CVE-2026-48907](CVE-2026-48907-Almavj_Joomla_CVE_2026_48907.md) | CVE-2026-48907 - Joomla! JCE Editor（Joomla Content Editor） 远... | ⚪ 严重 / Critical | 14 |
+| [CVE-2026-48907](CVE-2026-48907-K3ysTr0K3R_CVE-2026-48907.md) | CVE-2026-48907 - Joomla Content Editor (JCE) 扩展 远程代码执行 | ⚪ 严重/高危/Critical | 14 |
+| [CVE-2026-48907](CVE-2026-48907-NoXiVaR_CVE-2026-48907.md) | CVE-2026-48907 - Joomla Content Editor (JCE) 远程代码执行 | ⚪ 严重 | 14 |
+| [CVE-2026-48907](CVE-2026-48907-g0thamRabb1t_joomla-jce-cve-2026-48907-detection.md) | CVE-2026-48907 - Joomla Content Editor (JCE) 远程代码执行 | ⚪ 严重 | 14 |
+| [CVE-2026-48907](CVE-2026-48907-gh1mau_masta-cve-2026-48907.md) | CVE-2026-48907 - Joomla Content Editor (JCE) RCE | ⚪ 严重/高危 | 14 |
+| [CVE-2026-48907](CVE-2026-48907-grayxploit_CVE-2026-48907.md) | CVE-2026-48907 - Joomla Content Editor (JCE) RCE | 🔴 Critical | 14 |
+| [CVE-2026-48907](CVE-2026-48907-pssec-io_CVE-2026-48907.md) | CVE-2026-48907 - JCE (Joomla Content Editor) RCE | ⚪ 严重/致命 | 14 |
+| [CVE-2026-48907](CVE-2026-48907-sec0x_CVE-2026-48907.md) | CVE-2026-48907 - Joomla Content Editor (JCE) 未授权远程代码执行 | ⚪ 严重/critical | 14 |
+| [CVE-2026-48907](CVE-2026-48907-wearehackers160_CVE-2026-48907.md) | CVE-2026-48907 - Joomla Content Editor (JCE) RCE | ⚪ 严重/Critical | 14 |
+| [CVE-2026-48907](CVE-2026-48907-webshellseo8_CVE-2026-48907-Unauthenticated-RCE-in-JCE.md) | CVE-2026-48907 - Joomla Content Editor (JCE) 远程代码执行 | ⚪ 严重/critical | 14 |
+| [CVE-2026-48907](CVE-2026-48907-xitexploiter96-dot_CVE-2026-48907-.md) | CVE-2026-48907 - JCE（Joomla Content Editor） 远程代码执行 | ⚪ 严重/关键 | 14 |
+| [CVE-2026-48907](CVE-2026-48907-ywh-jfellus_CVE-2026-48907.md) | CVE-2026-48907 - Joomla Content Editor（JCE） 未授权远程代码执行 | ⚪ 严重/critical | 14 |
 | [CVE-2026-48939](CVE-2026-48939-Polosss_By-Poloss..-..CVE-2026-48939.md) | CVE-2026-48939 - iCagenda（Joomla事件与日历组件） 远程代码执行 | 🔴 Critical | 1 |
 | [CVE-2026-49869](CVE-2026-49869-Ap0dexMe0_CVE-2026-49869.md) | CVE-2026-49869 - Kestra 认证绕过/RCE | ⚪ 严重 | 1 |
+| [CVE-2026-53694](CVE-2026-53694-do4choo_CVE-2026-53694-NoMachine-LPE.md) | CVE-2026-53694 - NoMachine for Linux 本地权限提升/参数注入 | ⚪ 高危 | 1 |
 | [CVE-2026-53753](CVE-2026-53753-BiiTts_CVE-2026-53753-Crawl4AI-RCE.md) | CVE-2026-53753 - Crawl4AI 远程代码执行 | ⚪ 严重 | 1 |
+| [CVE-2026-54161](CVE-2026-54161-ja-errorpro_CVE-2026-54161.md) | CVE-2026-54161 - Network UPS Tools (NUT) upsmon 客户端 命令注入/远程代... | ⚪ 高危 | 1 |
 | [CVE-2026-55200](CVE-2026-55200-xd20111_CVE-2026-55200.md) | CVE-2026-55200 - libssh2 远程代码执行(RCE) | ⚪ 高危/严重 | 1 |
 | [CVE-2026-55255](CVE-2026-55255-rootdirective-sec_CVE-2026-55255-Lab.md) | CVE-2026-55255 - Langflow IDOR/越权访问 | ⚪ 高危 | 1 |
+| [CVE-2026-56011](CVE-2026-56011-rootdirective-sec_CVE-2026-56011-Lab.md) | CVE-2026-56011 - MapPress Maps for WordPress XSS | ⚪ 高危 | 1 |
 | [CVE-2026-56121](CVE-2026-56121-BiiTts_CVE-2026-56121-Feast-Unauth-RCE.md) | CVE-2026-56121 - Feast 远程代码执行 | ⚪ 严重 | 1 |
 | [CVE-2026-56782](CVE-2026-56782-BiiTts_CVE-2026-56782-Gorse-Auth-Bypass.md) | CVE-2026-56782 - Master HTTP 管理服务（dashboard/master 8088 端口） ... | ⚪ 高危：默认配置下可直接未授权访问管理接口 | 1 |
 | [CVE-2026-58138](CVE-2026-58138-BiiTts_CVE-2026-58138-Conductor-Unauth-RCE.md) | CVE-2026-58138 - Netflix Conductor 远程代码执行 | ⚪ 严重 | 1 |
-| [CVE-2026-6307](CVE-2026-6307-0xsha_CVE-2026-6307.md) | CVE-2026-6307 - Google Chrome / Chromium V8 JavaScript 引擎 类型... | ⚪ 严重 | 1 |
+| [CVE-2026-6307](CVE-2026-6307-0xsha_CVE-2026-6307.md) | CVE-2026-6307 - Google Chrome / Chromium V8 类型混淆/RCE | ⚪ 高危 | 2 |
+| [CVE-2026-6307](CVE-2026-6307-J4ck3LSyN-Gen2_CVE-2026-6307-Longinus.md) | CVE-2026-6307 - Google V8 JavaScript 引擎（d8 shell/Chromium 相关... | ⚪ 高危 | 2 |
 | [CVE-2026-8451](CVE-2026-8451-derekpreston81_CVE_ADC_IOC_2026.md) | CVE-2026-8451 - Citrix NetScaler ADC / Gateway 配置暴露/前置条件检查 | ⚪ 中危 | 2 |
 | [CVE-2026-8451](CVE-2026-8451-watchtowrlabs_watchTowr-vs-Netscaler-CVE-2026-8451.md) | CVE-2026-8451 - Citrix NetScaler ADC / NetScaler Gateway 内存越... | ⚪ 高危 | 2 |
 | [CVE-2026-9082](CVE-2026-9082-11romain_CVE-2026-9082.md) | CVE-2026-9082 - Drupal Core SQL注入 | ⚪ 严重 | 10 |
