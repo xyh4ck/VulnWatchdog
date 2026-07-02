@@ -1,7 +1,7 @@
 {
   "$schema": "blacklist-schema.json",
   "version": "1.0.0",
-  "last_updated": "2026-07-02T17:37:32.661581Z",
+  "last_updated": "2026-07-02T21:16:35.684424Z",
   "description": "VulnWatchdog 黑名单配置文件 - 用于过滤低质量POC和恶意仓库",
   "settings": {
     "auto_blacklist_enabled": true,
@@ -2984,6 +2984,16 @@
         "last_quality_score": 2,
         "last_poisoning_risk": 15,
         "notes": "自动拉黑 - 失败原因: POC质量过低: 2/10"
+      },
+      {
+        "username": "MichaelAdamGroberman",
+        "reason": "POC质量持续过低(最近评分: 2/10)",
+        "added_date": "2026-07-02",
+        "added_by": "auto",
+        "fail_count": 1,
+        "last_quality_score": 2,
+        "last_poisoning_risk": 5,
+        "notes": "自动拉黑 - 失败原因: POC质量过低: 2/10"
       }
     ],
     "repositories": [
@@ -3019,11 +3029,11 @@
     "repositories": []
   },
   "statistics": {
-    "total_blocked": 3084,
-    "blocked_by_author": 3083,
+    "total_blocked": 3148,
+    "blocked_by_author": 3147,
     "blocked_by_repository": 1,
     "blocked_by_cve": 0,
-    "auto_blacklisted_authors": 296,
+    "auto_blacklisted_authors": 297,
     "auto_blacklisted_repositories": 0
   }
 }
