@@ -1,7 +1,7 @@
 {
   "$schema": "blacklist-schema.json",
   "version": "1.0.0",
-  "last_updated": "2026-07-04T00:33:11.192289Z",
+  "last_updated": "2026-07-04T04:53:11.890017Z",
   "description": "VulnWatchdog 黑名单配置文件 - 用于过滤低质量POC和恶意仓库",
   "settings": {
     "auto_blacklist_enabled": true,
@@ -3214,6 +3214,46 @@
         "last_quality_score": 2,
         "last_poisoning_risk": 8,
         "notes": "自动拉黑 - 失败原因: POC质量过低: 2/10"
+      },
+      {
+        "username": "TheMursalin",
+        "reason": "POC质量持续过低(最近评分: 2/10)",
+        "added_date": "2026-07-04",
+        "added_by": "auto",
+        "fail_count": 1,
+        "last_quality_score": 2,
+        "last_poisoning_risk": 8,
+        "notes": "自动拉黑 - 失败原因: POC质量过低: 2/10"
+      },
+      {
+        "username": "Redfox-Security",
+        "reason": "POC质量持续过低(最近评分: 1/10)",
+        "added_date": "2026-07-04",
+        "added_by": "auto",
+        "fail_count": 1,
+        "last_quality_score": 1,
+        "last_poisoning_risk": 5,
+        "notes": "自动拉黑 - 失败原因: POC质量过低: 1/10"
+      },
+      {
+        "username": "olebris",
+        "reason": "POC质量持续过低(最近评分: 2/10)",
+        "added_date": "2026-07-04",
+        "added_by": "auto",
+        "fail_count": 1,
+        "last_quality_score": 2,
+        "last_poisoning_risk": 12,
+        "notes": "自动拉黑 - 失败原因: POC质量过低: 2/10"
+      },
+      {
+        "username": "emilebarnard242",
+        "reason": "POC质量持续过低(最近评分: 1/10)",
+        "added_date": "2026-07-04",
+        "added_by": "auto",
+        "fail_count": 1,
+        "last_quality_score": 1,
+        "last_poisoning_risk": 5,
+        "notes": "自动拉黑 - 失败原因: POC质量过低: 1/10"
       }
     ],
     "repositories": [
@@ -3249,11 +3289,11 @@
     "repositories": []
   },
   "statistics": {
-    "total_blocked": 3667,
-    "blocked_by_author": 3666,
+    "total_blocked": 3745,
+    "blocked_by_author": 3744,
     "blocked_by_repository": 1,
     "blocked_by_cve": 0,
-    "auto_blacklisted_authors": 319,
+    "auto_blacklisted_authors": 323,
     "auto_blacklisted_repositories": 0
   }
 }
