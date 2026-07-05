@@ -1,6 +1,6 @@
 # 2026年 CVE漏洞列表
 
-> 📊 共收录 **310** 个CVE漏洞
+> 📊 共收录 **311** 个CVE漏洞
 
 ---
 
@@ -32,8 +32,8 @@
 | [CVE-2026-20841](CVE-2026-20841-dogukankurnaz_CVE-2026-20841-PoC.md) | CVE-2026-20841 - Windows Notepad App（Microsoft Store 版本） 命令注... | ⚪ 高危 | 11 |
 | [CVE-2026-20841](CVE-2026-20841-hackfaiz_CVE-2026-20841-PoC.md) | CVE-2026-20841 - Microsoft Windows Notepad 命令注入 | ⚪ 高危 | 11 |
 | [CVE-2026-20841](CVE-2026-20841-hamzamalik3461_CVE-2026-20841.md) | CVE-2026-20841 - Microsoft Windows 记事本 远程代码执行 (RCE) / 命令注入 | ⚪ 高 | 11 |
-| [CVE-2026-20841](CVE-2026-20841-patchpoint_CVE-2026-20841.md) | CVE-2026-20841 - Microsoft Notepad 命令注入/RCE | ⚪ 高危 | 11 |
-| [CVE-2026-20841](CVE-2026-20841-tangent65536_CVE-2026-20841.md) | CVE-2026-20841 - Windows Notepad 远程代码执行 | ⚪ 高危 | 11 |
+| [CVE-2026-20841](CVE-2026-20841-patchpoint_CVE-2026-20841.md) | CVE-2026-20841 - Microsoft Notepad 命令注入 | ⚪ 高危 | 11 |
+| [CVE-2026-20841](CVE-2026-20841-tangent65536_CVE-2026-20841.md) | CVE-2026-20841 - Windows Notepad RCE | ⚪ 高危 | 11 |
 | [CVE-2026-21440](CVE-2026-21440-k0nnect_cve-2026-21440-writeup.md) | CVE-2026-21440 - AdonisJS (@adonisjs/bodyparser) 路径穿越 (Path ... | 🔴 CRITICAL | 2 |
 | [CVE-2026-21440](CVE-2026-21440-you-ssef9_CVE-2026-21440.md) | CVE-2026-21440 - AdonisJS BodyParser 路径穿越/任意文件写入 | ⚪ 高危 | 2 |
 | [CVE-2026-21509](CVE-2026-21509-DameDode_CVE-2026-21509-POC.md) | CVE-2026-21509 - Microsoft Office 安全功能绕过 | ⚪ 高危 | 6 |
@@ -93,7 +93,7 @@
 | [CVE-2026-23744](CVE-2026-23744-z4yd3_PoC-CVE-2026-23744.md) | CVE-2026-23744 - MCPJam Inspector 远程代码执行 | ⚪ 严重（Critical） | 27 |
 | [CVE-2026-23869](CVE-2026-23869-yohannslm_CVE-2026-23869.md) | CVE-2026-23869 - React Server Components 拒绝服务（DoS） | ⚪ 高危 | 1 |
 | [CVE-2026-2406](CVE-2026-2406-ridpath_Terrminus-CVE-2026-2406.md) | CVE-2026-24061 - Telnet Daemon (telnetd) 认证绕过, 权限提升 | ⚪ 高危 | 1 |
-| [CVE-2026-24061](CVE-2026-24061-0p5cur_CVE-2026-24061-POC.md) | CVE-2026-24061 - telnetd 认证绕过/RCE | ⚪ 严重 | 45 |
+| [CVE-2026-24061](CVE-2026-24061-0p5cur_CVE-2026-24061-POC.md) | CVE-2026-24061 - telnetd 认证绕过/远程代码执行 | ⚪ 严重 | 45 |
 | [CVE-2026-24061](CVE-2026-24061-0x7556_CVE-2026-24061.md) | CVE-2026-24061 - GNU InetUtils telnetd 远程认证绕过, 提权, 远程代码执行 | ⚪ 严重 | 45 |
 | [CVE-2026-24061](CVE-2026-24061-0xXyc_telnet-inetutils-auth-bypass-CVE-2026-24061.md) | CVE-2026-24061 - GNU InetUtils telnetd 参数注入导致的认证绕过 | ⚪ 严重 | 45 |
 | [CVE-2026-24061](CVE-2026-24061-FurkanKAYAPINAR_CVE-2026-24061-telnet2root.md) | CVE-2026-24061 - GNU Inetutils telnetd 远程认证绕过, 参数注入, 提权 (Pre... | ⚪ 严重 (Critical) | 45 |
@@ -110,8 +110,8 @@
 | [CVE-2026-24061](CVE-2026-24061-SeptembersEND_CVE--2026-24061.md) | CVE-2026-24061 - GNU InetUtils telnetd 远程认证绕过/提权/参数注入 | ⚪ 高危 | 45 |
 | [CVE-2026-24061](CVE-2026-24061-SystemVll_CVE-2026-24061.md) | CVE-2026-24061 - GNU inetutils-telnetd 认证绕过 | 🔴 Critical | 45 |
 | [CVE-2026-24061](CVE-2026-24061-X-croot_CVE-2026-24061_POC.md) | CVE-2026-24061 - GNU InetUtils telnetd 远程代码执行 (认证绕过) | ⚪ 高危 | 45 |
-| [CVE-2026-24061](CVE-2026-24061-ahmadsadeeq_TelnetdBypass-.md) | CVE-2026-24061 - GNU InetUtils telnetd 认证绕过 | 🔴 Critical | 45 |
-| [CVE-2026-24061](CVE-2026-24061-akpmarcelin_CVE-2026-24061-lab.md) | CVE-2026-24061 - GNU InetUtils telnetd 认证绕过 | 🔴 Critical | 45 |
+| [CVE-2026-24061](CVE-2026-24061-ahmadsadeeq_TelnetdBypass-.md) | CVE-2026-24061 - GNU InetUtils telnetd 身份验证绕过 | ⚪ 严重/危急 | 45 |
+| [CVE-2026-24061](CVE-2026-24061-akpmarcelin_CVE-2026-24061-lab.md) | CVE-2026-24061 - GNU InetUtils telnetd 认证绕过 | ⚪ 严重 | 45 |
 | [CVE-2026-24061](CVE-2026-24061-anxs3c_CVE-2026-24061-GNU-InetUtils-telnetd.md) | CVE-2026-24061 - GNU InetUtils telnetd 认证绕过/参数注入 | 🔴 Critical | 45 |
 | [CVE-2026-24061](CVE-2026-24061-athack-ctf_chall2026-telneted.md) | CVE-2026-0001 - Telnet服务及其CTF挑战实现 认证绕过/信息泄露 | ⚪ 中危 | 45 |
 | [CVE-2026-24061](CVE-2026-24061-buzz075_CVE-2026-24061.md) | CVE-2026-24061 - GNU InetUtils telnetd 参数注入 (Argument Inject... | 🔴 Critical (高危) | 45 |
@@ -128,23 +128,23 @@
 | [CVE-2026-24061](CVE-2026-24061-kyukazamiqq_CVE-2026-24061.md) | CVE-2026-24061 - GNU Inetutils telnetd 认证绕过/参数注入 | ⚪ 严重 | 45 |
 | [CVE-2026-24061](CVE-2026-24061-lavabyte_telnet-CVE-2026-24061.md) | CVE-2026-24061 - GNU InetUtils telnetd 认证绕过, 参数注入, 权限提升 | ⚪ 高危/关键 | 45 |
 | [CVE-2026-24061](CVE-2026-24061-madfxr_Twenty-Three-Scanner.md) | CVE-2026-24061 - GNU InetUtils telnetd 远程认证绕过, 参数注入 | ⚪ 高危 | 45 |
-| [CVE-2026-24061](CVE-2026-24061-mbanyamer_CVE-2026-24061-GNU-Inetutils-telnetd-Remote-Authentication-Bypass-Root-Shell-.md) | CVE-2026-24061 - GNU Inetutils telnetd 认证绕过 | 🔴 Critical | 45 |
-| [CVE-2026-24061](CVE-2026-24061-midox008_CVE-2026-24061.md) | CVE-2026-24061 - GNU Inetutils telnetd 认证绕过/参数注入 | ⚪ 严重（Critical） | 45 |
+| [CVE-2026-24061](CVE-2026-24061-mbanyamer_CVE-2026-24061-GNU-Inetutils-telnetd-Remote-Authentication-Bypass-Root-Shell-.md) | CVE-2026-24061 - GNU Inetutils telnetd 认证绕过 | ⚪ 严重 | 45 |
+| [CVE-2026-24061](CVE-2026-24061-midox008_CVE-2026-24061.md) | CVE-2026-24061 - GNU Inetutils telnetd 认证绕过 | 🔴 critical | 45 |
 | [CVE-2026-24061](CVE-2026-24061-nrnw_CVE-2026-24061-GNU-inetutils-Telnet-Detector.md) | CVE-2026-24061 - GNU InetUtils Telnetd 认证绕过 | ⚪ 严重高危 | 45 |
 | [CVE-2026-24061](CVE-2026-24061-obrunolima1910_CVE-2026-24061.md) | CVE-2026-24061 - GNU InetUtils telnetd 远程认证绕过/提权 | ⚪ 严重 | 45 |
 | [CVE-2026-24061](CVE-2026-24061-obrunolima1910_obrunolima1910.github.io.md) | CVE-2026-24061 - GNU InetUtils telnetd 远程认证绕过 / 参数注入 (Remote... | ⚪ 严重 (Critical) | 45 |
 | [CVE-2026-24061](CVE-2026-24061-przemytn_CVE-2026-24061.md) | CVE-2026-24061 - GNU InetUtils telnetd 命令注入/认证绕过 | ⚪ 严重 | 45 |
-| [CVE-2026-24061](CVE-2026-24061-scumfrog_cve-2026-24061.md) | CVE-2026-24061 - GNU InetUtils telnetd 命令注入/参数注入 | ⚪ 严重/critical | 45 |
-| [CVE-2026-24061](CVE-2026-24061-setuju_telnetd.md) | CVE-2026-24061 - 支持Telnet协议的目标服务 命令执行 | ⚪ 高危 | 45 |
+| [CVE-2026-24061](CVE-2026-24061-scumfrog_cve-2026-24061.md) | CVE-2026-24061 - GNU InetUtils telnetd 命令注入 | 🔴 Critical | 45 |
+| [CVE-2026-24061](CVE-2026-24061-setuju_telnetd.md) | CVE-2026-24061 - Telnet服务或实现（支持Telnet选项39的目标） 命令注入 | ⚪ 高危 | 45 |
 | [CVE-2026-24061](CVE-2026-24061-tc4dy_CVE-2026-24061-PoC-Exploit.md) | CVE-2026-24061 - GNU inetutils-telnetd 认证绕过/参数注入 | ⚪ 严重/关键 | 45 |
-| [CVE-2026-24061](CVE-2026-24061-tiborscholtz_CVE-2026-24061.md) | CVE-2026-24061 - Telnet服务 认证绕过/信息泄露 | ⚪ 高危 | 45 |
-| [CVE-2026-2441](CVE-2026-2441-D3b0j33t_CVE-2026-2441-PoC.md) | CVE-2026-2441 - Google Chrome / Chromium 系浏览器 Blink CSS 引擎 U... | ⚪ 高危 | 7 |
-| [CVE-2026-2441](CVE-2026-2441-MartinaStarone_CVE-2026-2441.md) | CVE-2026-2441 - Google Chrome / Chromium Blink CSS engine Us... | ⚪ 高危 | 7 |
+| [CVE-2026-24061](CVE-2026-24061-tiborscholtz_CVE-2026-24061.md) | CVE-2026-24061 - GNU InetUtils telnetd 身份验证绕过 | ⚪ 严重 | 45 |
+| [CVE-2026-2441](CVE-2026-2441-D3b0j33t_CVE-2026-2441-PoC.md) | CVE-2026-2441 - Google Chrome / Chromium-based browsers (Bli... | 🟠 High | 7 |
+| [CVE-2026-2441](CVE-2026-2441-MartinaStarone_CVE-2026-2441.md) | CVE-2026-2441 - Google Chrome / Chromium 内核浏览器（Blink CSS 引擎）... | ⚪ 高危 | 7 |
 | [CVE-2026-2441](CVE-2026-2441-NetVanguard-cmd_CVE-2026-2441.md) | CVE-2026-2441 - Google Chrome Use-after-free (UAF), Remote C... | ⚪ 高危 (High) | 7 |
-| [CVE-2026-2441](CVE-2026-2441-atiilla_CVE-2026-2441_PoC.md) | CVE-2026-2441 - Google Chrome / Blink renderer engine Use-Af... | ⚪ 高危 | 7 |
+| [CVE-2026-2441](CVE-2026-2441-atiilla_CVE-2026-2441_PoC.md) | CVE-2026-2441 - Google Chrome / Chromium Blink 引擎 Use-After-... | ⚪ 高危 | 7 |
 | [CVE-2026-2441](CVE-2026-2441-fartlover37_CVE-2026-2441-PoC.md) | CVE-2026-2441 - Google Chrome Use-after-free (UAF) | ⚪ 高危 (High) | 7 |
-| [CVE-2026-2441](CVE-2026-2441-huseyinstif_CVE-2026-2441-PoC.md) | CVE-2026-2441 - Google Chrome Blink CSS engine Use-After-Fre... | 🟠 High | 7 |
-| [CVE-2026-2441](CVE-2026-2441-theemperorspath_CVE-2026-2441-PoC.md) | CVE-2026-2441 - Google Chrome/Blink CSS引擎 Use-After-Free | ⚪ 高危 | 7 |
+| [CVE-2026-2441](CVE-2026-2441-huseyinstif_CVE-2026-2441-PoC.md) | CVE-2026-2441 - Google Chrome / Chromium-based browsers Use-... | 🟠 High | 7 |
+| [CVE-2026-2441](CVE-2026-2441-theemperorspath_CVE-2026-2441-PoC.md) | CVE-2026-2441 - Google Chrome / Chromium Blink CSS engine Us... | ⚪ 高危 | 7 |
 | [CVE-2026-2472](CVE-2026-2472-JoshuaProvoste_CVE-2026-2472-Vertex-AI-SDK-Google-Cloud.md) | CVE-2026-2472 - Google Cloud Vertex AI Python SDK（google-clo... | ⚪ 高危 | 1 |
 | [CVE-2026-25253](CVE-2026-25253-EQSTLab_CVE-2026-25253.md) | CVE-2026-25253 - OpenClaw AI代理劫持 / 远程代码执行 / 令牌窃取 | ⚪ 高危 | 1 |
 | [CVE-2026-25643](CVE-2026-25643-DyniePro_CVE-2026-25643.md) | CVE-2026-25643 - Frigate NVR 配置操纵导致的RCE (命令注入) | ⚪ 高危 (Critical) | 3 |
@@ -155,31 +155,31 @@
 | [CVE-2026-27654](CVE-2026-27654-JohannesLks_CVE-2026-27654.md) | CVE-2026-27654 - NGINX Open Source / NGINX Plus 堆缓冲区溢出 | ⚪ 高危 | 1 |
 | [CVE-2026-28995](CVE-2026-28995-Robertmak2014-sudow_CVE-2026-28995.md) | CVE-2026-28995 - iOS App Intents 路径穿越 | ⚪ 高危 | 1 |
 | [CVE-2026-30862](CVE-2026-30862-drkim-dev_CVE-2026-30862.md) | CVE-2026-30862 - Appsmith 存储型跨站脚本(XSS), 权限提升, 跨站请求伪造(CSRF) | ⚪ 严重 (Critical) | 1 |
-| [CVE-2026-31431](CVE-2026-31431-1neptune_CopyFail.md) | CVE-2026-31431 - Linux Kernel crypto子系统 AF_ALG/algif_aead 本地... | ⚪ 严重 | 22 |
-| [CVE-2026-31431](CVE-2026-31431-4n4s4zi_copyfail-alpine.md) | CVE-2026-31431 - Linux内核crypto子系统AF_ALG algif_aead模块 本地权限提升/... | ⚪ 严重 | 22 |
-| [CVE-2026-31431](CVE-2026-31431-Hunt-Benito_copy-fail-cve-2026-31431-linux-kernel-page-cache-lpe.md) | CVE-2026-31431 - Linux内核 crypto 子系统中的 algif_aead/AF_ALG 接口 本... | ⚪ 严重/高危 | 22 |
+| [CVE-2026-31431](CVE-2026-31431-1neptune_CopyFail.md) | CVE-2026-31431 - Linux内核 crypto 子系统 AF_ALG（algif_aead） 本地权限提... | ⚪ 严重 | 22 |
+| [CVE-2026-31431](CVE-2026-31431-4n4s4zi_copyfail-alpine.md) | CVE-2026-31431 - Linux内核 crypto 子系统 AF_ALG（algif_aead） 本地权限提... | ⚪ 严重/高危 | 22 |
+| [CVE-2026-31431](CVE-2026-31431-Hunt-Benito_copy-fail-cve-2026-31431-linux-kernel-page-cache-lpe.md) | CVE-2026-31431 - Linux内核 crypto 子系统 algif_aead（AF_ALG usersp... | ⚪ 严重 | 22 |
 | [CVE-2026-31431](CVE-2026-31431-Iamliuxiaozhen_copy_fail.md) | CVE-2026-31431 - Linux kernel（algif_aead/AF_ALG 加密接口） 本地权限提升... | ⚪ 严重 | 22 |
-| [CVE-2026-31431](CVE-2026-31431-John-Popovici_CVE-2026-31431-CopyFail-Linux-PrivEsc.md) | CVE-2026-31431 - Linux内核 crypto 子系统 algif_aead/AF_ALG 本地权限提升... | ⚪ 严重 | 22 |
+| [CVE-2026-31431](CVE-2026-31431-John-Popovici_CVE-2026-31431-CopyFail-Linux-PrivEsc.md) | CVE-2026-31431 - Linux Kernel（crypto 子系统 algif_aead / AF_ALG... | ⚪ 严重 | 22 |
 | [CVE-2026-31431](CVE-2026-31431-JuanBindez_CVE-2026-31431.md) | CVE-2026-31431 - Linux内核 crypto 子系统中的 algif_aead（AF_ALG）接口 本... | ⚪ 严重 | 22 |
 | [CVE-2026-31431](CVE-2026-31431-K3ysTr0K3R_CVE-2026-31431-EXPLOIT.md) | CVE-2026-31431 - Linux kernel AF_ALG/algif_aead 本地权限提升 | ⚪ 严重 | 22 |
-| [CVE-2026-31431](CVE-2026-31431-Liverwortenuresis371_copyfail-rs.md) | CVE-2026-31431 - Linux内核 crypto 子系统 AF_ALG/algif_aead 本地权限提升... | ⚪ 严重 | 22 |
-| [CVE-2026-31431](CVE-2026-31431-Lutfifakee-Project_CVE-2026-31431.md) | CVE-2026-31431 - Linux内核 crypto 子系统的 algif_aead / authencesn... | ⚪ 严重 | 22 |
+| [CVE-2026-31431](CVE-2026-31431-Liverwortenuresis371_copyfail-rs.md) | CVE-2026-31431 - Linux Kernel（crypto 子系统 AF_ALG / algif_aead... | ⚪ 严重 | 22 |
+| [CVE-2026-31431](CVE-2026-31431-Lutfifakee-Project_CVE-2026-31431.md) | CVE-2026-31431 - Linux内核crypto子系统（algif_aead / AF_ALG / auth... | ⚪ 严重 | 22 |
 | [CVE-2026-31431](CVE-2026-31431-SugiB3o_CVE-2026-31431.md) | CVE-2026-31431 - Linux内核 crypto 子系统 AF_ALG（algif_aead） 本地权限提... | ⚪ 严重 | 22 |
 | [CVE-2026-31431](CVE-2026-31431-SystemVll_CVE-2026-31431-copyfail-aarch64.md) | CVE-2026-31431 - Linux kernel 本地权限提升 | ⚪ 高危/严重 | 22 |
-| [CVE-2026-31431](CVE-2026-31431-aexdyhaxor_CVE-2026-31431-copy-fail.md) | CVE-2026-31431 - Linux内核 crypto 子系统 AF_ALG/algif_aead 本地权限提升... | ⚪ 严重 | 22 |
+| [CVE-2026-31431](CVE-2026-31431-aexdyhaxor_CVE-2026-31431-copy-fail.md) | CVE-2026-31431 - Linux内核 crypto 子系统 AF_ALG（algif_aead，usersp... | ⚪ 严重 | 22 |
 | [CVE-2026-31431](CVE-2026-31431-kinryulabs_rootpacket-cve-2026-31431.md) | CVE-2026-31431 - Linux kernel（algif_aead / AF_ALG 子系统） 本地权限提... | ⚪ 严重/高危（可导致本地提权、容器逃逸与主机接管） | 22 |
 | [CVE-2026-31431](CVE-2026-31431-mauricioportela_CVE-2026-31431-Analysis.md) | CVE-2026-31431 - Linux 内核 crypto 子系统 AF_ALG/algif_aead 本地权限提... | ⚪ 严重 | 22 |
 | [CVE-2026-31431](CVE-2026-31431-monobrau_copyfailscan.md) | CVE-2026-31431 - Linux Kernel（algif_aead / AF_ALG 接口） 本地权限提升... | ⚪ 高危 | 22 |
-| [CVE-2026-31431](CVE-2026-31431-ryan2929_CVE-2026-31431.md) | CVE-2026-31431 - Linux内核crypto子系统AF_ALG（algif_aead） 本地权限提升/容... | ⚪ 严重 | 22 |
-| [CVE-2026-31431](CVE-2026-31431-songzzzz_CVE-2026-31431.md) | CVE-2026-31431 - Linux内核crypto子系统中的algif_aead模块（AF_ALG加密接口） ... | ⚪ 严重/高危 | 22 |
+| [CVE-2026-31431](CVE-2026-31431-ryan2929_CVE-2026-31431.md) | CVE-2026-31431 - Linux内核 crypto 子系统 AF_ALG/algif_aead 本地权限提升... | ⚪ 严重 | 22 |
+| [CVE-2026-31431](CVE-2026-31431-songzzzz_CVE-2026-31431.md) | CVE-2026-31431 - Linux内核 crypto 子系统 algif_aead（AF_ALG usersp... | ⚪ 严重 | 22 |
 | [CVE-2026-31431](CVE-2026-31431-suominen_CVE-2026-31431.md) | CVE-2026-31431 - Linux kernel（AF_ALG/algif_aead 加密接口） 本地权限提升... | ⚪ 高危 | 22 |
-| [CVE-2026-31431](CVE-2026-31431-t1ckprivate_CVE-2026-31431-Copy-Fail.md) | CVE-2026-31431 - Linux Kernel 本地权限提升/容器逃逸 | ⚪ 严重 | 22 |
-| [CVE-2026-31431](CVE-2026-31431-tematemaru_CVE-2026-31431-simple-test.md) | CVE-2026-31431 - Linux内核 crypto 子系统 AF_ALG/algif_aead 本地权限提升... | ⚪ 严重 | 22 |
-| [CVE-2026-31431](CVE-2026-31431-zKaaanon_ProyectoFinalSO.md) | CVE-2026-31431 - Linux kernel crypto 子系统（AF_ALG / algif_aead... | ⚪ 严重 | 22 |
-| [CVE-2026-31431](CVE-2026-31431-zs1n_copy-fail-CVE-2026-31431.md) | CVE-2026-42945 - NGINX 堆缓冲区溢出 | ⚪ 高危 | 22 |
+| [CVE-2026-31431](CVE-2026-31431-t1ckprivate_CVE-2026-31431-Copy-Fail.md) | CVE-2026-31431 - Linux内核 crypto 子系统 AF_ALG(algif_aead) 本地权限提... | ⚪ 严重 | 22 |
+| [CVE-2026-31431](CVE-2026-31431-tematemaru_CVE-2026-31431-simple-test.md) | CVE-2026-31431 - Linux kernel crypto子系统（algif_aead / AF_ALG ... | ⚪ 严重 | 22 |
+| [CVE-2026-31431](CVE-2026-31431-zKaaanon_ProyectoFinalSO.md) | CVE-2026-31431 - Linux内核 crypto 子系统 AF_ALG/algif_aead 本地权限提升... | ⚪ 严重 | 22 |
+| [CVE-2026-31431](CVE-2026-31431-zs1n_copy-fail-CVE-2026-31431.md) | CVE-2026-31431 - Linux内核 crypto 子系统 AF_ALG（algif_aead） 本地权限提... | ⚪ 严重 | 22 |
 | [CVE-2026-31694](CVE-2026-31694-0xCyberstan_CVE-2026-31694-POC.md) | CVE-2026-31694 - Linux kernel FUSE 子系统 越界写 | ⚪ 高危 | 1 |
 | [CVE-2026-31802](CVE-2026-31802-Jvr2022_CVE-2026-31802.md) | CVE-2026-31802 - npm tar（node-tar） 路径遍历/任意文件覆盖 | ⚪ 高危 | 2 |
-| [CVE-2026-31802](CVE-2026-31802-ridhinva_npm-tar-path-traversal-scanner.md) | CVE-2026-31802 - npm tar package 路径穿越/任意文件写入 | ⚪ 高危 | 2 |
+| [CVE-2026-31802](CVE-2026-31802-ridhinva_npm-tar-path-traversal-scanner.md) | CVE-2026-31802 - npm tar package 路径遍历/任意文件写入 | ⚪ 高危 | 2 |
 | [CVE-2026-32746](CVE-2026-32746-danindiana_cve-2026-32746-mitigation.md) | CVE-2026-32746 - GNU InetUtils Telnetd 越界写入/缓冲区溢出/远程代码执行(RCE... | ⚪ 高危 | 1 |
 | [CVE-2026-33017](CVE-2026-33017-EQSTLab_CVE-2026-33017.md) | CVE-2026-33017 - Langflow RCE | ⚪ 严重 | 11 |
 | [CVE-2026-33017](CVE-2026-33017-Jorrit-VM_CVE-2026-33017.md) | CVE-2026-33017 - Langflow RCE | 🔴 Critical | 11 |
@@ -200,20 +200,21 @@
 | [CVE-2026-38751](CVE-2026-38751-Mkps_CVE-2026-38751-OpenSTAManager-Arbitrary-File-Upload-PoC.md) | CVE-2026-38751 - OpenSTAManager 任意文件上传/远程代码执行 | ⚪ 高危 | 3 |
 | [CVE-2026-38751](CVE-2026-38751-Why-Shell_CVE-2026-38751.md) | CVE-2026-38751 - OpenSTAManager RCE | ⚪ 高危 | 3 |
 | [CVE-2026-38751](CVE-2026-38751-hackthem_OpenSTAManager_RCE_Exploit-CVE-2026-38751-.md) | CVE-2026-38751 - OpenSTAManager RCE | ⚪ 高危 | 3 |
+| [CVE-2026-39047](CVE-2026-39047-J4ck3LSyN-Gen2_CVE-2026-39047.md) | CVE-2026-39047 - Epson 多功能打印机（尤其是 L14150 FL27PB，及相似型号） 远程代码执... | ⚪ 高危 | 1 |
 | [CVE-2026-39275](CVE-2026-39275-Securify-AI_CVE-2026-39275.md) | CVE-2026-39275 - Cockpit CMS 存储型跨站脚本（XSS） | ⚪ 高危 | 1 |
-| [CVE-2026-41940](CVE-2026-41940-Christian93111_CVE-2026-41940.md) | CVE-2026-41940 - cPanel & WHM 认证绕过/会话固定/CRLF注入 | ⚪ 严重 | 21 |
+| [CVE-2026-41940](CVE-2026-41940-Christian93111_CVE-2026-41940.md) | CVE-2026-41940 - cPanel & WHM 认证绕过/CRLF注入/会话伪造 | ⚪ 严重 | 21 |
 | [CVE-2026-41940](CVE-2026-41940-Jenderal92_CVE-2026-41940.md) | CVE-2026-41940 - cPanel/WHM 认证绕过 | ⚪ 高危 | 21 |
 | [CVE-2026-41940](CVE-2026-41940-MrOplus_CVE-2026-41940.md) | CVE-2024-XXXX - cPanel & WHM 认证绕过/会话伪造 | ⚪ 高危 | 21 |
-| [CVE-2026-41940](CVE-2026-41940-OhmGun_whmxploit---CVE-2026-41940.md) | CVE-2026-41940 - cPanel/WHM 认证绕过/CRLF注入/会话伪造 | ⚪ 严重 | 21 |
-| [CVE-2026-41940](CVE-2026-41940-Richflexpix_cpanel-pwn.md) | CVE-2026-41940 - cPanel/WHM CRLF注入/认证绕过/权限提升 | ⚪ 严重 | 21 |
+| [CVE-2026-41940](CVE-2026-41940-OhmGun_whmxploit---CVE-2026-41940.md) | CVE-2026-41940 - cPanel/WHM CRLF注入/认证绕过 | ⚪ 严重 | 21 |
+| [CVE-2026-41940](CVE-2026-41940-Richflexpix_cpanel-pwn.md) | CVE-2026-41940 - cPanel/WHM CRLF注入/认证绕过/权限提升 | ⚪ 高危 | 21 |
 | [CVE-2026-41940](CVE-2026-41940-Unfold-Security_CVE-2026-41940-Detection.md) | CVE-2026-41940 - cPanel & WHM 认证绕过/CRLF注入 | ⚪ 严重 | 21 |
-| [CVE-2026-41940](CVE-2026-41940-ZildanZ_CVE-2026-41940.md) | CVE-2026-41940 - 未明确产品（从POC看疑似某类Web管理面板/服务） 认证绕过 | ⚪ 高危 | 21 |
+| [CVE-2026-41940](CVE-2026-41940-ZildanZ_CVE-2026-41940.md) | CVE-2026-41940 - 未知产品（仅从POC可见为某Web管理/服务端组件） 认证绕过 | ⚪ 高危 | 21 |
 | [CVE-2026-41940](CVE-2026-41940-acuciureanu_cpanel2shell-honeypot.md) | CVE-2026-41940 - cPanel & WHM 认证绕过/CRLF注入/可能导致RCE | ⚪ 严重/高危 | 21 |
-| [CVE-2026-41940](CVE-2026-41940-anach-ai_CVE-2026-41940.md) | CVE-2026-41940 - cPanel/WHM cpsrvd 认证绕过/CRLF注入 | ⚪ 严重 | 21 |
-| [CVE-2026-41940](CVE-2026-41940-aquace_CVE-2026-41940-PoC.md) | CVE-2026-41940 - cPanel & WHM 认证绕过 | ⚪ 严重 | 21 |
-| [CVE-2026-41940](CVE-2026-41940-asdasddqwdq29-a11y_CVE-2026-41940.md) | CVE-2026-41940 - cPanel & WHM 认证绕过 | 🔴 Critical | 21 |
+| [CVE-2026-41940](CVE-2026-41940-anach-ai_CVE-2026-41940.md) | CVE-2026-41940 - cPanel/WHM（cpsrvd 组件） CRLF注入/认证绕过 | ⚪ 严重 | 21 |
+| [CVE-2026-41940](CVE-2026-41940-aquace_CVE-2026-41940-PoC.md) | CVE-2026-41940 - cPanel & WHM 身份验证绕过/权限提升 | ⚪ 严重 | 21 |
+| [CVE-2026-41940](CVE-2026-41940-asdasddqwdq29-a11y_CVE-2026-41940.md) | CVE-2026-41940 - cPanel & WHM 认证绕过/CRLF注入 | ⚪ 严重/Critical | 21 |
 | [CVE-2026-41940](CVE-2026-41940-bughunt4me_cpanelCVE-2026-41940.md) | CVE-2026-41940 - cPanel & WHM 认证绕过/会话文件CRLF注入 | ⚪ 严重/关键 | 21 |
-| [CVE-2026-41940](CVE-2026-41940-george1-adel_CVE-2026-41940_exploit.md) | CVE-2026-41940 - cPanel & WHM 认证绕过/CRLF注入 | ⚪ 严重 | 21 |
+| [CVE-2026-41940](CVE-2026-41940-george1-adel_CVE-2026-41940_exploit.md) | CVE-2026-41940 - cPanel & WHM 认证绕过/CRLF注入 | ⚪ 严重/关键 | 21 |
 | [CVE-2026-41940](CVE-2026-41940-itsismarcos_CVE-2026-41940.md) | CVE-2026-41940 - cPanel & WHM 认证绕过/CRLF注入/权限提升 | ⚪ 严重 | 21 |
 | [CVE-2026-41940](CVE-2026-41940-murrez_CVE-2026-41940.md) | CVE-2026-41940 - cPanel/WHM 认证绕过 | ⚪ 高危 | 21 |
 | [CVE-2026-41940](CVE-2026-41940-rfxn_cpanel-sessionscribe.md) | CVE-2026-41940 - cPanel & WHM 远程代码执行 | 🔴 Critical | 21 |
@@ -280,7 +281,7 @@
 | [CVE-2026-48907](CVE-2026-48907-xitexploiter96-dot_CVE-2026-48907-.md) | CVE-2026-48907 - JCE (Joomla Content Editor) 插件 RCE | 🔴 Critical | 15 |
 | [CVE-2026-48907](CVE-2026-48907-ywh-jfellus_CVE-2026-48907.md) | CVE-2026-48907 - Joomla Content Editor (JCE) 远程代码执行 | ⚪ 高危 | 15 |
 | [CVE-2026-48939](CVE-2026-48939-Polosss_By-Poloss..-..CVE-2026-48939.md) | CVE-2026-48939 - iCagenda（Joomla事件与日历组件） 远程代码执行 | 🔴 Critical | 1 |
-| [CVE-2026-49049](CVE-2026-49049-shinthink_CVE-2026-49049.md) | CVE-2026-49049 - Helix3 Joomla Plugin (JoomShaper) 任意文件写入/任意... | ⚪ 高危 | 1 |
+| [CVE-2026-49049](CVE-2026-49049-shinthink_CVE-2026-49049.md) | CVE-2026-49049 - Helix3 Joomla Plugin (JoomShaper) 未授权文件操作/任... | ⚪ 高危 | 1 |
 | [CVE-2026-49468](CVE-2026-49468-BiiTts_CVE-2026-49468-LiteLLM-Auth-Bypass.md) | CVE-2026-49468 - LiteLLM Proxy 认证绕过/授权绕过 | ⚪ 高危 | 1 |
 | [CVE-2026-49869](CVE-2026-49869-Ap0dexMe0_CVE-2026-49869.md) | CVE-2026-49869 - Kestra 认证绕过/RCE | ⚪ 严重 | 1 |
 | [CVE-2026-52217](CVE-2026-52217-teteco_CVE-2026-52217-VTEX-Checkout-CrossTenant-IDOR.md) | CVE-2026-52217 - VTEX Commerce Platform Checkout Service (ch... | ⚪ 高危 | 1 |
