@@ -1,6 +1,6 @@
 # 2026年 CVE漏洞列表
 
-> 📊 共收录 **332** 个CVE漏洞
+> 📊 共收录 **333** 个CVE漏洞
 
 ---
 
@@ -34,7 +34,7 @@
 | [CVE-2026-20841](CVE-2026-20841-dogukankurnaz_CVE-2026-20841-PoC.md) | CVE-2026-20841 - Windows Notepad App（Microsoft Store 版本） 命令注... | ⚪ 高危 | 11 |
 | [CVE-2026-20841](CVE-2026-20841-hackfaiz_CVE-2026-20841-PoC.md) | CVE-2026-20841 - Microsoft Windows Notepad 命令注入 | ⚪ 高危 | 11 |
 | [CVE-2026-20841](CVE-2026-20841-hamzamalik3461_CVE-2026-20841.md) | CVE-2026-20841 - Microsoft Windows 记事本 远程代码执行 (RCE) / 命令注入 | ⚪ 高 | 11 |
-| [CVE-2026-20841](CVE-2026-20841-patchpoint_CVE-2026-20841.md) | CVE-2026-20841 - Microsoft Windows Notepad 命令注入/RCE | ⚪ 高危 | 11 |
+| [CVE-2026-20841](CVE-2026-20841-patchpoint_CVE-2026-20841.md) | CVE-2026-20841 - Microsoft Windows Notepad 命令注入 | ⚪ 重要 | 11 |
 | [CVE-2026-20841](CVE-2026-20841-tangent65536_CVE-2026-20841.md) | CVE-2026-20841 - Windows Notepad RCE | ⚪ 高危 | 11 |
 | [CVE-2026-20896](CVE-2026-20896-rz1027_CVE-2026-20896.md) | CVE-2026-20896 - Gitea 官方 Docker 镜像 认证绕过/会话劫持 | ⚪ 高危 | 1 |
 | [CVE-2026-21440](CVE-2026-21440-k0nnect_cve-2026-21440-writeup.md) | CVE-2026-21440 - AdonisJS (@adonisjs/bodyparser) 路径穿越 (Path ... | 🔴 CRITICAL | 2 |
@@ -145,7 +145,7 @@
 | [CVE-2026-24061](CVE-2026-24061-obrunolima1910_obrunolima1910.github.io.md) | CVE-2026-24061 - GNU InetUtils telnetd 远程认证绕过 / 参数注入 (Remote... | ⚪ 严重 (Critical) | 47 |
 | [CVE-2026-24061](CVE-2026-24061-przemytn_CVE-2026-24061.md) | CVE-2026-24061 - GNU InetUtils telnetd 认证绕过/参数注入 | ⚪ 关键/严重 | 47 |
 | [CVE-2026-24061](CVE-2026-24061-scumfrog_cve-2026-24061.md) | CVE-2026-24061 - GNU InetUtils telnetd 认证绕过/参数注入 | 🔴 Critical | 47 |
-| [CVE-2026-24061](CVE-2026-24061-setuju_telnetd.md) | CVE-2026-24061 - GNU InetUtils telnetd 认证绕过/参数注入 | ⚪ 严重/关键级 | 47 |
+| [CVE-2026-24061](CVE-2026-24061-setuju_telnetd.md) | CVE-2026-24061 - GNU InetUtils 认证绕过 | ⚪ 关键级 | 47 |
 | [CVE-2026-24061](CVE-2026-24061-sh4den_CVE-2026-24061.md) | CVE-2026-24061 - GNU inetutils-telnetd RCE | 🔴 Critical | 47 |
 | [CVE-2026-24061](CVE-2026-24061-tc4dy_CVE-2026-24061-PoC-Exploit.md) | CVE-2026-24061 - GNU inetutils-telnetd 认证绕过/参数注入 | ⚪ 严重/关键 | 47 |
 | [CVE-2026-24061](CVE-2026-24061-tiborscholtz_CVE-2026-24061.md) | CVE-2026-24061 - GNU InetUtils telnetd 认证绕过/参数注入 | ⚪ 严重 | 47 |
@@ -173,28 +173,29 @@
 | [CVE-2026-28867](CVE-2026-28867-speedyfriend433_CVE-2026-28867-PoC.md) | CVE-2026-28867 - macOS Kernel TCP/IP sysctl接口 信息泄露 | ⚪ 高危 | 1 |
 | [CVE-2026-28995](CVE-2026-28995-Robertmak2014-sudow_CVE-2026-28995.md) | CVE-2026-28995 - iOS App Intents 路径穿越 | ⚪ 高危 | 1 |
 | [CVE-2026-30862](CVE-2026-30862-drkim-dev_CVE-2026-30862.md) | CVE-2026-30862 - Appsmith 存储型跨站脚本(XSS), 权限提升, 跨站请求伪造(CSRF) | ⚪ 严重 (Critical) | 1 |
-| [CVE-2026-31431](CVE-2026-31431-1neptune_CopyFail.md) | CVE-2026-31431 - Linux内核 本地权限提升 (LPE) | ⚪ 高危 | 22 |
-| [CVE-2026-31431](CVE-2026-31431-4n4s4zi_copyfail-alpine.md) | CVE-2026-31431 - Linux内核 crypto 子系统 AF_ALG algif_aead 本地权限提升... | ⚪ 严重 | 22 |
-| [CVE-2026-31431](CVE-2026-31431-Hunt-Benito_copy-fail-cve-2026-31431-linux-kernel-page-cache-lpe.md) | CVE-2026-31431 - Linux内核 本地权限提升 | ⚪ 高危 | 22 |
-| [CVE-2026-31431](CVE-2026-31431-Iamliuxiaozhen_copy_fail.md) | CVE-2026-31431 - Linux kernel（algif_aead/AF_ALG 加密接口） 本地权限提升... | ⚪ 严重 | 22 |
-| [CVE-2026-31431](CVE-2026-31431-John-Popovici_CVE-2026-31431-CopyFail-Linux-PrivEsc.md) | CVE-2026-31431 - Linux内核 crypto 子系统 algif_aead（AF_ALG） 本地权限提... | ⚪ 严重 | 22 |
-| [CVE-2026-31431](CVE-2026-31431-JuanBindez_CVE-2026-31431.md) | CVE-2026-31431 - Linux内核 crypto 子系统中的 algif_aead（AF_ALG）接口 本... | ⚪ 严重 | 22 |
-| [CVE-2026-31431](CVE-2026-31431-K3ysTr0K3R_CVE-2026-31431-EXPLOIT.md) | CVE-2026-31431 - Linux kernel AF_ALG/algif_aead 本地权限提升 | ⚪ 严重 | 22 |
-| [CVE-2026-31431](CVE-2026-31431-Liverwortenuresis371_copyfail-rs.md) | CVE-2026-31431 - Linux内核 crypto 子系统 AF_ALG/algif_aead 本地权限提升... | ⚪ 严重 | 22 |
-| [CVE-2026-31431](CVE-2026-31431-Lutfifakee-Project_CVE-2026-31431.md) | CVE-2026-31431 - Linux内核 本地权限提升 | ⚪ 高危 | 22 |
-| [CVE-2026-31431](CVE-2026-31431-SugiB3o_CVE-2026-31431.md) | CVE-2026-31431 - Linux内核crypto子系统AF_ALG接口（algif_aead / users... | ⚪ 高危 | 22 |
-| [CVE-2026-31431](CVE-2026-31431-SystemVll_CVE-2026-31431-copyfail-aarch64.md) | CVE-2026-31431 - Linux kernel 本地权限提升 | ⚪ 高危/严重 | 22 |
-| [CVE-2026-31431](CVE-2026-31431-aexdyhaxor_CVE-2026-31431-copy-fail.md) | CVE-2026-31431 - Linux内核 crypto 子系统 AF_ALG（algif_aead / user... | ⚪ 严重 | 22 |
-| [CVE-2026-31431](CVE-2026-31431-kinryulabs_rootpacket-cve-2026-31431.md) | CVE-2026-31431 - Linux kernel（algif_aead / AF_ALG 子系统） 本地权限提... | ⚪ 严重/高危（可导致本地提权、容器逃逸与主机接管） | 22 |
-| [CVE-2026-31431](CVE-2026-31431-mauricioportela_CVE-2026-31431-Analysis.md) | CVE-2026-31431 - Linux 内核 crypto 子系统 AF_ALG/algif_aead 本地权限提... | ⚪ 严重 | 22 |
-| [CVE-2026-31431](CVE-2026-31431-monobrau_copyfailscan.md) | CVE-2026-31431 - Linux Kernel（algif_aead / AF_ALG 接口） 本地权限提升... | ⚪ 高危 | 22 |
-| [CVE-2026-31431](CVE-2026-31431-ryan2929_CVE-2026-31431.md) | CVE-2026-31431 - Linux内核crypto子系统中的AF_ALG/algif_aead接口 本地权限提... | ⚪ 严重 | 22 |
-| [CVE-2026-31431](CVE-2026-31431-songzzzz_CVE-2026-31431.md) | CVE-2026-31431 - Linux 内核 algif_aead/AF_ALG 加密接口 本地权限提升 | ⚪ 高危 | 22 |
-| [CVE-2026-31431](CVE-2026-31431-suominen_CVE-2026-31431.md) | CVE-2026-31431 - Linux kernel（AF_ALG/algif_aead 加密接口） 本地权限提升... | ⚪ 高危 | 22 |
-| [CVE-2026-31431](CVE-2026-31431-t1ckprivate_CVE-2026-31431-Copy-Fail.md) | CVE-2026-31431 - Linux内核 本地权限提升 | ⚪ 高 | 22 |
-| [CVE-2026-31431](CVE-2026-31431-tematemaru_CVE-2026-31431-simple-test.md) | CVE-2026-31431 - Linux Kernel（尤其是crypto子系统AF_ALG/algif_aead相... | ⚪ 严重 | 22 |
-| [CVE-2026-31431](CVE-2026-31431-zKaaanon_ProyectoFinalSO.md) | CVE-2026-31431 - Linux Kernel 本地权限提升 | ⚪ 严重 | 22 |
-| [CVE-2026-31431](CVE-2026-31431-zs1n_copy-fail-CVE-2026-31431.md) | CVE-2026-31431 - Linux内核 crypto 子系统 AF_ALG（algif_aead / user... | ⚪ 严重 | 22 |
+| [CVE-2026-31431](CVE-2026-31431-1neptune_CopyFail.md) | CVE-2026-31431 - Linux内核 本地权限提升 (LPE) | ⚪ 高危 | 23 |
+| [CVE-2026-31431](CVE-2026-31431-4n4s4zi_copyfail-alpine.md) | CVE-2026-31431 - Linux内核 crypto 子系统 AF_ALG algif_aead 本地权限提升... | ⚪ 严重 | 23 |
+| [CVE-2026-31431](CVE-2026-31431-Hunt-Benito_copy-fail-cve-2026-31431-linux-kernel-page-cache-lpe.md) | CVE-2026-31431 - Linux内核 本地权限提升 | ⚪ 高危 | 23 |
+| [CVE-2026-31431](CVE-2026-31431-Iamliuxiaozhen_copy_fail.md) | CVE-2026-31431 - Linux kernel（algif_aead/AF_ALG 加密接口） 本地权限提升... | ⚪ 严重 | 23 |
+| [CVE-2026-31431](CVE-2026-31431-John-Popovici_CVE-2026-31431-CopyFail-Linux-PrivEsc.md) | CVE-2026-31431 - Linux内核 crypto 子系统 algif_aead（AF_ALG） 本地权限提... | ⚪ 严重 | 23 |
+| [CVE-2026-31431](CVE-2026-31431-JuanBindez_CVE-2026-31431.md) | CVE-2026-31431 - Linux内核 crypto 子系统中的 algif_aead（AF_ALG）接口 本... | ⚪ 严重 | 23 |
+| [CVE-2026-31431](CVE-2026-31431-K3ysTr0K3R_CVE-2026-31431-EXPLOIT.md) | CVE-2026-31431 - Linux kernel AF_ALG/algif_aead 本地权限提升 | ⚪ 严重 | 23 |
+| [CVE-2026-31431](CVE-2026-31431-Liverwortenuresis371_copyfail-rs.md) | CVE-2026-31431 - Linux内核 crypto 子系统 AF_ALG/algif_aead 本地权限提升... | ⚪ 严重 | 23 |
+| [CVE-2026-31431](CVE-2026-31431-Lutfifakee-Project_CVE-2026-31431.md) | CVE-2026-31431 - Linux内核 本地权限提升 | ⚪ 高危 | 23 |
+| [CVE-2026-31431](CVE-2026-31431-SugiB3o_CVE-2026-31431.md) | CVE-2026-31431 - Linux内核crypto子系统AF_ALG接口（algif_aead / users... | ⚪ 高危 | 23 |
+| [CVE-2026-31431](CVE-2026-31431-SystemVll_CVE-2026-31431-copyfail-aarch64.md) | CVE-2026-31431 - Linux kernel 本地权限提升 | ⚪ 高危/严重 | 23 |
+| [CVE-2026-31431](CVE-2026-31431-aexdyhaxor_CVE-2026-31431-copy-fail.md) | CVE-2026-31431 - Linux内核 crypto 子系统 AF_ALG（algif_aead / user... | ⚪ 严重 | 23 |
+| [CVE-2026-31431](CVE-2026-31431-jihwan77_Linux-Kernel-Copy-Fail-CVE-2026-31431-.md) | CVE-2026-31431 - Linux内核 本地提权 | ⚪ 高危 | 23 |
+| [CVE-2026-31431](CVE-2026-31431-kinryulabs_rootpacket-cve-2026-31431.md) | CVE-2026-31431 - Linux kernel（algif_aead / AF_ALG 子系统） 本地权限提... | ⚪ 严重/高危（可导致本地提权、容器逃逸与主机接管） | 23 |
+| [CVE-2026-31431](CVE-2026-31431-mauricioportela_CVE-2026-31431-Analysis.md) | CVE-2026-31431 - Linux 内核 crypto 子系统 AF_ALG/algif_aead 本地权限提... | ⚪ 严重 | 23 |
+| [CVE-2026-31431](CVE-2026-31431-monobrau_copyfailscan.md) | CVE-2026-31431 - Linux Kernel（algif_aead / AF_ALG 接口） 本地权限提升... | ⚪ 高危 | 23 |
+| [CVE-2026-31431](CVE-2026-31431-ryan2929_CVE-2026-31431.md) | CVE-2026-31431 - Linux内核crypto子系统中的AF_ALG/algif_aead接口 本地权限提... | ⚪ 严重 | 23 |
+| [CVE-2026-31431](CVE-2026-31431-songzzzz_CVE-2026-31431.md) | CVE-2026-31431 - Linux 内核 algif_aead/AF_ALG 加密接口 本地权限提升 | ⚪ 高危 | 23 |
+| [CVE-2026-31431](CVE-2026-31431-suominen_CVE-2026-31431.md) | CVE-2026-31431 - Linux kernel（AF_ALG/algif_aead 加密接口） 本地权限提升... | ⚪ 高危 | 23 |
+| [CVE-2026-31431](CVE-2026-31431-t1ckprivate_CVE-2026-31431-Copy-Fail.md) | CVE-2026-31431 - Linux内核 本地权限提升 | ⚪ 高 | 23 |
+| [CVE-2026-31431](CVE-2026-31431-tematemaru_CVE-2026-31431-simple-test.md) | CVE-2026-31431 - Linux Kernel（尤其是crypto子系统AF_ALG/algif_aead相... | ⚪ 严重 | 23 |
+| [CVE-2026-31431](CVE-2026-31431-zKaaanon_ProyectoFinalSO.md) | CVE-2026-31431 - Linux Kernel 本地权限提升 | ⚪ 严重 | 23 |
+| [CVE-2026-31431](CVE-2026-31431-zs1n_copy-fail-CVE-2026-31431.md) | CVE-2026-31431 - Linux内核 crypto 子系统 AF_ALG（algif_aead / user... | ⚪ 严重 | 23 |
 | [CVE-2026-31694](CVE-2026-31694-0xCyberstan_CVE-2026-31694-POC.md) | CVE-2026-31694 - Linux kernel FUSE 子系统 越界写 | ⚪ 高危 | 1 |
 | [CVE-2026-31802](CVE-2026-31802-Jvr2022_CVE-2026-31802.md) | CVE-2026-31802 - npm tar（node-tar） 路径穿越/任意文件覆盖 | ⚪ 高危 | 2 |
 | [CVE-2026-31802](CVE-2026-31802-ridhinva_npm-tar-path-traversal-scanner.md) | CVE-2026-31802 - npm tar 路径穿越/任意文件写入 | ⚪ 高危 | 2 |
