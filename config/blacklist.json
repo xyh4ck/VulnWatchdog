@@ -1,7 +1,7 @@
 {
   "$schema": "blacklist-schema.json",
   "version": "1.0.0",
-  "last_updated": "2026-07-06T15:14:23.692661Z",
+  "last_updated": "2026-07-06T18:23:28.586162Z",
   "description": "VulnWatchdog 黑名单配置文件 - 用于过滤低质量POC和恶意仓库",
   "settings": {
     "auto_blacklist_enabled": true,
@@ -4894,6 +4894,256 @@
         "last_quality_score": 9,
         "last_poisoning_risk": 80,
         "notes": "自动拉黑 - 失败原因: 投毒风险过高: 80%, 有效性分析过短: 400 字符 (最少500字符)"
+      },
+      {
+        "username": "asdasddqwdq29-a11y",
+        "reason": "投毒风险持续过高(最近风险: 80%)",
+        "added_date": "2026-07-06",
+        "added_by": "auto",
+        "fail_count": 1,
+        "last_quality_score": 9,
+        "last_poisoning_risk": 80,
+        "notes": "自动拉黑 - 失败原因: 投毒风险过高: 80%"
+      },
+      {
+        "username": "J1nKsC",
+        "reason": "投毒风险持续过高(最近风险: 80%)",
+        "added_date": "2026-07-06",
+        "added_by": "auto",
+        "fail_count": 1,
+        "last_quality_score": 7,
+        "last_poisoning_risk": 80,
+        "notes": "自动拉黑 - 失败原因: 投毒风险过高: 80%, 有效性分析过短: 429 字符 (最少500字符)"
+      },
+      {
+        "username": "veronimo669",
+        "reason": "投毒风险持续过高(最近风险: 80%)",
+        "added_date": "2026-07-06",
+        "added_by": "auto",
+        "fail_count": 1,
+        "last_quality_score": 9,
+        "last_poisoning_risk": 80,
+        "notes": "自动拉黑 - 失败原因: 投毒风险过高: 80%"
+      },
+      {
+        "username": "xiaoqiesec0x1",
+        "reason": "投毒风险持续过高(最近风险: 90%)",
+        "added_date": "2026-07-06",
+        "added_by": "auto",
+        "fail_count": 1,
+        "last_quality_score": 8,
+        "last_poisoning_risk": 90,
+        "notes": "自动拉黑 - 失败原因: 投毒风险过高: 90%, 有效性分析过短: 424 字符 (最少500字符)"
+      },
+      {
+        "username": "snyk-labs",
+        "reason": "投毒风险持续过高(最近风险: 80%)",
+        "added_date": "2026-07-06",
+        "added_by": "auto",
+        "fail_count": 1,
+        "last_quality_score": 8,
+        "last_poisoning_risk": 80,
+        "notes": "自动拉黑 - 失败原因: 投毒风险过高: 80%, 有效性分析过短: 490 字符 (最少500字符)"
+      },
+      {
+        "username": "0xr2r",
+        "reason": "投毒风险持续过高(最近风险: 80%)",
+        "added_date": "2026-07-06",
+        "added_by": "auto",
+        "fail_count": 1,
+        "last_quality_score": 8,
+        "last_poisoning_risk": 80,
+        "notes": "自动拉黑 - 失败原因: 投毒风险过高: 80%, 有效性分析过短: 376 字符 (最少500字符)"
+      },
+      {
+        "username": "m0d0ri205",
+        "reason": "投毒风险持续过高(最近风险: 80%)",
+        "added_date": "2026-07-06",
+        "added_by": "auto",
+        "fail_count": 1,
+        "last_quality_score": 7,
+        "last_poisoning_risk": 80,
+        "notes": "自动拉黑 - 失败原因: 投毒风险过高: 80%"
+      },
+      {
+        "username": "pS3ud0RAnD0m",
+        "reason": "投毒风险持续过高(最近风险: 80%)",
+        "added_date": "2026-07-06",
+        "added_by": "auto",
+        "fail_count": 1,
+        "last_quality_score": 8,
+        "last_poisoning_risk": 80,
+        "notes": "自动拉黑 - 失败原因: 投毒风险过高: 80%"
+      },
+      {
+        "username": "Bhavyakcwestern",
+        "reason": "投毒风险持续过高(最近风险: 90%)",
+        "added_date": "2026-07-06",
+        "added_by": "auto",
+        "fail_count": 1,
+        "last_quality_score": 9,
+        "last_poisoning_risk": 90,
+        "notes": "自动拉黑 - 失败原因: 投毒风险过高: 90%"
+      },
+      {
+        "username": "PenguinCabinet",
+        "reason": "投毒风险持续过高(最近风险: 85%)",
+        "added_date": "2026-07-06",
+        "added_by": "auto",
+        "fail_count": 1,
+        "last_quality_score": 8,
+        "last_poisoning_risk": 85,
+        "notes": "自动拉黑 - 失败原因: 投毒风险过高: 85%, 有效性分析过短: 475 字符 (最少500字符)"
+      },
+      {
+        "username": "VVeakee",
+        "reason": "投毒风险持续过高(最近风险: 85%)",
+        "added_date": "2026-07-06",
+        "added_by": "auto",
+        "fail_count": 1,
+        "last_quality_score": 8,
+        "last_poisoning_risk": 85,
+        "notes": "自动拉黑 - 失败原因: 投毒风险过高: 85%, 有效性分析过短: 493 字符 (最少500字符)"
+      },
+      {
+        "username": "elamani-drawing",
+        "reason": "投毒风险持续过高(最近风险: 80%)",
+        "added_date": "2026-07-06",
+        "added_by": "auto",
+        "fail_count": 1,
+        "last_quality_score": 8,
+        "last_poisoning_risk": 80,
+        "notes": "自动拉黑 - 失败原因: 投毒风险过高: 80%, 有效性分析过短: 389 字符 (最少500字符)"
+      },
+      {
+        "username": "kabiri-labs",
+        "reason": "投毒风险持续过高(最近风险: 80%)",
+        "added_date": "2026-07-06",
+        "added_by": "auto",
+        "fail_count": 1,
+        "last_quality_score": 8,
+        "last_poisoning_risk": 80,
+        "notes": "自动拉黑 - 失败原因: 投毒风险过高: 80%, 有效性分析过短: 441 字符 (最少500字符)"
+      },
+      {
+        "username": "Masamuneee",
+        "reason": "投毒风险持续过高(最近风险: 90%)",
+        "added_date": "2026-07-06",
+        "added_by": "auto",
+        "fail_count": 1,
+        "last_quality_score": 8,
+        "last_poisoning_risk": 90,
+        "notes": "自动拉黑 - 失败原因: 投毒风险过高: 90%"
+      },
+      {
+        "username": "UnHackerEnCapital",
+        "reason": "投毒风险持续过高(最近风险: 80%)",
+        "added_date": "2026-07-06",
+        "added_by": "auto",
+        "fail_count": 1,
+        "last_quality_score": 7,
+        "last_poisoning_risk": 80,
+        "notes": "自动拉黑 - 失败原因: 投毒风险过高: 80%, 有效性分析过短: 345 字符 (最少500字符)"
+      },
+      {
+        "username": "Zombie-Kaiser",
+        "reason": "投毒风险持续过高(最近风险: 85%)",
+        "added_date": "2026-07-06",
+        "added_by": "auto",
+        "fail_count": 1,
+        "last_quality_score": 8,
+        "last_poisoning_risk": 85,
+        "notes": "自动拉黑 - 失败原因: 投毒风险过高: 85%, 有效性分析过短: 466 字符 (最少500字符)"
+      },
+      {
+        "username": "LOURC0D3",
+        "reason": "投毒风险持续过高(最近风险: 90%)",
+        "added_date": "2026-07-06",
+        "added_by": "auto",
+        "fail_count": 1,
+        "last_quality_score": 9,
+        "last_poisoning_risk": 90,
+        "notes": "自动拉黑 - 失败原因: 投毒风险过高: 90%, 有效性分析过短: 499 字符 (最少500字符)"
+      },
+      {
+        "username": "avalahEE",
+        "reason": "投毒风险持续过高(最近风险: 85%)",
+        "added_date": "2026-07-06",
+        "added_by": "auto",
+        "fail_count": 1,
+        "last_quality_score": 8,
+        "last_poisoning_risk": 85,
+        "notes": "自动拉黑 - 失败原因: 投毒风险过高: 85%, 有效性分析过短: 405 字符 (最少500字符)"
+      },
+      {
+        "username": "spaceraccoon",
+        "reason": "投毒风险持续过高(最近风险: 80%)",
+        "added_date": "2026-07-06",
+        "added_by": "auto",
+        "fail_count": 1,
+        "last_quality_score": 8,
+        "last_poisoning_risk": 80,
+        "notes": "自动拉黑 - 失败原因: 投毒风险过高: 80%, 有效性分析过短: 445 字符 (最少500字符)"
+      },
+      {
+        "username": "s4vvysec",
+        "reason": "投毒风险持续过高(最近风险: 85%)",
+        "added_date": "2026-07-06",
+        "added_by": "auto",
+        "fail_count": 1,
+        "last_quality_score": 8,
+        "last_poisoning_risk": 85,
+        "notes": "自动拉黑 - 失败原因: 投毒风险过高: 85%"
+      },
+      {
+        "username": "portbuster1337",
+        "reason": "投毒风险持续过高(最近风险: 80%)",
+        "added_date": "2026-07-06",
+        "added_by": "auto",
+        "fail_count": 1,
+        "last_quality_score": 9,
+        "last_poisoning_risk": 80,
+        "notes": "自动拉黑 - 失败原因: 投毒风险过高: 80%, 有效性分析过短: 370 字符 (最少500字符)"
+      },
+      {
+        "username": "xsuf",
+        "reason": "投毒风险持续过高(最近风险: 75%)",
+        "added_date": "2026-07-06",
+        "added_by": "auto",
+        "fail_count": 1,
+        "last_quality_score": 8,
+        "last_poisoning_risk": 75,
+        "notes": "自动拉黑 - 失败原因: 投毒风险过高: 75%, 有效性分析过短: 430 字符 (最少500字符)"
+      },
+      {
+        "username": "sahar042",
+        "reason": "投毒风险持续过高(最近风险: 90%)",
+        "added_date": "2026-07-06",
+        "added_by": "auto",
+        "fail_count": 1,
+        "last_quality_score": 9,
+        "last_poisoning_risk": 90,
+        "notes": "自动拉黑 - 失败原因: 投毒风险过高: 90%, 有效性分析过短: 485 字符 (最少500字符)"
+      },
+      {
+        "username": "waheeb71",
+        "reason": "投毒风险持续过高(最近风险: 90%)",
+        "added_date": "2026-07-06",
+        "added_by": "auto",
+        "fail_count": 1,
+        "last_quality_score": 9,
+        "last_poisoning_risk": 90,
+        "notes": "自动拉黑 - 失败原因: 投毒风险过高: 90%"
+      },
+      {
+        "username": "harygovind",
+        "reason": "投毒风险持续过高(最近风险: 80%)",
+        "added_date": "2026-07-06",
+        "added_by": "auto",
+        "fail_count": 1,
+        "last_quality_score": 9,
+        "last_poisoning_risk": 80,
+        "notes": "自动拉黑 - 失败原因: 投毒风险过高: 80%"
       }
     ],
     "repositories": [
@@ -4929,11 +5179,11 @@
     "repositories": []
   },
   "statistics": {
-    "total_blocked": 5371,
-    "blocked_by_author": 5370,
+    "total_blocked": 5545,
+    "blocked_by_author": 5544,
     "blocked_by_repository": 1,
     "blocked_by_cve": 0,
-    "auto_blacklisted_authors": 487,
+    "auto_blacklisted_authors": 512,
     "auto_blacklisted_repositories": 0
   }
 }
