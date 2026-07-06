@@ -2,7 +2,7 @@ name: CVE Monitor
 
 on:
   schedule:
-    - cron: '0 * * * *'  # Run every hour
+    - cron: '0 */4 * * *'  # Run every hour
   workflow_dispatch:  # Allow manual trigger
 
 # 添加这个权限块
