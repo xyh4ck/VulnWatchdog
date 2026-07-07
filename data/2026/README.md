@@ -1,6 +1,6 @@
 # 2026年 CVE漏洞列表
 
-> 📊 共收录 **334** 个CVE漏洞
+> 📊 共收录 **335** 个CVE漏洞
 
 ---
 
@@ -29,13 +29,13 @@
 | [CVE-2026-20841](CVE-2026-20841-BTtea_CVE-2026-20841-PoC.md) | CVE-2026-20841 - Windows Notepad（新版记事本） 命令注入/RCE | ⚪ 高危 | 11 |
 | [CVE-2026-20841](CVE-2026-20841-EleniChristopoulou_PoC-CVE-2026-20841.md) | CVE-2026-20841 - Windows Notepad 远程代码执行/RCE | ⚪ 高危 | 11 |
 | [CVE-2026-20841](CVE-2026-20841-RajaUzairAbdullah_CVE-2026-20841.md) | CVE-2026-20841 - Windows Notepad 远程代码执行 | ⚪ 高危 | 11 |
-| [CVE-2026-20841](CVE-2026-20841-SecureWithUmer_CVE-2026-20841.md) | CVE-2026-20841 - Windows Notepad RCE | ⚪ 重要 | 11 |
+| [CVE-2026-20841](CVE-2026-20841-SecureWithUmer_CVE-2026-20841.md) | CVE-2026-20841 - Windows Notepad 远程代码执行 | ⚪ 中等危害 | 11 |
 | [CVE-2026-20841](CVE-2026-20841-atiilla_CVE-2026-20841.md) | CVE-2026-20841 - Windows Notepad 远程代码执行 | ⚪ 高危 | 11 |
 | [CVE-2026-20841](CVE-2026-20841-dogukankurnaz_CVE-2026-20841-PoC.md) | CVE-2026-20841 - Windows Notepad App（Microsoft Store 版本） 命令注... | ⚪ 高危 | 11 |
 | [CVE-2026-20841](CVE-2026-20841-hackfaiz_CVE-2026-20841-PoC.md) | CVE-2026-20841 - Microsoft Windows Notepad 命令注入 | ⚪ 高危 | 11 |
 | [CVE-2026-20841](CVE-2026-20841-hamzamalik3461_CVE-2026-20841.md) | CVE-2026-20841 - Microsoft Windows 记事本 远程代码执行 (RCE) / 命令注入 | ⚪ 高 | 11 |
 | [CVE-2026-20841](CVE-2026-20841-patchpoint_CVE-2026-20841.md) | CVE-2026-20841 - Microsoft Notepad 命令注入 | ⚪ 高 | 11 |
-| [CVE-2026-20841](CVE-2026-20841-tangent65536_CVE-2026-20841.md) | CVE-2026-20841 - Windows Notepad RCE | ⚪ 高 | 11 |
+| [CVE-2026-20841](CVE-2026-20841-tangent65536_CVE-2026-20841.md) | CVE-2026-20841 - Windows Notepad 远程代码执行(RCE) | ⚪ 高 | 11 |
 | [CVE-2026-20896](CVE-2026-20896-rz1027_CVE-2026-20896.md) | CVE-2026-20896 - Gitea 官方 Docker 镜像 认证绕过/会话劫持 | ⚪ 高危 | 1 |
 | [CVE-2026-21440](CVE-2026-21440-k0nnect_cve-2026-21440-writeup.md) | CVE-2026-21440 - AdonisJS (@adonisjs/bodyparser) 路径穿越 (Path ... | 🔴 CRITICAL | 2 |
 | [CVE-2026-21440](CVE-2026-21440-you-ssef9_CVE-2026-21440.md) | CVE-2026-21440 - AdonisJS BodyParser 路径穿越/任意文件写入 | ⚪ 高危 | 2 |
@@ -285,6 +285,7 @@
 | [CVE-2026-46331](CVE-2026-46331-sgkdev_packet_edit_meme.md) | CVE-2026-46331 - Linux Kernel net/sched act_pedit 本地权限提升 | ⚪ 高危 | 4 |
 | [CVE-2026-46490](CVE-2026-46490-BiiTts_CVE-2026-46490-samlify-SAML-Attribute-Injection.md) | CVE-2026-46490 - SAML登录响应生成组件 XML注入/属性篡改 | ⚪ 高危 | 1 |
 | [CVE-2026-48558](CVE-2026-48558-J4ck3LSyN-Gen2_CVE-2026-48558.md) | CVE-2026-48558 - SimpleHelp 认证绕过/身份验证缺失 | 🔴 Critical | 1 |
+| [CVE-2026-48611](CVE-2026-48611-wanmywan_CVE-2026-48611-phpBB.md) | CVE-2026-48611 - phpBB 绕过认证 | ⚪ 高危 | 1 |
 | [CVE-2026-48907](CVE-2026-48907-0xgh057r3c0n_CVE-2026-48907.md) | CVE-2026-48907 - Joomla Content Editor (JCE) 未授权远程代码执行 | ⚪ 严重/关键 | 15 |
 | [CVE-2026-48907](CVE-2026-48907-87achrafg-stack_CVE-2026-48907.md) | CVE-2026-48907 - Joomla JCE插件 远程代码执行 | ⚪ 高危 | 15 |
 | [CVE-2026-48907](CVE-2026-48907-Almavj_Joomla_CVE_2026_48907.md) | CVE-2026-48907 - Joomla! JCE Editor RCE | ⚪ 高危 | 15 |
