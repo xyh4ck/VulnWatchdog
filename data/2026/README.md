@@ -1,6 +1,6 @@
 # 2026年 CVE漏洞列表
 
-> 📊 共收录 **333** 个CVE漏洞
+> 📊 共收录 **334** 个CVE漏洞
 
 ---
 
@@ -221,6 +221,7 @@
 | [CVE-2026-38751](CVE-2026-38751-hackthem_OpenSTAManager_RCE_Exploit-CVE-2026-38751-.md) | CVE-2026-38751 - OpenSTAManager RCE | ⚪ 高危 | 3 |
 | [CVE-2026-39047](CVE-2026-39047-J4ck3LSyN-Gen2_CVE-2026-39047.md) | CVE-2026-39047 - Epson 多功能打印机（重点为 L14150，固件 FL27PB，及可能相近型号） ... | ⚪ 高危 | 1 |
 | [CVE-2026-39275](CVE-2026-39275-Securify-AI_CVE-2026-39275.md) | CVE-2026-39275 - Cockpit CMS 存储型跨站脚本（XSS） | ⚪ 高危 | 1 |
+| [CVE-2026-39492](CVE-2026-39492-shinthink_CVE-2026-39492.md) | CVE-2026-39492 - WP Maps插件 SQL注入 | ⚪ 危害等级：严重 | 1 |
 | [CVE-2026-41940](CVE-2026-41940-Christian93111_CVE-2026-41940.md) | CVE-2026-41940 - cPanel & WHM 认证绕过/CRLF注入/会话伪造 | ⚪ 高危 | 21 |
 | [CVE-2026-41940](CVE-2026-41940-Jenderal92_CVE-2026-41940.md) | CVE-2026-41940 - cPanel/WHM 认证绕过 | ⚪ 高危 | 21 |
 | [CVE-2026-41940](CVE-2026-41940-MrOplus_CVE-2026-41940.md) | CVE-2024-XXXX - cPanel & WHM 认证绕过/会话伪造 | ⚪ 高危 | 21 |
