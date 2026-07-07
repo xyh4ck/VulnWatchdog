@@ -35,7 +35,7 @@
 | [CVE-2026-20841](CVE-2026-20841-hackfaiz_CVE-2026-20841-PoC.md) | CVE-2026-20841 - Microsoft Windows Notepad 命令注入 | ⚪ 高危 | 11 |
 | [CVE-2026-20841](CVE-2026-20841-hamzamalik3461_CVE-2026-20841.md) | CVE-2026-20841 - Microsoft Windows 记事本 远程代码执行 (RCE) / 命令注入 | ⚪ 高 | 11 |
 | [CVE-2026-20841](CVE-2026-20841-patchpoint_CVE-2026-20841.md) | CVE-2026-20841 - Microsoft Notepad 命令注入 | ⚪ 高 | 11 |
-| [CVE-2026-20841](CVE-2026-20841-tangent65536_CVE-2026-20841.md) | CVE-2026-20841 - Windows记事本 远程代码执行 | ⚪ 重要 | 11 |
+| [CVE-2026-20841](CVE-2026-20841-tangent65536_CVE-2026-20841.md) | CVE-2026-20841 - Windows Notepad RCE | ⚪ 高 | 11 |
 | [CVE-2026-20896](CVE-2026-20896-rz1027_CVE-2026-20896.md) | CVE-2026-20896 - Gitea 官方 Docker 镜像 认证绕过/会话劫持 | ⚪ 高危 | 1 |
 | [CVE-2026-21440](CVE-2026-21440-k0nnect_cve-2026-21440-writeup.md) | CVE-2026-21440 - AdonisJS (@adonisjs/bodyparser) 路径穿越 (Path ... | 🔴 CRITICAL | 2 |
 | [CVE-2026-21440](CVE-2026-21440-you-ssef9_CVE-2026-21440.md) | CVE-2026-21440 - AdonisJS BodyParser 路径穿越/任意文件写入 | ⚪ 高危 | 2 |
@@ -194,7 +194,7 @@
 | [CVE-2026-31431](CVE-2026-31431-suominen_CVE-2026-31431.md) | CVE-2026-31431 - Linux kernel（AF_ALG/algif_aead 加密接口） 本地权限提升... | ⚪ 高危 | 23 |
 | [CVE-2026-31431](CVE-2026-31431-t1ckprivate_CVE-2026-31431-Copy-Fail.md) | CVE-2026-31431 - Linux内核 本地权限提升 | ⚪ 高 | 23 |
 | [CVE-2026-31431](CVE-2026-31431-tematemaru_CVE-2026-31431-simple-test.md) | CVE-2026-31431 - Linux Kernel（尤其是crypto子系统AF_ALG/algif_aead相... | ⚪ 严重 | 23 |
-| [CVE-2026-31431](CVE-2026-31431-zKaaanon_ProyectoFinalSO.md) | CVE-2026-31431 - Linux内核 本地权限提升 | ⚪ 高 | 23 |
+| [CVE-2026-31431](CVE-2026-31431-zKaaanon_ProyectoFinalSO.md) | CVE-2026-31431 - Linux内核 本地提权 | ⚪ 高危 | 23 |
 | [CVE-2026-31431](CVE-2026-31431-zs1n_copy-fail-CVE-2026-31431.md) | CVE-2026-31431 - Linux内核 crypto 子系统 AF_ALG（algif_aead / user... | ⚪ 严重 | 23 |
 | [CVE-2026-31694](CVE-2026-31694-0xCyberstan_CVE-2026-31694-POC.md) | CVE-2026-31694 - Linux kernel FUSE 子系统 越界写 | ⚪ 高危 | 1 |
 | [CVE-2026-31802](CVE-2026-31802-Jvr2022_CVE-2026-31802.md) | CVE-2026-31802 - npm tar（node-tar） 路径穿越/任意文件覆盖 | ⚪ 高危 | 2 |
@@ -352,4 +352,4 @@
 
 ---
 
-*最后更新: 2026-07-06*
+*最后更新: 2026-07-07*
