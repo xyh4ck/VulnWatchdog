@@ -1,6 +1,6 @@
 # 2026年 CVE漏洞列表
 
-> 📊 共收录 **338** 个CVE漏洞
+> 📊 共收录 **339** 个CVE漏洞
 
 ---
 
@@ -36,7 +36,7 @@
 | [CVE-2026-20841](CVE-2026-20841-dogukankurnaz_CVE-2026-20841-PoC.md) | CVE-2026-20841 - Windows Notepad App（Microsoft Store 版本） 命令注... | ⚪ 高危 | 11 |
 | [CVE-2026-20841](CVE-2026-20841-hackfaiz_CVE-2026-20841-PoC.md) | CVE-2026-20841 - Microsoft Windows Notepad 命令注入 | ⚪ 高危 | 11 |
 | [CVE-2026-20841](CVE-2026-20841-hamzamalik3461_CVE-2026-20841.md) | CVE-2026-20841 - Microsoft Windows 记事本 远程代码执行 (RCE) / 命令注入 | ⚪ 高 | 11 |
-| [CVE-2026-20841](CVE-2026-20841-patchpoint_CVE-2026-20841.md) | CVE-2026-20841 - Windows 记事本 命令注入 | ⚪ 重要 | 11 |
+| [CVE-2026-20841](CVE-2026-20841-patchpoint_CVE-2026-20841.md) | CVE-2026-20841 - Windows Notepad RCE | ⚪ 高危 | 11 |
 | [CVE-2026-20841](CVE-2026-20841-tangent65536_CVE-2026-20841.md) | CVE-2026-20841 - Windows记事本 命令注入 | ⚪ 高危 | 11 |
 | [CVE-2026-20896](CVE-2026-20896-rz1027_CVE-2026-20896.md) | CVE-2026-20896 - Gitea 官方 Docker 镜像 认证绕过/会话劫持 | ⚪ 高危 | 1 |
 | [CVE-2026-21440](CVE-2026-21440-k0nnect_cve-2026-21440-writeup.md) | CVE-2026-21440 - AdonisJS (@adonisjs/bodyparser) 路径穿越 (Path ... | 🔴 CRITICAL | 2 |
@@ -218,6 +218,7 @@
 | [CVE-2026-34835](CVE-2026-34835-Cyber-note_CVE-2026-34835-Black-box-Analysis.md) | CVE-2026-34835 - Rack::Request 验证绕过/输入验证不当 | ⚪ 中危 | 1 |
 | [CVE-2026-36848](CVE-2026-36848-calligraf0_CVE-2026-36848.md) | CVE-2026-36848 - Gigamon-VUE OS (GVOS) appliances 路径遍历/任意文件读... | ⚪ 严重 | 1 |
 | [CVE-2026-36851](CVE-2026-36851-SyntaxSaiyan_CVE-2026-36851.md) | CVE-2026-36851 - UnPoller 路径穿越/任意文件读取 | 🟠 High | 1 |
+| [CVE-2026-38526](CVE-2026-38526-pawpic_CVE-2026-38526-POC.md) | CVE-2026-38526 - Krayin CRM RCE | ⚪ 高 | 1 |
 | [CVE-2026-38751](CVE-2026-38751-Mkps_CVE-2026-38751-OpenSTAManager-Arbitrary-File-Upload-PoC.md) | CVE-2026-38751 - OpenSTAManager 任意文件上传/远程代码执行 | ⚪ 高危 | 3 |
 | [CVE-2026-38751](CVE-2026-38751-Why-Shell_CVE-2026-38751.md) | CVE-2026-38751 - OpenSTAManager RCE | ⚪ 高危 | 3 |
 | [CVE-2026-38751](CVE-2026-38751-hackthem_OpenSTAManager_RCE_Exploit-CVE-2026-38751-.md) | CVE-2026-38751 - OpenSTAManager RCE | ⚪ 高危 | 3 |
