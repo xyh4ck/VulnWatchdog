@@ -36,7 +36,7 @@
 | [CVE-2026-20841](CVE-2026-20841-dogukankurnaz_CVE-2026-20841-PoC.md) | CVE-2026-20841 - Windows Notepad App（Microsoft Store 版本） 命令注... | ⚪ 高危 | 11 |
 | [CVE-2026-20841](CVE-2026-20841-hackfaiz_CVE-2026-20841-PoC.md) | CVE-2026-20841 - Microsoft Windows Notepad 命令注入 | ⚪ 高危 | 11 |
 | [CVE-2026-20841](CVE-2026-20841-hamzamalik3461_CVE-2026-20841.md) | CVE-2026-20841 - Microsoft Windows 记事本 远程代码执行 (RCE) / 命令注入 | ⚪ 高 | 11 |
-| [CVE-2026-20841](CVE-2026-20841-patchpoint_CVE-2026-20841.md) | CVE-2026-20841 - Microsoft Windows Notepad RCE | ⚪ 重要 | 11 |
+| [CVE-2026-20841](CVE-2026-20841-patchpoint_CVE-2026-20841.md) | CVE-2026-20841 - Windows 记事本 命令注入 | ⚪ 重要 | 11 |
 | [CVE-2026-20841](CVE-2026-20841-tangent65536_CVE-2026-20841.md) | CVE-2026-20841 - Windows记事本 命令注入 | ⚪ 高危 | 11 |
 | [CVE-2026-20896](CVE-2026-20896-rz1027_CVE-2026-20896.md) | CVE-2026-20896 - Gitea 官方 Docker 镜像 认证绕过/会话劫持 | ⚪ 高危 | 1 |
 | [CVE-2026-21440](CVE-2026-21440-k0nnect_cve-2026-21440-writeup.md) | CVE-2026-21440 - AdonisJS (@adonisjs/bodyparser) 路径穿越 (Path ... | 🔴 CRITICAL | 2 |
@@ -68,7 +68,7 @@
 | [CVE-2026-22874](CVE-2026-22874-M8seven_cve-2026-22874-gitea-ssrf-allowlist.md) | CVE-2026-22874 - Gitea Open Source Git Server 服务器端请求伪造（SSRF） | 🔴 Critical | 2 |
 | [CVE-2026-23111](CVE-2026-23111-Baba01hacker666_CVE-2026-23111.md) | CVE-2026-23111 - Linux内核 nf_tables / netfilter 子系统 Use-After... | ⚪ 高危 | 4 |
 | [CVE-2026-23111](CVE-2026-23111-bakano98_cve-2026-23111-poc.md) | CVE-2026-23111 - Linux Kernel nf_tables/netfilter Use-After-... | ⚪ 高危 | 4 |
-| [CVE-2026-23111](CVE-2026-23111-criann_check-cve-2026-23111.md) | CVE-2026-23111 - Linux内核 nf_tables/netfilter 本地权限提升 | ⚪ 高危 | 4 |
+| [CVE-2026-23111](CVE-2026-23111-criann_check-cve-2026-23111.md) | CVE-2026-23111 - Linux内核 权限提升 | ⚪ 高 | 4 |
 | [CVE-2026-23111](CVE-2026-23111-ishankaru_CVE-2026-23111-nftables-lab.md) | CVE-2026-23111 - Linux kernel 的 nf_tables 子系统 本地权限提升/Use-Aft... | ⚪ 高危 | 4 |
 | [CVE-2026-23550](CVE-2026-23550-1beelze_CVE-2026-23550.md) | CVE-2026-23550 - Modular DS（modular-connector） 会话劫持/权限提升 | ⚪ 严重 | 5 |
 | [CVE-2026-23550](CVE-2026-23550-Cyber-DarkNay_CVE-2026-23550.md) | CVE-2026-23550 - WordPress Modular Connector Plugin 认证绕过/未授权... | ⚪ 严重/Critical | 5 |
