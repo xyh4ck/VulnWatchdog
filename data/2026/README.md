@@ -1,6 +1,6 @@
 # 2026年 CVE漏洞列表
 
-> 📊 共收录 **335** 个CVE漏洞
+> 📊 共收录 **338** 个CVE漏洞
 
 ---
 
@@ -8,6 +8,8 @@
 
 | CVE编号 | 标题 | 严重程度 | POC仓库数 |
 |---------|------|----------|-----------|
+| [CVE-2026-0257](CVE-2026-0257-Ez4rd1x1_CVE-2026-0257.md) | CVE-2026-0257 - Palo Alto Networks PAN-OS 认证绕过 | ⚪ 高危 | 2 |
+| [CVE-2026-0257](CVE-2026-0257-akashsingh0454_CVE-2026-0257-PoC.md) | CVE-2026-0257 - Palo Alto Networks PAN-OS 身份验证绕过 | ⚪ 高危 | 2 |
 | [CVE-2026-0628](CVE-2026-0628-fevar54_CVE-2026-0628-POC.md) | CVE-2026-0628 - Google Chrome (WebView组件) 权限绕过/脚本注入 | ⚪ 高 (High) | 1 |
 | [CVE-2026-0740](CVE-2026-0740-murrez_CVE-2026-0740.md) | CVE-2026-53492 - WordPress Ninja Forms 插件 任意文件上传 | ⚪ 高危 | 3 |
 | [CVE-2026-0740](CVE-2026-0740-whattheslime_CVE-2026-0740.md) | CVE-2026-0740 - Ninja Forms File Uploads WordPress 插件 任意文件上传 | 🔴 Critical | 3 |
@@ -329,6 +331,7 @@
 | [CVE-2026-6307](CVE-2026-6307-0xsha_CVE-2026-6307.md) | CVE-2026-6307 - Google Chrome / Chromium V8 引擎 类型混淆/远程代码执行 | ⚪ 严重 | 2 |
 | [CVE-2026-6307](CVE-2026-6307-J4ck3LSyN-Gen2_CVE-2026-6307-Longinus.md) | CVE-2026-6307 - Google V8 JavaScript 引擎（d8 shell/Chromium 相关... | ⚪ 高危 | 2 |
 | [CVE-2026-6433](CVE-2026-6433-murrez_CVE-2026-6433.md) | CVE-2026-6433 - FlipperCode Custom CSS, JS & PHP SQL注入/远程代码执... | ⚪ 高危 | 1 |
+| [CVE-2026-8206](CVE-2026-8206-rootdirective-sec_CVE-2026-8206-Lab.md) | CVE-2026-8206 - Kirki 账户接管 | ⚪ 高 | 1 |
 | [CVE-2026-8451](CVE-2026-8451-attarwahyup_Netscaler-CVE-2026-8451.md) | CVE-2026-8451 - Citrix NetScaler ADC / NetScaler Gateway 信息泄... | ⚪ 高危 | 3 |
 | [CVE-2026-8451](CVE-2026-8451-derekpreston81_CVE_ADC_IOC_2026.md) | CVE-2026-8451 - Citrix NetScaler ADC / Gateway 配置暴露/前置条件检查 | ⚪ 中危 | 3 |
 | [CVE-2026-8451](CVE-2026-8451-watchtowrlabs_watchTowr-vs-Netscaler-CVE-2026-8451.md) | CVE-2026-8451 - Citrix NetScaler ADC / NetScaler Gateway 信息泄... | ⚪ 高危 | 3 |
@@ -354,4 +357,4 @@
 
 ---
 
-*最后更新: 2026-07-07*
+*最后更新: 2026-07-08*
