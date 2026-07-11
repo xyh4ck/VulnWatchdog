@@ -1,6 +1,6 @@
 # 2026年 CVE漏洞列表
 
-> 📊 共收录 **344** 个CVE漏洞
+> 📊 共收录 **346** 个CVE漏洞
 
 ---
 
@@ -175,6 +175,8 @@
 | [CVE-2026-27944](CVE-2026-27944-karimelsheikh1_HTB-Snapped-Writeup.md) | CVE-2026-27944 - Nginx UI 信息泄露 | ⚪ 高危 | 6 |
 | [CVE-2026-28867](CVE-2026-28867-speedyfriend433_CVE-2026-28867-PoC.md) | CVE-2026-28867 - macOS Kernel TCP/IP sysctl接口 信息泄露 | ⚪ 高危 | 1 |
 | [CVE-2026-28995](CVE-2026-28995-Robertmak2014-sudow_CVE-2026-28995.md) | CVE-2026-28995 - iOS App Intents 路径穿越 | ⚪ 高危 | 1 |
+| [CVE-2026-29000](CVE-2026-29000-lucastran05_CVE-2026-29000.md) | CVE-2026-29000 - pac4j-jwt JWT认证漏洞 | ⚪ 高危 | 2 |
+| [CVE-2026-29000](CVE-2026-29000-rootdirective-sec_CVE-2026-29000-Lab.md) | CVE-2026-29000 - pac4j-jwt 认证绕过 | ⚪ 高危 | 2 |
 | [CVE-2026-29145](CVE-2026-29145-Chenjp_CVE-2026-29145-Tester.md) | CVE-2026-29145 - Apache Tomcat 认证绕过 | ⚪ 严重 | 1 |
 | [CVE-2026-30862](CVE-2026-30862-drkim-dev_CVE-2026-30862.md) | CVE-2026-30862 - Appsmith 存储型跨站脚本(XSS), 权限提升, 跨站请求伪造(CSRF) | ⚪ 严重 (Critical) | 1 |
 | [CVE-2026-31431](CVE-2026-31431-1neptune_CopyFail.md) | CVE-2026-31431 - Linux内核 本地权限提升 (LPE) | ⚪ 高危 | 23 |
