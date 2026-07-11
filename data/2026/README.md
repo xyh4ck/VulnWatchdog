@@ -1,6 +1,6 @@
 # 2026年 CVE漏洞列表
 
-> 📊 共收录 **342** 个CVE漏洞
+> 📊 共收录 **343** 个CVE漏洞
 
 ---
 
@@ -38,7 +38,7 @@
 | [CVE-2026-20841](CVE-2026-20841-hackfaiz_CVE-2026-20841-PoC.md) | CVE-2026-20841 - Microsoft Windows Notepad 命令注入 | ⚪ 高危 | 11 |
 | [CVE-2026-20841](CVE-2026-20841-hamzamalik3461_CVE-2026-20841.md) | CVE-2026-20841 - Microsoft Windows 记事本 远程代码执行 (RCE) / 命令注入 | ⚪ 高 | 11 |
 | [CVE-2026-20841](CVE-2026-20841-patchpoint_CVE-2026-20841.md) | CVE-2026-20841 - Windows记事本 RCE | ⚪ 重要 | 11 |
-| [CVE-2026-20841](CVE-2026-20841-tangent65536_CVE-2026-20841.md) | CVE-2026-20841 - Windows记事本 命令注入 | ⚪ 高危 | 11 |
+| [CVE-2026-20841](CVE-2026-20841-tangent65536_CVE-2026-20841.md) | CVE-2026-20841 - Windows 记事本 命令注入 | ⚪ 高危 | 11 |
 | [CVE-2026-20896](CVE-2026-20896-rz1027_CVE-2026-20896.md) | CVE-2026-20896 - Gitea 官方 Docker 镜像 认证绕过/会话劫持 | ⚪ 高危 | 1 |
 | [CVE-2026-21440](CVE-2026-21440-k0nnect_cve-2026-21440-writeup.md) | CVE-2026-21440 - AdonisJS (@adonisjs/bodyparser) 路径穿越 (Path ... | 🔴 CRITICAL | 2 |
 | [CVE-2026-21440](CVE-2026-21440-you-ssef9_CVE-2026-21440.md) | CVE-2026-21440 - AdonisJS BodyParser 路径穿越/任意文件写入 | ⚪ 高危 | 2 |
@@ -175,6 +175,7 @@
 | [CVE-2026-27944](CVE-2026-27944-karimelsheikh1_HTB-Snapped-Writeup.md) | CVE-2026-27944 - Nginx UI 信息泄露 | ⚪ 高危 | 6 |
 | [CVE-2026-28867](CVE-2026-28867-speedyfriend433_CVE-2026-28867-PoC.md) | CVE-2026-28867 - macOS Kernel TCP/IP sysctl接口 信息泄露 | ⚪ 高危 | 1 |
 | [CVE-2026-28995](CVE-2026-28995-Robertmak2014-sudow_CVE-2026-28995.md) | CVE-2026-28995 - iOS App Intents 路径穿越 | ⚪ 高危 | 1 |
+| [CVE-2026-29145](CVE-2026-29145-Chenjp_CVE-2026-29145-Tester.md) | CVE-2026-29145 - Apache Tomcat 认证绕过 | ⚪ 严重 | 1 |
 | [CVE-2026-30862](CVE-2026-30862-drkim-dev_CVE-2026-30862.md) | CVE-2026-30862 - Appsmith 存储型跨站脚本(XSS), 权限提升, 跨站请求伪造(CSRF) | ⚪ 严重 (Critical) | 1 |
 | [CVE-2026-31431](CVE-2026-31431-1neptune_CopyFail.md) | CVE-2026-31431 - Linux内核 本地权限提升 (LPE) | ⚪ 高危 | 23 |
 | [CVE-2026-31431](CVE-2026-31431-4n4s4zi_copyfail-alpine.md) | CVE-2026-31431 - Linux内核 crypto 子系统 AF_ALG algif_aead 本地权限提升... | ⚪ 严重 | 23 |
@@ -288,7 +289,7 @@
 | [CVE-2026-46331](CVE-2026-46331-Quaerendir_cve-2026-46331-audit.md) | CVE-2026-46331 - Linux Kernel net/sched act_pedit 本地权限提升/内核内... | ⚪ 高危 | 4 |
 | [CVE-2026-46331](CVE-2026-46331-V0IDNETWORK_CVE-2026-46331.md) | CVE-2026-46331 - Linux Kernel 本地权限提升/内核页面缓存污染 | ⚪ 高危 | 4 |
 | [CVE-2026-46331](CVE-2026-46331-g0thamRabb1t_cve-2026-46331-pedit-cow-auditd-detection.md) | CVE-2026-46331 - Linux Kernel net/sched act_pedit 本地权限提升 | ⚪ 高危 | 4 |
-| [CVE-2026-46331](CVE-2026-46331-sgkdev_packet_edit_meme.md) | CVE-2026-46331 - Linux Kernel net/sched act_pedit 本地权限提升 | ⚪ 高危 | 4 |
+| [CVE-2026-46331](CVE-2026-46331-sgkdev_packet_edit_meme.md) | CVE-2026-46331 - Linux Kernel 本地权限提升 | ⚪ 高危 | 4 |
 | [CVE-2026-46490](CVE-2026-46490-BiiTts_CVE-2026-46490-samlify-SAML-Attribute-Injection.md) | CVE-2026-46490 - SAML登录响应生成组件 XML注入/属性篡改 | ⚪ 高危 | 1 |
 | [CVE-2026-48558](CVE-2026-48558-J4ck3LSyN-Gen2_CVE-2026-48558.md) | CVE-2026-48558 - SimpleHelp 认证绕过/身份验证缺失 | 🔴 Critical | 1 |
 | [CVE-2026-48611](CVE-2026-48611-wanmywan_CVE-2026-48611-phpBB.md) | CVE-2026-48611 - phpBB 绕过认证 | ⚪ 高危 | 1 |
