@@ -1,6 +1,6 @@
 # 2026年 CVE漏洞列表
 
-> 📊 共收录 **349** 个CVE漏洞
+> 📊 共收录 **350** 个CVE漏洞
 
 ---
 
@@ -292,10 +292,11 @@
 | [CVE-2026-46300](CVE-2026-46300-MadExploits_CVE-2026-46300.md) | CVE-2026-46300 - Linux Kernel 本地权限提升 | ⚪ 高危 | 6 |
 | [CVE-2026-46300](CVE-2026-46300-Sentebale_CVE-2026-46300.md) | CVE-2026-46300 - Linux Kernel（XFRM ESP-in-TCP / socket缓冲区合并相... | ⚪ 高危 | 6 |
 | [CVE-2026-46300](CVE-2026-46300-azilRababe_CVE-2026-46300.md) | CVE-2026-46300 - Linux Kernel / XFRM ESP-in-TCP / SKB Coales... | ⚪ 高危 | 6 |
-| [CVE-2026-46331](CVE-2026-46331-Quaerendir_cve-2026-46331-audit.md) | CVE-2026-46331 - Linux Kernel net/sched act_pedit 本地权限提升/内核内... | ⚪ 高危 | 4 |
-| [CVE-2026-46331](CVE-2026-46331-V0IDNETWORK_CVE-2026-46331.md) | CVE-2026-46331 - Linux Kernel 本地权限提升/内核页面缓存污染 | ⚪ 高危 | 4 |
-| [CVE-2026-46331](CVE-2026-46331-g0thamRabb1t_cve-2026-46331-pedit-cow-auditd-detection.md) | CVE-2026-46331 - Linux Kernel net/sched act_pedit 本地权限提升 | ⚪ 高危 | 4 |
-| [CVE-2026-46331](CVE-2026-46331-sgkdev_packet_edit_meme.md) | CVE-2026-46331 - Linux Kernel 本地权限提升 | ⚪ 高危 | 4 |
+| [CVE-2026-46331](CVE-2026-46331-MarwahHadi_CVE-2026-46331-pedit-cow.md) | CVE-2026-46331 - Linux Kernel 本地权限提升 | ⚪ 高 | 5 |
+| [CVE-2026-46331](CVE-2026-46331-Quaerendir_cve-2026-46331-audit.md) | CVE-2026-46331 - Linux Kernel net/sched act_pedit 本地权限提升/内核内... | ⚪ 高危 | 5 |
+| [CVE-2026-46331](CVE-2026-46331-V0IDNETWORK_CVE-2026-46331.md) | CVE-2026-46331 - Linux Kernel 本地权限提升/内核页面缓存污染 | ⚪ 高危 | 5 |
+| [CVE-2026-46331](CVE-2026-46331-g0thamRabb1t_cve-2026-46331-pedit-cow-auditd-detection.md) | CVE-2026-46331 - Linux Kernel net/sched act_pedit 本地权限提升 | ⚪ 高危 | 5 |
+| [CVE-2026-46331](CVE-2026-46331-sgkdev_packet_edit_meme.md) | CVE-2026-46331 - Linux Kernel 本地权限提升 | ⚪ 高危 | 5 |
 | [CVE-2026-46490](CVE-2026-46490-BiiTts_CVE-2026-46490-samlify-SAML-Attribute-Injection.md) | CVE-2026-46490 - SAML登录响应生成组件 XML注入/属性篡改 | ⚪ 高危 | 1 |
 | [CVE-2026-48558](CVE-2026-48558-J4ck3LSyN-Gen2_CVE-2026-48558.md) | CVE-2026-48558 - SimpleHelp 认证绕过/身份验证缺失 | 🔴 Critical | 1 |
 | [CVE-2026-48611](CVE-2026-48611-wanmywan_CVE-2026-48611-phpBB.md) | CVE-2026-48611 - phpBB 绕过认证 | ⚪ 高危 | 1 |
