@@ -1,6 +1,6 @@
 # 2026年 CVE漏洞列表
 
-> 📊 共收录 **346** 个CVE漏洞
+> 📊 共收录 **348** 个CVE漏洞
 
 ---
 
@@ -28,6 +28,7 @@
 | [CVE-2026-14459](CVE-2026-14459-dasokkk_CVE-2026-14459-14460-pardus-software.md) | CVE-2026-14459 - Pardus Software Center（pardus-software） 本地权... | ⚪ 高危 | 1 |
 | [CVE-2026-1492](CVE-2026-1492-the8frust_CVE-2026-1492.md) | CVE-2026-1492 - WordPress User Registration & Membership Plu... | ⚪ 关键 | 1 |
 | [CVE-2026-1560](CVE-2026-1560-Z3YR0xX_CVE-2026-1560-Authenticated-Remote-Code-Execution-in-Lazy-Blocks-4.2.0.md) | CVE-2026-1560 - Custom Block Builder – Lazy Blocks WordPress... | 🟠 High | 1 |
+| [CVE-2026-20127](CVE-2026-20127-gigachadusers_cve-2026-20127.md) | CVE-2026-20127 - Cisco SD-WAN 信息泄露 | ⚪ 高危 | 1 |
 | [CVE-2026-20841](CVE-2026-20841-404godd_CVE-2026-20841-PoC.md) | CVE-2026-20841 - Windows Notepad（记事本） 命令注入 | ⚪ 高危 | 11 |
 | [CVE-2026-20841](CVE-2026-20841-BTtea_CVE-2026-20841-PoC.md) | CVE-2026-20841 - Windows Notepad（新版记事本） 命令注入/RCE | ⚪ 高危 | 11 |
 | [CVE-2026-20841](CVE-2026-20841-EleniChristopoulou_PoC-CVE-2026-20841.md) | CVE-2026-20841 - Windows Notepad 远程代码执行/RCE | ⚪ 高危 | 11 |
@@ -37,7 +38,7 @@
 | [CVE-2026-20841](CVE-2026-20841-dogukankurnaz_CVE-2026-20841-PoC.md) | CVE-2026-20841 - Windows Notepad App（Microsoft Store 版本） 命令注... | ⚪ 高危 | 11 |
 | [CVE-2026-20841](CVE-2026-20841-hackfaiz_CVE-2026-20841-PoC.md) | CVE-2026-20841 - Microsoft Windows Notepad 命令注入 | ⚪ 高危 | 11 |
 | [CVE-2026-20841](CVE-2026-20841-hamzamalik3461_CVE-2026-20841.md) | CVE-2026-20841 - Microsoft Windows 记事本 远程代码执行 (RCE) / 命令注入 | ⚪ 高 | 11 |
-| [CVE-2026-20841](CVE-2026-20841-patchpoint_CVE-2026-20841.md) | CVE-2026-20841 - Windows记事本 RCE | ⚪ 重要 | 11 |
+| [CVE-2026-20841](CVE-2026-20841-patchpoint_CVE-2026-20841.md) | CVE-2026-20841 - Notepad 命令注入 | ⚪ 高 | 11 |
 | [CVE-2026-20841](CVE-2026-20841-tangent65536_CVE-2026-20841.md) | CVE-2026-20841 - Windows 记事本 命令注入 | ⚪ 高危 | 11 |
 | [CVE-2026-20896](CVE-2026-20896-rz1027_CVE-2026-20896.md) | CVE-2026-20896 - Gitea 官方 Docker 镜像 认证绕过/会话劫持 | ⚪ 高危 | 1 |
 | [CVE-2026-21440](CVE-2026-21440-k0nnect_cve-2026-21440-writeup.md) | CVE-2026-21440 - AdonisJS (@adonisjs/bodyparser) 路径穿越 (Path ... | 🔴 CRITICAL | 2 |
@@ -275,6 +276,7 @@
 | [CVE-2026-42945](CVE-2026-42945-tal7aouy_nginx-cve-2026-42945.md) | CVE-2026-42945 - NGINX（Open Source / Plus / 基于NGINX的Ingress和... | 🔴 Critical | 22 |
 | [CVE-2026-42945](CVE-2026-42945-webdev75950-ux_nginx-rce-cve-2026-42945.md) | CVE-2026-42945 - NGINX 堆缓冲区溢出/RCE | 🔴 Critical | 22 |
 | [CVE-2026-42945](CVE-2026-42945-yusufdalbudak_CVE-2026-42945.md) | CVE-2026-42945 - NGINX 堆缓冲区溢出/RCE | 🔴 Critical | 22 |
+| [CVE-2026-43499](CVE-2026-43499-caspy123_CVE-2026-43499.md) | CVE-2026-43499 - Linux内核 权限提升漏洞 | ⚪ 高危 | 1 |
 | [CVE-2026-43503](CVE-2026-43503-SecureWithUmer_CVE-2026-43503.md) | CVE-2026-43503 - Linux kernel 本地权限提升 | ⚪ 高危 | 5 |
 | [CVE-2026-43503](CVE-2026-43503-aexdyhaxor_CVE-2026-43503-DirtyClone.md) | CVE-2026-43503 - Linux Kernel 本地权限提升 | ⚪ 高危 | 5 |
 | [CVE-2026-43503](CVE-2026-43503-entra1337_DirtyClone.md) | CVE-2026-43503 - Linux kernel 本地权限提升(LPE) | ⚪ 高危 | 5 |
