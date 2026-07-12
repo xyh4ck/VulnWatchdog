@@ -1,6 +1,6 @@
 # 2026年 CVE漏洞列表
 
-> 📊 共收录 **348** 个CVE漏洞
+> 📊 共收录 **349** 个CVE漏洞
 
 ---
 
@@ -285,6 +285,7 @@
 | [CVE-2026-43700](CVE-2026-43700-dem0ns_CVE-2026-43700.md) | CVE-2026-43700 - Apple Safari / WebKit 信息泄露/同源策略绕过 | ⚪ 高危 | 1 |
 | [CVE-2026-43735](CVE-2026-43735-dem0ns_CVE-2026-43735.md) | CVE-2026-43735 - Apple WebKit / Safari 跨域信息泄露/同源策略绕过 | ⚪ 高危 | 1 |
 | [CVE-2026-44789](CVE-2026-44789-BiiTts_CVE-2026-44789-n8n-PrototypePollution-RCE.md) | CVE-2026-44789 - n8n工作流自动化平台 原型污染/远程代码执行 | ⚪ 严重 | 1 |
+| [CVE-2026-46215](CVE-2026-46215-bluedragonsecurity_CVE-2026-46215-EXPLOIT.md) | CVE-2026-46215 - Linux Kernel Use After Free | 🟠 High | 1 |
 | [CVE-2026-46300](CVE-2026-46300-1neptune_Fragnesia.md) | CVE-2026-46300 - Linux Kernel（XFRM ESP-in-TCP / splice / pag... | ⚪ 高危 | 6 |
 | [CVE-2026-46300](CVE-2026-46300-BenedictEjepu_CVE-2026-46300-Fragnesia---TryHackMe-Lab-Project.md) | CVE-2026-46300 - Linux Kernel / XFRM ESP-in-TCP 子系统 本地权限提升 | ⚪ 高危 | 6 |
 | [CVE-2026-46300](CVE-2026-46300-Koshmare-Blossom_Fragnesia-go.md) | CVE-2026-46300 - Linux Kernel XFRM ESP-in-TCP 子系统 本地权限提升 | ⚪ 高危 | 6 |
