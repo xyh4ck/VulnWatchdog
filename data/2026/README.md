@@ -222,7 +222,7 @@
 | [CVE-2026-34038](CVE-2026-34038-ThemeHackers_CVE-2026-34038.md) | CVE-2026-34038 - Coolify 命令注入/远程代码执行 | ⚪ 严重/危急 | 1 |
 | [CVE-2026-34048](CVE-2026-34048-0xmrma_CVE-2026-34048.md) | CVE-2026-34048 - Coolify RCE | ⚪ 高 | 1 |
 | [CVE-2026-34835](CVE-2026-34835-Cyber-note_CVE-2026-34835-Black-box-Analysis.md) | CVE-2026-34835 - Rack::Request 验证绕过/输入验证不当 | ⚪ 中危 | 1 |
-| [CVE-2026-35204](CVE-2026-35204-h3ck13r_CVE-2026-35204.md) | CVE-2026-35204 - Helm 路径遍历 | ⚪ 高危 | 1 |
+| [CVE-2026-35204](CVE-2026-35204-h3ck13r_CVE-2026-35204.md) | CVE-2026-35204 - Helm 路径遍历 | ⚪ 高 | 1 |
 | [CVE-2026-36848](CVE-2026-36848-calligraf0_CVE-2026-36848.md) | CVE-2026-36848 - Gigamon-VUE OS (GVOS) appliances 路径遍历/任意文件读... | ⚪ 严重 | 1 |
 | [CVE-2026-36851](CVE-2026-36851-SyntaxSaiyan_CVE-2026-36851.md) | CVE-2026-36851 - UnPoller 路径穿越/任意文件读取 | 🟠 High | 1 |
 | [CVE-2026-38526](CVE-2026-38526-mmoobbeeiidat-design_Hack-The-Box-Nexus-Findings-Report.md) | CVE-2026-38526 - Krayin CRM 未授权文件上传 | ⚪ 高风险 | 2 |
