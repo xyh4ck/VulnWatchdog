@@ -1,6 +1,6 @@
 # 2026年 CVE漏洞列表
 
-> 📊 共收录 **351** 个CVE漏洞
+> 📊 共收录 **352** 个CVE漏洞
 
 ---
 
@@ -220,6 +220,7 @@
 | [CVE-2026-33017](CVE-2026-33017-z4yd3_PoC-CVE-2026-33017.md) | CVE-2026-33017 - Langflow 远程代码执行 | ⚪ 严重 | 11 |
 | [CVE-2026-33186](CVE-2026-33186-JohannesLks_CVE-2026-33186.md) | CVE-2026-33186 - google.golang.org/grpc / gRPC-Go 授权绕过 | ⚪ 高危 | 1 |
 | [CVE-2026-34038](CVE-2026-34038-ThemeHackers_CVE-2026-34038.md) | CVE-2026-34038 - Coolify 命令注入/远程代码执行 | ⚪ 严重/危急 | 1 |
+| [CVE-2026-34048](CVE-2026-34048-0xmrma_CVE-2026-34048.md) | CVE-2026-34048 - Coolify RCE | ⚪ 高 | 1 |
 | [CVE-2026-34835](CVE-2026-34835-Cyber-note_CVE-2026-34835-Black-box-Analysis.md) | CVE-2026-34835 - Rack::Request 验证绕过/输入验证不当 | ⚪ 中危 | 1 |
 | [CVE-2026-35204](CVE-2026-35204-h3ck13r_CVE-2026-35204.md) | CVE-2026-35204 - Helm 路径遍历 | ⚪ 高危 | 1 |
 | [CVE-2026-36848](CVE-2026-36848-calligraf0_CVE-2026-36848.md) | CVE-2026-36848 - Gigamon-VUE OS (GVOS) appliances 路径遍历/任意文件读... | ⚪ 严重 | 1 |
