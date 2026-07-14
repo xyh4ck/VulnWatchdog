@@ -1,6 +1,6 @@
 # 2026年 CVE漏洞列表
 
-> 📊 共收录 **358** 个CVE漏洞
+> 📊 共收录 **360** 个CVE漏洞
 
 ---
 
@@ -351,6 +351,8 @@
 | [CVE-2026-6307](CVE-2026-6307-0xsha_CVE-2026-6307.md) | CVE-2026-6307 - Google Chrome / Chromium V8 引擎 类型混淆/远程代码执行 | ⚪ 严重 | 2 |
 | [CVE-2026-6307](CVE-2026-6307-J4ck3LSyN-Gen2_CVE-2026-6307-Longinus.md) | CVE-2026-6307 - Google V8 JavaScript 引擎（d8 shell/Chromium 相关... | ⚪ 高危 | 2 |
 | [CVE-2026-6433](CVE-2026-6433-murrez_CVE-2026-6433.md) | CVE-2026-6433 - FlipperCode Custom CSS, JS & PHP SQL注入/远程代码执... | ⚪ 高危 | 1 |
+| [CVE-2026-8181](CVE-2026-8181-HudzaifahArrantisi_CVE-2026-8181.md) | CVE-2026-8181 - WordPress Burst Statistics 认证绕过 | ⚪ 高 | 2 |
+| [CVE-2026-8181](CVE-2026-8181-Squamity_CVE-2026-8181-PoC.md) | CVE-2026-8181 - WordPress Burst Statistics 认证绕过 | ⚪ 高 | 2 |
 | [CVE-2026-8206](CVE-2026-8206-rootdirective-sec_CVE-2026-8206-Lab.md) | CVE-2026-8206 - Kirki 账户接管 | ⚪ 高 | 1 |
 | [CVE-2026-8451](CVE-2026-8451-attarwahyup_Netscaler-CVE-2026-8451.md) | CVE-2026-8451 - Citrix NetScaler ADC / NetScaler Gateway 信息泄... | ⚪ 高危 | 3 |
 | [CVE-2026-8451](CVE-2026-8451-derekpreston81_CVE_ADC_IOC_2026.md) | CVE-2026-8451 - Citrix NetScaler ADC / Gateway 配置暴露/前置条件检查 | ⚪ 中危 | 3 |
