@@ -1,6 +1,6 @@
 # 2026年 CVE漏洞列表
 
-> 📊 共收录 **354** 个CVE漏洞
+> 📊 共收录 **355** 个CVE漏洞
 
 ---
 
@@ -225,7 +225,7 @@
 | [CVE-2026-35204](CVE-2026-35204-h3ck13r_CVE-2026-35204.md) | CVE-2026-35204 - Helm 路径遍历 | ⚪ 高 | 1 |
 | [CVE-2026-36848](CVE-2026-36848-calligraf0_CVE-2026-36848.md) | CVE-2026-36848 - Gigamon-VUE OS (GVOS) appliances 路径遍历/任意文件读... | ⚪ 严重 | 1 |
 | [CVE-2026-36851](CVE-2026-36851-SyntaxSaiyan_CVE-2026-36851.md) | CVE-2026-36851 - UnPoller 路径穿越/任意文件读取 | 🟠 High | 1 |
-| [CVE-2026-38526](CVE-2026-38526-mmoobbeeiidat-design_Hack-The-Box-Nexus-Findings-Report.md) | CVE-2026-38526 - Krayin CRM 未授权文件上传 | ⚪ 高风险 | 2 |
+| [CVE-2026-38526](CVE-2026-38526-mmoobbeeiidat-design_Hack-The-Box-Nexus-Findings-Report.md) | CVE-2026-38526 - Krayin CRM RCE | 🟠 High | 2 |
 | [CVE-2026-38526](CVE-2026-38526-pawpic_CVE-2026-38526-POC.md) | CVE-2026-38526 - Krayin CRM RCE | ⚪ 高 | 2 |
 | [CVE-2026-38751](CVE-2026-38751-Mkps_CVE-2026-38751-OpenSTAManager-Arbitrary-File-Upload-PoC.md) | CVE-2026-38751 - OpenSTAManager 任意文件上传/远程代码执行 | ⚪ 高危 | 3 |
 | [CVE-2026-38751](CVE-2026-38751-Why-Shell_CVE-2026-38751.md) | CVE-2026-38751 - OpenSTAManager RCE | ⚪ 高危 | 3 |
@@ -277,10 +277,11 @@
 | [CVE-2026-42945](CVE-2026-42945-tal7aouy_nginx-cve-2026-42945.md) | CVE-2026-42945 - NGINX（Open Source / Plus / 基于NGINX的Ingress和... | 🔴 Critical | 22 |
 | [CVE-2026-42945](CVE-2026-42945-webdev75950-ux_nginx-rce-cve-2026-42945.md) | CVE-2026-42945 - NGINX 堆缓冲区溢出/RCE | 🔴 Critical | 22 |
 | [CVE-2026-42945](CVE-2026-42945-yusufdalbudak_CVE-2026-42945.md) | CVE-2026-42945 - NGINX 堆缓冲区溢出/RCE | 🔴 Critical | 22 |
-| [CVE-2026-43499](CVE-2026-43499-CakesTwix_Android-CVE-2026-43499.md) | CVE-2026-43499 - Linux内核 Use-after-free | ⚪ 高危 | 4 |
-| [CVE-2026-43499](CVE-2026-43499-Linuxoid-cn_Mi8E5-Unlocker-by-CVE-2026-43499.md) | CVE-2026-43499 - Linux内核所有主流发行版 权限提升 | ⚪ 高危 | 4 |
-| [CVE-2026-43499](CVE-2026-43499-Yakayna_SpringPeace.md) | CVE-2026-43499 - Linux Kernel Use-After-Free | ⚪ 高危 | 4 |
-| [CVE-2026-43499](CVE-2026-43499-caspy123_CVE-2026-43499.md) | CVE-2026-43499 - Linux内核 权限提升漏洞 | ⚪ 高危 | 4 |
+| [CVE-2026-43499](CVE-2026-43499-CakesTwix_Android-CVE-2026-43499.md) | CVE-2026-43499 - Linux内核 权限提升 | ⚪ 高危 | 5 |
+| [CVE-2026-43499](CVE-2026-43499-Linuxoid-cn_Mi8E5-Unlocker-by-CVE-2026-43499.md) | CVE-2026-43499 - Linux内核所有主流发行版 权限提升 | ⚪ 高危 | 5 |
+| [CVE-2026-43499](CVE-2026-43499-Thiasap_oppo-pgem10-ghostlock.md) | CVE-2026-43499 - Linux Kernel Use-After-Free | ⚪ 高危 | 5 |
+| [CVE-2026-43499](CVE-2026-43499-Yakayna_SpringPeace.md) | CVE-2026-43499 - Linux内核 本地权限提升 | ⚪ 高危 | 5 |
+| [CVE-2026-43499](CVE-2026-43499-caspy123_CVE-2026-43499.md) | CVE-2026-43499 - Linux内核 权限提升漏洞 | ⚪ 高危 | 5 |
 | [CVE-2026-43503](CVE-2026-43503-SecureWithUmer_CVE-2026-43503.md) | CVE-2026-43503 - Linux kernel 本地权限提升 | ⚪ 高危 | 5 |
 | [CVE-2026-43503](CVE-2026-43503-aexdyhaxor_CVE-2026-43503-DirtyClone.md) | CVE-2026-43503 - Linux Kernel 本地权限提升 | ⚪ 高危 | 5 |
 | [CVE-2026-43503](CVE-2026-43503-entra1337_DirtyClone.md) | CVE-2026-43503 - Linux kernel 本地权限提升(LPE) | ⚪ 高危 | 5 |
@@ -373,4 +374,4 @@
 
 ---
 
-*最后更新: 2026-07-13*
+*最后更新: 2026-07-14*
