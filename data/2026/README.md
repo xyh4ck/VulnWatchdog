@@ -1,6 +1,6 @@
 # 2026年 CVE漏洞列表
 
-> 📊 共收录 **356** 个CVE漏洞
+> 📊 共收录 **357** 个CVE漏洞
 
 ---
 
@@ -329,6 +329,7 @@
 | [CVE-2026-49468](CVE-2026-49468-BiiTts_CVE-2026-49468-LiteLLM-Auth-Bypass.md) | CVE-2026-49468 - LiteLLM Proxy 认证绕过/授权绕过 | ⚪ 高危 | 1 |
 | [CVE-2026-49869](CVE-2026-49869-Ap0dexMe0_CVE-2026-49869.md) | CVE-2026-49869 - Kestra 认证绕过/RCE | ⚪ 严重 | 1 |
 | [CVE-2026-52217](CVE-2026-52217-teteco_CVE-2026-52217-VTEX-Checkout-CrossTenant-IDOR.md) | CVE-2026-52217 - VTEX Commerce Platform Checkout Service (ch... | ⚪ 高危 | 1 |
+| [CVE-2026-52614](CVE-2026-52614-Chinesespeople_CVE-2026-52614.md) | CVE-2026-52614 - RuoYi v4.8.3 SQL注入 | ⚪ 高危 | 1 |
 | [CVE-2026-53360](CVE-2026-53360-0xCyberstan_CVE-2026-53360-POC.md) | CVE-2026-53360 - Linux KVM AMD SEV-SNP host support 内存越界读写 | ⚪ 高危 | 1 |
 | [CVE-2026-53694](CVE-2026-53694-do4choo_CVE-2026-53694-NoMachine-LPE.md) | CVE-2026-53694 - NoMachine for Linux 参数注入/本地权限提升 | ⚪ 高危 | 1 |
 | [CVE-2026-53753](CVE-2026-53753-0xEnc0der_CVE-2026-53753.md) | CVE-2026-53753 - Crawl4AI 远程代码执行 | ⚪ 严重/致命 | 2 |

@@ -1,7 +1,7 @@
 {
   "$schema": "blacklist-schema.json",
   "version": "1.0.0",
-  "last_updated": "2026-07-14T06:27:49.068290Z",
+  "last_updated": "2026-07-14T09:53:28.197907Z",
   "description": "VulnWatchdog 黑名单配置文件 - 用于过滤低质量POC和恶意仓库",
   "settings": {
     "auto_blacklist_enabled": true,
@@ -10714,6 +10714,16 @@
         "last_quality_score": 9,
         "last_poisoning_risk": 90,
         "notes": "自动拉黑 - 失败原因: 投毒风险过高: 90%, 有效性分析过短: 446 字符 (最少500字符)"
+      },
+      {
+        "username": "Red4mber",
+        "reason": "投毒风险持续过高(最近风险: 80%)",
+        "added_date": "2026-07-14",
+        "added_by": "auto",
+        "fail_count": 1,
+        "last_quality_score": 8,
+        "last_poisoning_risk": 80,
+        "notes": "自动拉黑 - 失败原因: 投毒风险过高: 80%, 有效性分析过短: 495 字符 (最少500字符)"
       }
     ],
     "repositories": [
@@ -10749,11 +10759,11 @@
     "repositories": []
   },
   "statistics": {
-    "total_blocked": 13340,
-    "blocked_by_author": 13339,
+    "total_blocked": 13379,
+    "blocked_by_author": 13378,
     "blocked_by_repository": 1,
     "blocked_by_cve": 0,
-    "auto_blacklisted_authors": 1069,
+    "auto_blacklisted_authors": 1070,
     "auto_blacklisted_repositories": 0
   }
 }
