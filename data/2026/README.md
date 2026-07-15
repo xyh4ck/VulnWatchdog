@@ -1,6 +1,6 @@
 # 2026年 CVE漏洞列表
 
-> 📊 共收录 **362** 个CVE漏洞
+> 📊 共收录 **364** 个CVE漏洞
 
 ---
 
@@ -283,6 +283,7 @@
 | [CVE-2026-43499](CVE-2026-43499-Yakayna_SpringPeace.md) | CVE-2026-43499 - Linux内核 本地权限提升 | ⚪ 高危 | 6 |
 | [CVE-2026-43499](CVE-2026-43499-caspy123_CVE-2026-43499.md) | CVE-2026-43499 - Linux内核 权限提升漏洞 | ⚪ 高危 | 6 |
 | [CVE-2026-43499](CVE-2026-43499-x-spy_CVE-2026-43499-popsicle.md) | CVE-2026-43499 - Linux内核 权限提升 | ⚪ 高危 | 6 |
+| [CVE-2026-43500](CVE-2026-43500-attaattaatta_CVE-2026-43500.md) | CVE-2026-43284 - Linux Kernel 提权漏洞 | ⚪ 高危 | 1 |
 | [CVE-2026-43503](CVE-2026-43503-SecureWithUmer_CVE-2026-43503.md) | CVE-2026-43503 - Linux kernel 本地权限提升 | ⚪ 高危 | 5 |
 | [CVE-2026-43503](CVE-2026-43503-aexdyhaxor_CVE-2026-43503-DirtyClone.md) | CVE-2026-43503 - Linux Kernel 本地权限提升 | ⚪ 高危 | 5 |
 | [CVE-2026-43503](CVE-2026-43503-entra1337_DirtyClone.md) | CVE-2026-43503 - Linux kernel 本地权限提升(LPE) | ⚪ 高危 | 5 |
@@ -332,6 +333,7 @@
 | [CVE-2026-50338](CVE-2026-50338-JohannesLks_CVE-2026-50338.md) | CVE-2026-50338 - spring-cloud-azure-starter-active-directory... | ⚪ 高 | 1 |
 | [CVE-2026-52217](CVE-2026-52217-teteco_CVE-2026-52217-VTEX-Checkout-CrossTenant-IDOR.md) | CVE-2026-52217 - VTEX Commerce Platform Checkout Service (ch... | ⚪ 高危 | 1 |
 | [CVE-2026-52614](CVE-2026-52614-Chinesespeople_CVE-2026-52614.md) | CVE-2026-52614 - RuoYi v4.8.3 SQL注入 | ⚪ 高危 | 1 |
+| [CVE-2026-53359](CVE-2026-53359-ndouglas-cloudsmith_CVE-2026-53359.md) | CVE-2026-53359 - Linux KVM RCE | ⚪ 高危 | 1 |
 | [CVE-2026-53360](CVE-2026-53360-0xCyberstan_CVE-2026-53360-POC.md) | CVE-2026-53360 - Linux KVM AMD SEV-SNP host support 内存越界读写 | ⚪ 高危 | 1 |
 | [CVE-2026-53694](CVE-2026-53694-do4choo_CVE-2026-53694-NoMachine-LPE.md) | CVE-2026-53694 - NoMachine for Linux 参数注入/本地权限提升 | ⚪ 高危 | 1 |
 | [CVE-2026-53753](CVE-2026-53753-0xEnc0der_CVE-2026-53753.md) | CVE-2026-53753 - Crawl4AI 远程代码执行 | ⚪ 严重/致命 | 2 |
