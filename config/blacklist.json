@@ -1,7 +1,7 @@
 {
   "$schema": "blacklist-schema.json",
   "version": "1.0.0",
-  "last_updated": "2026-07-15T01:27:01.549425Z",
+  "last_updated": "2026-07-15T06:14:38.655545Z",
   "description": "VulnWatchdog 黑名单配置文件 - 用于过滤低质量POC和恶意仓库",
   "settings": {
     "auto_blacklist_enabled": true,
@@ -11074,6 +11074,66 @@
         "last_quality_score": 9,
         "last_poisoning_risk": 80,
         "notes": "自动拉黑 - 失败原因: 投毒风险过高: 80%"
+      },
+      {
+        "username": "0x00Jeff",
+        "reason": "投毒风险持续过高(最近风险: 80%)",
+        "added_date": "2026-07-15",
+        "added_by": "auto",
+        "fail_count": 1,
+        "last_quality_score": 8,
+        "last_poisoning_risk": 80,
+        "notes": "自动拉黑 - 失败原因: 投毒风险过高: 80%"
+      },
+      {
+        "username": "krn966",
+        "reason": "投毒风险持续过高(最近风险: 85%)",
+        "added_date": "2026-07-15",
+        "added_by": "auto",
+        "fail_count": 1,
+        "last_quality_score": 9,
+        "last_poisoning_risk": 85,
+        "notes": "自动拉黑 - 失败原因: 投毒风险过高: 85%"
+      },
+      {
+        "username": "VisaiCyber",
+        "reason": "投毒风险持续过高(最近风险: 90%)",
+        "added_date": "2026-07-15",
+        "added_by": "auto",
+        "fail_count": 1,
+        "last_quality_score": 9,
+        "last_poisoning_risk": 90,
+        "notes": "自动拉黑 - 失败原因: 投毒风险过高: 90%"
+      },
+      {
+        "username": "danil-koltsov",
+        "reason": "投毒风险持续过高(最近风险: 85%)",
+        "added_date": "2026-07-15",
+        "added_by": "auto",
+        "fail_count": 1,
+        "last_quality_score": 9,
+        "last_poisoning_risk": 85,
+        "notes": "自动拉黑 - 失败原因: 投毒风险过高: 85%"
+      },
+      {
+        "username": "00xCanelo",
+        "reason": "投毒风险持续过高(最近风险: 90%)",
+        "added_date": "2026-07-15",
+        "added_by": "auto",
+        "fail_count": 1,
+        "last_quality_score": 9,
+        "last_poisoning_risk": 90,
+        "notes": "自动拉黑 - 失败原因: 投毒风险过高: 90%, 有效性分析过短: 369 字符 (最少500字符)"
+      },
+      {
+        "username": "Thekin-ctrl",
+        "reason": "投毒风险持续过高(最近风险: 80%)",
+        "added_date": "2026-07-15",
+        "added_by": "auto",
+        "fail_count": 1,
+        "last_quality_score": 9,
+        "last_poisoning_risk": 80,
+        "notes": "自动拉黑 - 失败原因: 投毒风险过高: 80%"
       }
     ],
     "repositories": [
@@ -11109,11 +11169,11 @@
     "repositories": []
   },
   "statistics": {
-    "total_blocked": 14191,
-    "blocked_by_author": 14190,
+    "total_blocked": 14203,
+    "blocked_by_author": 14202,
     "blocked_by_repository": 1,
     "blocked_by_cve": 0,
-    "auto_blacklisted_authors": 1105,
+    "auto_blacklisted_authors": 1111,
     "auto_blacklisted_repositories": 0
   }
 }
