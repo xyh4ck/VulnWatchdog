@@ -1,6 +1,6 @@
 # 2026年 CVE漏洞列表
 
-> 📊 共收录 **360** 个CVE漏洞
+> 📊 共收录 **362** 个CVE漏洞
 
 ---
 
@@ -329,6 +329,7 @@
 | [CVE-2026-49049](CVE-2026-49049-shinthink_CVE-2026-49049.md) | CVE-2026-49049 - Helix3 Joomla Plugin (JoomShaper) 未授权文件操作/任... | ⚪ 高危 | 1 |
 | [CVE-2026-49468](CVE-2026-49468-BiiTts_CVE-2026-49468-LiteLLM-Auth-Bypass.md) | CVE-2026-49468 - LiteLLM Proxy 认证绕过/授权绕过 | ⚪ 高危 | 1 |
 | [CVE-2026-49869](CVE-2026-49869-Ap0dexMe0_CVE-2026-49869.md) | CVE-2026-49869 - Kestra 认证绕过/RCE | ⚪ 严重 | 1 |
+| [CVE-2026-50338](CVE-2026-50338-JohannesLks_CVE-2026-50338.md) | CVE-2026-50338 - spring-cloud-azure-starter-active-directory... | ⚪ 高 | 1 |
 | [CVE-2026-52217](CVE-2026-52217-teteco_CVE-2026-52217-VTEX-Checkout-CrossTenant-IDOR.md) | CVE-2026-52217 - VTEX Commerce Platform Checkout Service (ch... | ⚪ 高危 | 1 |
 | [CVE-2026-52614](CVE-2026-52614-Chinesespeople_CVE-2026-52614.md) | CVE-2026-52614 - RuoYi v4.8.3 SQL注入 | ⚪ 高危 | 1 |
 | [CVE-2026-53360](CVE-2026-53360-0xCyberstan_CVE-2026-53360-POC.md) | CVE-2026-53360 - Linux KVM AMD SEV-SNP host support 内存越界读写 | ⚪ 高危 | 1 |
@@ -351,8 +352,9 @@
 | [CVE-2026-6307](CVE-2026-6307-0xsha_CVE-2026-6307.md) | CVE-2026-6307 - Google Chrome / Chromium V8 引擎 类型混淆/远程代码执行 | ⚪ 严重 | 2 |
 | [CVE-2026-6307](CVE-2026-6307-J4ck3LSyN-Gen2_CVE-2026-6307-Longinus.md) | CVE-2026-6307 - Google V8 JavaScript 引擎（d8 shell/Chromium 相关... | ⚪ 高危 | 2 |
 | [CVE-2026-6433](CVE-2026-6433-murrez_CVE-2026-6433.md) | CVE-2026-6433 - FlipperCode Custom CSS, JS & PHP SQL注入/远程代码执... | ⚪ 高危 | 1 |
-| [CVE-2026-8181](CVE-2026-8181-HudzaifahArrantisi_CVE-2026-8181.md) | CVE-2026-8181 - WordPress Burst Statistics 认证绕过 | ⚪ 高 | 2 |
-| [CVE-2026-8181](CVE-2026-8181-Squamity_CVE-2026-8181-PoC.md) | CVE-2026-8181 - WordPress Burst Statistics 认证绕过 | ⚪ 高 | 2 |
+| [CVE-2026-8181](CVE-2026-8181-HudzaifahArrantisi_CVE-2026-8181.md) | CVE-2026-8181 - WordPress Burst Statistics 认证绕过 | ⚪ 高 | 3 |
+| [CVE-2026-8181](CVE-2026-8181-Squamity_CVE-2026-8181-PoC.md) | CVE-2026-8181 - Burst Statistics 认证绕过 | ⚪ 严重 | 3 |
+| [CVE-2026-8181](CVE-2026-8181-rootdirective-sec_CVE-2026-8181-Lab.md) | CVE-2026-8181 - Burst Statistics – Privacy-Friendly WordPres... | ⚪ 高 | 3 |
 | [CVE-2026-8206](CVE-2026-8206-rootdirective-sec_CVE-2026-8206-Lab.md) | CVE-2026-8206 - Kirki 账户接管 | ⚪ 高 | 1 |
 | [CVE-2026-8451](CVE-2026-8451-attarwahyup_Netscaler-CVE-2026-8451.md) | CVE-2026-8451 - Citrix NetScaler ADC / NetScaler Gateway 信息泄... | ⚪ 高危 | 3 |
 | [CVE-2026-8451](CVE-2026-8451-derekpreston81_CVE_ADC_IOC_2026.md) | CVE-2026-8451 - Citrix NetScaler ADC / Gateway 配置暴露/前置条件检查 | ⚪ 中危 | 3 |
@@ -379,4 +381,4 @@
 
 ---
 
-*最后更新: 2026-07-14*
+*最后更新: 2026-07-15*
