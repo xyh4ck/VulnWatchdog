@@ -1,6 +1,6 @@
 # 2026年 CVE漏洞列表
 
-> 📊 共收录 **364** 个CVE漏洞
+> 📊 共收录 **365** 个CVE漏洞
 
 ---
 
@@ -27,6 +27,7 @@
 | [CVE-2026-1357](CVE-2026-1357-halilkirazkaya_CVE-2026-1357.md) | CVE-2026-1357 - WPvivid Backup & Migration 任意文件上传, 远程代码执行 (R... | 🔴 Critical | 1 |
 | [CVE-2026-14459](CVE-2026-14459-dasokkk_CVE-2026-14459-14460-pardus-software.md) | CVE-2026-14459 - Pardus Software Center（pardus-software） 本地权... | ⚪ 高危 | 1 |
 | [CVE-2026-1492](CVE-2026-1492-the8frust_CVE-2026-1492.md) | CVE-2026-1492 - WordPress User Registration & Membership Plu... | ⚪ 关键 | 1 |
+| [CVE-2026-14960](CVE-2026-14960-FzRsLLaSheR_CVE-2026-14960-CVE-2026-14961.md) | CVE-2026-14960 - Pegatron TdeIo Driver 权限提升 | ⚪ 高危 | 1 |
 | [CVE-2026-1560](CVE-2026-1560-Z3YR0xX_CVE-2026-1560-Authenticated-Remote-Code-Execution-in-Lazy-Blocks-4.2.0.md) | CVE-2026-1560 - Custom Block Builder – Lazy Blocks WordPress... | 🟠 High | 1 |
 | [CVE-2026-20127](CVE-2026-20127-gigachadusers_cve-2026-20127.md) | CVE-2026-20127 - Cisco SD-WAN 信息泄露 | ⚪ 高危 | 1 |
 | [CVE-2026-20841](CVE-2026-20841-404godd_CVE-2026-20841-PoC.md) | CVE-2026-20841 - Windows Notepad（记事本） 命令注入 | ⚪ 高危 | 11 |
