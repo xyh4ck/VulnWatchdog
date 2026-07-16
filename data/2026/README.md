@@ -1,6 +1,6 @@
 # 2026年 CVE漏洞列表
 
-> 📊 共收录 **365** 个CVE漏洞
+> 📊 共收录 **367** 个CVE漏洞
 
 ---
 
@@ -26,6 +26,7 @@
 | [CVE-2026-12166](CVE-2026-12166-FzRsLLaSheR_CVE-2026-12166_CVE-2026-12167_CVE-2026-12168.md) | CVE-2026-12166 - Little Orbit GamersFirst Anti-Cheat (GFAC) ... | ⚪ 严重 | 1 |
 | [CVE-2026-1357](CVE-2026-1357-halilkirazkaya_CVE-2026-1357.md) | CVE-2026-1357 - WPvivid Backup & Migration 任意文件上传, 远程代码执行 (R... | 🔴 Critical | 1 |
 | [CVE-2026-14459](CVE-2026-14459-dasokkk_CVE-2026-14459-14460-pardus-software.md) | CVE-2026-14459 - Pardus Software Center（pardus-software） 本地权... | ⚪ 高危 | 1 |
+| [CVE-2026-14871](CVE-2026-14871-JFOZ1010_CVE-2026-14871.md) | CVE-2026-14871 - osTicket Broken Object Level Authorization ... | 🟠 High | 1 |
 | [CVE-2026-1492](CVE-2026-1492-the8frust_CVE-2026-1492.md) | CVE-2026-1492 - WordPress User Registration & Membership Plu... | ⚪ 关键 | 1 |
 | [CVE-2026-14960](CVE-2026-14960-FzRsLLaSheR_CVE-2026-14960-CVE-2026-14961.md) | CVE-2026-14960 - Pegatron TdeIo Driver 权限提升 | ⚪ 高危 | 1 |
 | [CVE-2026-1560](CVE-2026-1560-Z3YR0xX_CVE-2026-1560-Authenticated-Remote-Code-Execution-in-Lazy-Blocks-4.2.0.md) | CVE-2026-1560 - Custom Block Builder – Lazy Blocks WordPress... | 🟠 High | 1 |
@@ -278,12 +279,13 @@
 | [CVE-2026-42945](CVE-2026-42945-tal7aouy_nginx-cve-2026-42945.md) | CVE-2026-42945 - NGINX（Open Source / Plus / 基于NGINX的Ingress和... | 🔴 Critical | 22 |
 | [CVE-2026-42945](CVE-2026-42945-webdev75950-ux_nginx-rce-cve-2026-42945.md) | CVE-2026-42945 - NGINX 堆缓冲区溢出/RCE | 🔴 Critical | 22 |
 | [CVE-2026-42945](CVE-2026-42945-yusufdalbudak_CVE-2026-42945.md) | CVE-2026-42945 - NGINX 堆缓冲区溢出/RCE | 🔴 Critical | 22 |
-| [CVE-2026-43499](CVE-2026-43499-CakesTwix_Android-CVE-2026-43499.md) | CVE-2026-43499 - Linux内核 权限提升 | ⚪ 高危 | 6 |
-| [CVE-2026-43499](CVE-2026-43499-Linuxoid-cn_Mi8E5-Unlocker-by-CVE-2026-43499.md) | CVE-2026-43499 - Linux内核所有主流发行版 权限提升 | ⚪ 高危 | 6 |
-| [CVE-2026-43499](CVE-2026-43499-Thiasap_oppo-pgem10-ghostlock.md) | CVE-2026-43499 - Linux Kernel Use-After-Free | ⚪ 高危 | 6 |
-| [CVE-2026-43499](CVE-2026-43499-Yakayna_SpringPeace.md) | CVE-2026-43499 - Linux内核 本地权限提升 | ⚪ 高危 | 6 |
-| [CVE-2026-43499](CVE-2026-43499-caspy123_CVE-2026-43499.md) | CVE-2026-43499 - Linux内核 权限提升漏洞 | ⚪ 高危 | 6 |
-| [CVE-2026-43499](CVE-2026-43499-x-spy_CVE-2026-43499-popsicle.md) | CVE-2026-43499 - Linux内核 权限提升 | ⚪ 高危 | 6 |
+| [CVE-2026-43499](CVE-2026-43499-CakesTwix_Android-CVE-2026-43499.md) | CVE-2026-43499 - Linux内核 权限提升 | ⚪ 高危 | 7 |
+| [CVE-2026-43499](CVE-2026-43499-JoinChang_ghostlock-oneplus.md) | CVE-2026-43499 - Linux Kernel 本地权限提升 | ⚪ 高危 | 7 |
+| [CVE-2026-43499](CVE-2026-43499-Linuxoid-cn_Mi8E5-Unlocker-by-CVE-2026-43499.md) | CVE-2026-43499 - Linux内核所有主流发行版 权限提升 | ⚪ 高危 | 7 |
+| [CVE-2026-43499](CVE-2026-43499-Thiasap_oppo-pgem10-ghostlock.md) | CVE-2026-43499 - Linux Kernel Use-After-Free | ⚪ 高危 | 7 |
+| [CVE-2026-43499](CVE-2026-43499-Yakayna_SpringPeace.md) | CVE-2026-43499 - Linux内核 本地权限提升 | ⚪ 高危 | 7 |
+| [CVE-2026-43499](CVE-2026-43499-caspy123_CVE-2026-43499.md) | CVE-2026-43499 - Linux内核 权限提升漏洞 | ⚪ 高危 | 7 |
+| [CVE-2026-43499](CVE-2026-43499-x-spy_CVE-2026-43499-popsicle.md) | CVE-2026-43499 - Linux内核 权限提升 | ⚪ 高危 | 7 |
 | [CVE-2026-43500](CVE-2026-43500-attaattaatta_CVE-2026-43500.md) | CVE-2026-43284 - Linux Kernel 提权漏洞 | ⚪ 高危 | 1 |
 | [CVE-2026-43503](CVE-2026-43503-SecureWithUmer_CVE-2026-43503.md) | CVE-2026-43503 - Linux kernel 本地权限提升 | ⚪ 高危 | 5 |
 | [CVE-2026-43503](CVE-2026-43503-aexdyhaxor_CVE-2026-43503-DirtyClone.md) | CVE-2026-43503 - Linux Kernel 本地权限提升 | ⚪ 高危 | 5 |
@@ -384,4 +386,4 @@
 
 ---
 
-*最后更新: 2026-07-15*
+*最后更新: 2026-07-16*

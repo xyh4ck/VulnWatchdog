@@ -1,7 +1,7 @@
 {
   "$schema": "blacklist-schema.json",
   "version": "1.0.0",
-  "last_updated": "2026-07-15T21:14:18.524455Z",
+  "last_updated": "2026-07-16T01:51:40.223429Z",
   "description": "VulnWatchdog 黑名单配置文件 - 用于过滤低质量POC和恶意仓库",
   "settings": {
     "auto_blacklist_enabled": true,
@@ -11694,6 +11694,16 @@
         "last_quality_score": 0,
         "last_poisoning_risk": 50,
         "notes": "自动拉黑 - 失败原因: POC质量过低: 0, 有效性分析过短: 349 字符 (最少500字符)"
+      },
+      {
+        "username": "onesmiledx",
+        "reason": "POC质量持续过低(最近评分: 0/10); 投毒风险持续过高(最近风险: 90%)",
+        "added_date": "2026-07-16",
+        "added_by": "auto",
+        "fail_count": 1,
+        "last_quality_score": 0,
+        "last_poisoning_risk": 90,
+        "notes": "自动拉黑 - 失败原因: POC质量过低: 0-2, 投毒风险过高: 90%, 有效性分析过短: 466 字符 (最少500字符)"
       }
     ],
     "repositories": [
@@ -11729,11 +11739,11 @@
     "repositories": []
   },
   "statistics": {
-    "total_blocked": 14706,
-    "blocked_by_author": 14705,
+    "total_blocked": 14853,
+    "blocked_by_author": 14852,
     "blocked_by_repository": 1,
     "blocked_by_cve": 0,
-    "auto_blacklisted_authors": 1167,
+    "auto_blacklisted_authors": 1168,
     "auto_blacklisted_repositories": 0
   }
 }
