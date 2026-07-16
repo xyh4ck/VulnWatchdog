@@ -283,7 +283,7 @@
 | [CVE-2026-43494](CVE-2026-43494-tanzz1337_CVE-2026-43494-PinTheft-PoC.md) | CVE-2026-43494 - Linux内核 本地特权升级 | ⚪ 危害等级：高 | 1 |
 | [CVE-2026-43499](CVE-2026-43499-BuSung-dev_CVE-2026-43499-S25U.md) | CVE-2026-43499 - Samsung Galaxy S25 Ultra 本地权限提升 | ⚪ 高危 | 10 |
 | [CVE-2026-43499](CVE-2026-43499-CakesTwix_Android-CVE-2026-43499.md) | CVE-2026-43499 - Linux内核 权限提升 | ⚪ 高危 | 10 |
-| [CVE-2026-43499](CVE-2026-43499-Cxyofficial_x200-cve-2026-43499.md) | CVE-2026-43499 - Linux Kernel 本地权限提升 | ⚪ 高危 | 10 |
+| [CVE-2026-43499](CVE-2026-43499-Cxyofficial_x200-cve-2026-43499.md) | CVE-2026-43499 - Linux内核 内存泄露 | ⚪ 高危 | 10 |
 | [CVE-2026-43499](CVE-2026-43499-HYCQAQ_Logitech-G-Cloud-GhostLock-CVE-2026-43499.md) | CVE-2026-43499 - Logitech G Cloud 权限提升 | ⚪ 高 | 10 |
 | [CVE-2026-43499](CVE-2026-43499-JoinChang_ghostlock-oneplus.md) | CVE-2026-43499 - Linux Kernel 本地权限提升 | ⚪ 高危 | 10 |
 | [CVE-2026-43499](CVE-2026-43499-Linuxoid-cn_Mi8E5-Unlocker-by-CVE-2026-43499.md) | CVE-2026-43499 - Linux内核所有主流发行版 权限提升 | ⚪ 高危 | 10 |

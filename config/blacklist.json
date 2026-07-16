@@ -1,7 +1,7 @@
 {
   "$schema": "blacklist-schema.json",
   "version": "1.0.0",
-  "last_updated": "2026-07-16T10:08:43.391201Z",
+  "last_updated": "2026-07-16T13:30:16.483275Z",
   "description": "VulnWatchdog 黑名单配置文件 - 用于过滤低质量POC和恶意仓库",
   "settings": {
     "auto_blacklist_enabled": true,
@@ -11774,6 +11774,56 @@
         "last_quality_score": 9,
         "last_poisoning_risk": 80,
         "notes": "自动拉黑 - 失败原因: 投毒风险过高: 80%, 有效性分析过短: 422 字符 (最少500字符)"
+      },
+      {
+        "username": "DistrictBlauw",
+        "reason": "投毒风险持续过高(最近风险: 90%)",
+        "added_date": "2026-07-16",
+        "added_by": "auto",
+        "fail_count": 1,
+        "last_quality_score": 9,
+        "last_poisoning_risk": 90,
+        "notes": "自动拉黑 - 失败原因: 投毒风险过高: 90%"
+      },
+      {
+        "username": "HYCQAQ",
+        "reason": "投毒风险持续过高(最近风险: 80%)",
+        "added_date": "2026-07-16",
+        "added_by": "auto",
+        "fail_count": 1,
+        "last_quality_score": 7,
+        "last_poisoning_risk": 80,
+        "notes": "自动拉黑 - 失败原因: 投毒风险过高: 80%, 有效性分析过短: 486 字符 (最少500字符)"
+      },
+      {
+        "username": "XaocZenon",
+        "reason": "投毒风险持续过高(最近风险: 80%)",
+        "added_date": "2026-07-16",
+        "added_by": "auto",
+        "fail_count": 1,
+        "last_quality_score": 7,
+        "last_poisoning_risk": 80,
+        "notes": "自动拉黑 - 失败原因: 投毒风险过高: 80%, 有效性分析过短: 345 字符 (最少500字符)"
+      },
+      {
+        "username": "szybnev",
+        "reason": "投毒风险持续过高(最近风险: 80%)",
+        "added_date": "2026-07-16",
+        "added_by": "auto",
+        "fail_count": 1,
+        "last_quality_score": 9,
+        "last_poisoning_risk": 80,
+        "notes": "自动拉黑 - 失败原因: 投毒风险过高: 80%, 有效性分析过短: 474 字符 (最少500字符)"
+      },
+      {
+        "username": "thewhiteh4t",
+        "reason": "投毒风险持续过高(最近风险: 80%)",
+        "added_date": "2026-07-16",
+        "added_by": "auto",
+        "fail_count": 1,
+        "last_quality_score": 9,
+        "last_poisoning_risk": 80,
+        "notes": "自动拉黑 - 失败原因: 投毒风险过高: 80%"
       }
     ],
     "repositories": [
@@ -11809,11 +11859,11 @@
     "repositories": []
   },
   "statistics": {
-    "total_blocked": 15050,
-    "blocked_by_author": 15049,
+    "total_blocked": 15251,
+    "blocked_by_author": 15250,
     "blocked_by_repository": 1,
     "blocked_by_cve": 0,
-    "auto_blacklisted_authors": 1175,
+    "auto_blacklisted_authors": 1180,
     "auto_blacklisted_repositories": 0
   }
 }
