@@ -282,14 +282,14 @@
 | [CVE-2026-43284](CVE-2026-43284-lukeslp_redtail-ioc.md) | CVE-2026-43284 - Linux Kernel 本地权限提升 | ⚪ 高 | 1 |
 | [CVE-2026-43494](CVE-2026-43494-tanzz1337_CVE-2026-43494-PinTheft-PoC.md) | CVE-2026-43494 - Linux内核 本地特权升级 | ⚪ 危害等级：高 | 1 |
 | [CVE-2026-43499](CVE-2026-43499-2932796375github_CVE-2026-43499_OPPO-MT6835.md) | CVE-2026-43499 - OPPO MT6835设备 权限提升 | ⚪ 高危 | 13 |
-| [CVE-2026-43499](CVE-2026-43499-Bartixxx32_CVE-2026-43499-OnePlus15.md) | CVE-2026-43499 - OnePlus 15 权限提升 | ⚪ 高 | 13 |
-| [CVE-2026-43499](CVE-2026-43499-BuSung-dev_CVE-2026-43499-S25U.md) | CVE-2026-43499 - Samsung Galaxy S25 Ultra Use-After-Free | ⚪ 高危 | 13 |
+| [CVE-2026-43499](CVE-2026-43499-Bartixxx32_CVE-2026-43499-OnePlus15.md) | CVE-2026-43499 - OnePlus 15 本地权限升级 | ⚪ 高危 | 13 |
+| [CVE-2026-43499](CVE-2026-43499-BuSung-dev_CVE-2026-43499-S25U.md) | CVE-2026-43499 - Samsung Galaxy S25 Ultra 权限提升 | ⚪ 高危 | 13 |
 | [CVE-2026-43499](CVE-2026-43499-CakesTwix_Android-CVE-2026-43499.md) | CVE-2026-43499 - Linux内核 Use-after-free | ⚪ 高危 | 13 |
 | [CVE-2026-43499](CVE-2026-43499-Cxyofficial_x200-cve-2026-43499.md) | CVE-2026-43499 - Linux内核 权限提升 | ⚪ 高危 | 13 |
 | [CVE-2026-43499](CVE-2026-43499-HYCQAQ_Logitech-G-Cloud-GhostLock-CVE-2026-43499.md) | CVE-2026-43499 - Logitech G Cloud 权限提升 | ⚪ 高 | 13 |
 | [CVE-2026-43499](CVE-2026-43499-JoinChang_ghostlock-oneplus.md) | CVE-2026-43499 - Linux Kernel 本地权限提升 | ⚪ 高危 | 13 |
 | [CVE-2026-43499](CVE-2026-43499-Linuxoid-cn_Mi8E5-Unlocker-by-CVE-2026-43499.md) | CVE-2026-43499 - Linux内核所有主流发行版 权限提升 | ⚪ 高危 | 13 |
-| [CVE-2026-43499](CVE-2026-43499-SlightNeko_ghostlock-rothko.md) | CVE-2024-XXXX - biliDown v1.1.2 远程代码执行 | ⚪ 高 | 13 |
+| [CVE-2026-43499](CVE-2026-43499-SlightNeko_ghostlock-rothko.md) | CVE-2026-43499 - Linux内核 本地提权 | ⚪ 高 | 13 |
 | [CVE-2026-43499](CVE-2026-43499-Thiasap_oppo-pgem10-ghostlock.md) | CVE-2026-43499 - Linux Kernel Use-After-Free | ⚪ 高危 | 13 |
 | [CVE-2026-43499](CVE-2026-43499-Yakayna_SpringPeace.md) | CVE-2026-43499 - Linux内核 本地权限提升 | ⚪ 高危 | 13 |
 | [CVE-2026-43499](CVE-2026-43499-caspy123_CVE-2026-43499.md) | CVE-2026-43499 - Linux内核 权限提升漏洞 | ⚪ 高危 | 13 |
