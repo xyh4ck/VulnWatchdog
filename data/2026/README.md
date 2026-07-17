@@ -283,7 +283,7 @@
 | [CVE-2026-43494](CVE-2026-43494-tanzz1337_CVE-2026-43494-PinTheft-PoC.md) | CVE-2026-43494 - Linux内核 本地特权升级 | ⚪ 危害等级：高 | 1 |
 | [CVE-2026-43499](CVE-2026-43499-2932796375github_CVE-2026-43499_OPPO-MT6835.md) | CVE-2026-43499 - OPPO MT6835设备 权限提升 | ⚪ 高危 | 13 |
 | [CVE-2026-43499](CVE-2026-43499-Bartixxx32_CVE-2026-43499-OnePlus15.md) | CVE-2026-43499 - OnePlus 15 权限提升 | ⚪ 高 | 13 |
-| [CVE-2026-43499](CVE-2026-43499-BuSung-dev_CVE-2026-43499-S25U.md) | CVE-2026-43499 - Samsung Galaxy S25 Ultra 栈释放后重用 | ⚪ 高危 | 13 |
+| [CVE-2026-43499](CVE-2026-43499-BuSung-dev_CVE-2026-43499-S25U.md) | CVE-2026-43499 - Samsung Galaxy S25 Ultra Use-After-Free | ⚪ 高危 | 13 |
 | [CVE-2026-43499](CVE-2026-43499-CakesTwix_Android-CVE-2026-43499.md) | CVE-2026-43499 - Linux内核 Use-after-free | ⚪ 高危 | 13 |
 | [CVE-2026-43499](CVE-2026-43499-Cxyofficial_x200-cve-2026-43499.md) | CVE-2026-43499 - Linux内核 权限提升 | ⚪ 高危 | 13 |
 | [CVE-2026-43499](CVE-2026-43499-HYCQAQ_Logitech-G-Cloud-GhostLock-CVE-2026-43499.md) | CVE-2026-43499 - Logitech G Cloud 权限提升 | ⚪ 高 | 13 |
