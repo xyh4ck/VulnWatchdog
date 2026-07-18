@@ -1,6 +1,6 @@
 # 2026年 CVE漏洞列表
 
-> 📊 共收录 **386** 个CVE漏洞
+> 📊 共收录 **387** 个CVE漏洞
 
 ---
 
@@ -370,9 +370,10 @@
 | [CVE-2026-57517](CVE-2026-57517-shinthink_CVE-2026-57517.md) | CVE-2026-57517 - Control Web Panel (CWP) SQL注入/盲注/远程代码执行 | ⚪ 严重/Critical | 1 |
 | [CVE-2026-58116](CVE-2026-58116-Hunt-Benito_llama-factory-webui-rce-cve-2026-58116-trust-remote-code-model-path-injection.md) | CVE-2026-58116 - LLaMA-Factory WebUI 远程代码执行（RCE） | ⚪ 严重/Critical | 1 |
 | [CVE-2026-58138](CVE-2026-58138-BiiTts_CVE-2026-58138-Conductor-Unauth-RCE.md) | CVE-2026-58138 - Netflix Conductor 远程代码执行 | ⚪ 严重 | 1 |
-| [CVE-2026-63030](CVE-2026-63030-4minx_CVE-2026-63030.md) | CVE-2026-63030 - WordPress 远程代码执行 | ⚪ 高危 | 3 |
-| [CVE-2026-63030](CVE-2026-63030-ZephrFish_wp2shell-scanner.md) | CVE-2026-63030 - WordPress RCE | 🔴 Critical | 3 |
-| [CVE-2026-63030](CVE-2026-63030-zeroc00I_CVE-2026-63030.md) | CVE-2026-63030 - WordPress SQL注入 | ⚪ 严重 | 3 |
+| [CVE-2026-63030](CVE-2026-63030-4minx_CVE-2026-63030.md) | CVE-2026-63030 - WordPress 远程代码执行 | ⚪ 高危 | 4 |
+| [CVE-2026-63030](CVE-2026-63030-ZephrFish_wp2shell-scanner.md) | CVE-2026-63030 - WordPress RCE | 🔴 Critical | 4 |
+| [CVE-2026-63030](CVE-2026-63030-gbrsh_CVE-2026-63030.md) | CVE-2026-63030 - WordPress 远程代码执行 | ⚪ 高 | 4 |
+| [CVE-2026-63030](CVE-2026-63030-zeroc00I_CVE-2026-63030.md) | CVE-2026-63030 - WordPress SQL注入 | ⚪ 严重 | 4 |
 | [CVE-2026-6307](CVE-2026-6307-0xsha_CVE-2026-6307.md) | CVE-2026-6307 - Google Chrome / Chromium V8 引擎 类型混淆/远程代码执行 | ⚪ 严重 | 2 |
 | [CVE-2026-6307](CVE-2026-6307-J4ck3LSyN-Gen2_CVE-2026-6307-Longinus.md) | CVE-2026-6307 - Google V8 JavaScript 引擎（d8 shell/Chromium 相关... | ⚪ 高危 | 2 |
 | [CVE-2026-6433](CVE-2026-6433-murrez_CVE-2026-6433.md) | CVE-2026-6433 - FlipperCode Custom CSS, JS & PHP SQL注入/远程代码执... | ⚪ 高危 | 1 |
