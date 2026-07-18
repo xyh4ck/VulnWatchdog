@@ -1,6 +1,6 @@
 # 2026年 CVE漏洞列表
 
-> 📊 共收录 **384** 个CVE漏洞
+> 📊 共收录 **386** 个CVE漏洞
 
 ---
 
@@ -31,6 +31,7 @@
 | [CVE-2026-14960](CVE-2026-14960-FzRsLLaSheR_CVE-2026-14960-CVE-2026-14961.md) | CVE-2026-14960 - Pegatron TdeIo Driver 权限提升 | ⚪ 高危 | 1 |
 | [CVE-2026-1560](CVE-2026-1560-Z3YR0xX_CVE-2026-1560-Authenticated-Remote-Code-Execution-in-Lazy-Blocks-4.2.0.md) | CVE-2026-1560 - Custom Block Builder – Lazy Blocks WordPress... | 🟠 High | 1 |
 | [CVE-2026-20127](CVE-2026-20127-gigachadusers_cve-2026-20127.md) | CVE-2026-20127 - Cisco SD-WAN 信息泄露 | ⚪ 高危 | 1 |
+| [CVE-2026-20253](CVE-2026-20253-watchtowrlabs_watchTowr-vs-Splunk-CVE-2026-20253.md) | CVE-2026-20253 - Splunk Enterprise RCE | ⚪ 危害等级高 | 1 |
 | [CVE-2026-20841](CVE-2026-20841-404godd_CVE-2026-20841-PoC.md) | CVE-2026-20841 - Windows Notepad（记事本） 命令注入 | ⚪ 高危 | 11 |
 | [CVE-2026-20841](CVE-2026-20841-BTtea_CVE-2026-20841-PoC.md) | CVE-2026-20841 - Windows Notepad（新版记事本） 命令注入/RCE | ⚪ 高危 | 11 |
 | [CVE-2026-20841](CVE-2026-20841-EleniChristopoulou_PoC-CVE-2026-20841.md) | CVE-2026-20841 - Windows Notepad 远程代码执行/RCE | ⚪ 高危 | 11 |
@@ -369,8 +370,9 @@
 | [CVE-2026-57517](CVE-2026-57517-shinthink_CVE-2026-57517.md) | CVE-2026-57517 - Control Web Panel (CWP) SQL注入/盲注/远程代码执行 | ⚪ 严重/Critical | 1 |
 | [CVE-2026-58116](CVE-2026-58116-Hunt-Benito_llama-factory-webui-rce-cve-2026-58116-trust-remote-code-model-path-injection.md) | CVE-2026-58116 - LLaMA-Factory WebUI 远程代码执行（RCE） | ⚪ 严重/Critical | 1 |
 | [CVE-2026-58138](CVE-2026-58138-BiiTts_CVE-2026-58138-Conductor-Unauth-RCE.md) | CVE-2026-58138 - Netflix Conductor 远程代码执行 | ⚪ 严重 | 1 |
-| [CVE-2026-63030](CVE-2026-63030-ZephrFish_wp2shell-scanner.md) | CVE-2026-63030 - WordPress RCE | 🔴 Critical | 2 |
-| [CVE-2026-63030](CVE-2026-63030-zeroc00I_CVE-2026-63030.md) | CVE-2026-63030 - WordPress SQL注入 | ⚪ 严重 | 2 |
+| [CVE-2026-63030](CVE-2026-63030-4minx_CVE-2026-63030.md) | CVE-2026-63030 - WordPress SQL注入 | ⚪ 高危 | 3 |
+| [CVE-2026-63030](CVE-2026-63030-ZephrFish_wp2shell-scanner.md) | CVE-2026-63030 - WordPress RCE | 🔴 Critical | 3 |
+| [CVE-2026-63030](CVE-2026-63030-zeroc00I_CVE-2026-63030.md) | CVE-2026-63030 - WordPress SQL注入 | ⚪ 严重 | 3 |
 | [CVE-2026-6307](CVE-2026-6307-0xsha_CVE-2026-6307.md) | CVE-2026-6307 - Google Chrome / Chromium V8 引擎 类型混淆/远程代码执行 | ⚪ 严重 | 2 |
 | [CVE-2026-6307](CVE-2026-6307-J4ck3LSyN-Gen2_CVE-2026-6307-Longinus.md) | CVE-2026-6307 - Google V8 JavaScript 引擎（d8 shell/Chromium 相关... | ⚪ 高危 | 2 |
 | [CVE-2026-6433](CVE-2026-6433-murrez_CVE-2026-6433.md) | CVE-2026-6433 - FlipperCode Custom CSS, JS & PHP SQL注入/远程代码执... | ⚪ 高危 | 1 |
