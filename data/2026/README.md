@@ -1,6 +1,6 @@
 # 2026年 CVE漏洞列表
 
-> 📊 共收录 **387** 个CVE漏洞
+> 📊 共收录 **390** 个CVE漏洞
 
 ---
 
@@ -283,23 +283,25 @@
 | [CVE-2026-42945](CVE-2026-42945-yusufdalbudak_CVE-2026-42945.md) | CVE-2026-42945 - NGINX 堆缓冲区溢出/RCE | 🔴 Critical | 22 |
 | [CVE-2026-43284](CVE-2026-43284-lukeslp_redtail-ioc.md) | CVE-2026-43284 - Linux Kernel 本地权限提升 | ⚪ 高 | 1 |
 | [CVE-2026-43494](CVE-2026-43494-tanzz1337_CVE-2026-43494-PinTheft-PoC.md) | CVE-2026-43494 - Linux内核 本地特权升级 | ⚪ 危害等级：高 | 1 |
-| [CVE-2026-43499](CVE-2026-43499-2932796375github_CVE-2026-43499_OPPO-MT6835.md) | CVE-2026-43499 - OPPO MT6835设备 权限提升 | ⚪ 高危 | 17 |
-| [CVE-2026-43499](CVE-2026-43499-Bartixxx32_CVE-2026-43499-OnePlus15.md) | CVE-2026-43499 - OnePlus 15 权限提升 | ⚪ 高危 | 17 |
-| [CVE-2026-43499](CVE-2026-43499-BuSung-dev_CVE-2026-43499-S25U.md) | CVE-2026-43499 - Samsung Galaxy S25 Ultra 提权/栈上使用后释放 | ⚪ 高 | 17 |
-| [CVE-2026-43499](CVE-2026-43499-CakesTwix_Android-CVE-2026-43499.md) | CVE-2026-43499 - Linux内核 Use-after-free | ⚪ 高危 | 17 |
-| [CVE-2026-43499](CVE-2026-43499-Cxyofficial_x200-cve-2026-43499.md) | CVE-2026-43499 - Linux内核 权限提升 | ⚪ 高危 | 17 |
-| [CVE-2026-43499](CVE-2026-43499-HYCQAQ_Logitech-G-Cloud-GhostLock-CVE-2026-43499.md) | CVE-2026-43499 - Logitech G Cloud 权限提升 | ⚪ 高 | 17 |
-| [CVE-2026-43499](CVE-2026-43499-JoinChang_ghostlock-oneplus.md) | CVE-2026-43499 - Linux Kernel 本地权限提升 | ⚪ 高危 | 17 |
-| [CVE-2026-43499](CVE-2026-43499-Linuxoid-cn_Mi8E5-Unlocker-by-CVE-2026-43499.md) | CVE-2026-43499 - Linux内核所有主流发行版 权限提升 | ⚪ 高危 | 17 |
-| [CVE-2026-43499](CVE-2026-43499-SlightNeko_ghostlock-rothko.md) | CVE-2026-43499 - Linux Kernel 本地权限提升 | ⚪ 高危 | 17 |
-| [CVE-2026-43499](CVE-2026-43499-Thiasap_oppo-pgem10-ghostlock.md) | CVE-2026-43499 - Linux Kernel Use-After-Free | ⚪ 高危 | 17 |
-| [CVE-2026-43499](CVE-2026-43499-Wtrwx_smt878u-ionstack-poc.md) | CVE-2026-43499 - Linux内核 提升权限 | ⚪ 高 | 17 |
-| [CVE-2026-43499](CVE-2026-43499-Yakayna_SpringPeace.md) | CVE-2026-43499 - Linux内核 本地权限提升 | ⚪ 高危 | 17 |
-| [CVE-2026-43499](CVE-2026-43499-ayyy7128_CVE-2026-43499-jinghu.md) | CVE-2026-43499 - Linux Kernel 权限提升 | ⚪ 高危 | 17 |
-| [CVE-2026-43499](CVE-2026-43499-caspy123_CVE-2026-43499.md) | CVE-2026-43499 - Linux内核 权限提升漏洞 | ⚪ 高危 | 17 |
-| [CVE-2026-43499](CVE-2026-43499-fuukliam_vivo-x-fold6-ghostlock.md) | CVE-2026-43499 - Linux内核 权限提升 | ⚪ 高危 | 17 |
-| [CVE-2026-43499](CVE-2026-43499-sorrow404Null_CVE-2026-43499-RMX5200.md) | CVE-2026-43499 - realme RMX5200 权限提升 | ⚪ 高危 | 17 |
-| [CVE-2026-43499](CVE-2026-43499-x-spy_CVE-2026-43499-popsicle.md) | CVE-2026-43499 - Linux Kernel, Android 提权漏洞 | ⚪ 高危 | 17 |
+| [CVE-2026-43499](CVE-2026-43499-2932796375github_CVE-2026-43499_OPPO-MT6835.md) | CVE-2026-43499 - OPPO MT6835设备 权限提升 | ⚪ 高危 | 19 |
+| [CVE-2026-43499](CVE-2026-43499-Bartixxx32_CVE-2026-43499-OnePlus15.md) | CVE-2026-43499 - OnePlus 15 权限提升 | ⚪ 高危 | 19 |
+| [CVE-2026-43499](CVE-2026-43499-BuSung-dev_CVE-2026-43499-S25U.md) | CVE-2026-43499 - Samsung Galaxy S25 Ultra 提权/栈上使用后释放 | ⚪ 高 | 19 |
+| [CVE-2026-43499](CVE-2026-43499-CakesTwix_Android-CVE-2026-43499.md) | CVE-2026-43499 - Linux内核 Use-after-free | ⚪ 高危 | 19 |
+| [CVE-2026-43499](CVE-2026-43499-Cxyofficial_x200-cve-2026-43499.md) | CVE-2026-43499 - Linux内核 权限提升 | ⚪ 高危 | 19 |
+| [CVE-2026-43499](CVE-2026-43499-HYCQAQ_Logitech-G-Cloud-GhostLock-CVE-2026-43499.md) | CVE-2026-43499 - Logitech G Cloud 权限提升 | ⚪ 高 | 19 |
+| [CVE-2026-43499](CVE-2026-43499-JoinChang_ghostlock-oneplus.md) | CVE-2026-43499 - Linux Kernel 本地权限提升 | ⚪ 高危 | 19 |
+| [CVE-2026-43499](CVE-2026-43499-Kananosa_CVE-2026-43499-For-Xiaomi-17T-chagall.md) | CVE-2026-43499 - Linux内核 本地权限提升 | ⚪ 高危 | 19 |
+| [CVE-2026-43499](CVE-2026-43499-Linuxoid-cn_Mi8E5-Unlocker-by-CVE-2026-43499.md) | CVE-2026-43499 - Linux内核所有主流发行版 权限提升 | ⚪ 高危 | 19 |
+| [CVE-2026-43499](CVE-2026-43499-SlightNeko_ghostlock-rothko.md) | CVE-2026-43499 - Linux Kernel 本地权限提升 | ⚪ 高危 | 19 |
+| [CVE-2026-43499](CVE-2026-43499-Thiasap_oppo-pgem10-ghostlock.md) | CVE-2026-43499 - Linux Kernel Use-After-Free | ⚪ 高危 | 19 |
+| [CVE-2026-43499](CVE-2026-43499-Wtrwx_smt878u-ionstack-poc.md) | CVE-2026-43499 - Linux内核 本地权限提升 | ⚪ 高危 | 19 |
+| [CVE-2026-43499](CVE-2026-43499-Yakayna_SpringPeace.md) | CVE-2026-43499 - Linux内核 本地权限提升 | ⚪ 高危 | 19 |
+| [CVE-2026-43499](CVE-2026-43499-ayyy7128_CVE-2026-43499-jinghu.md) | CVE-2026-43499 - Linux Kernel 权限提升 | ⚪ 高危 | 19 |
+| [CVE-2026-43499](CVE-2026-43499-caspy123_CVE-2026-43499.md) | CVE-2026-43499 - Linux内核 权限提升漏洞 | ⚪ 高危 | 19 |
+| [CVE-2026-43499](CVE-2026-43499-d224407_CVE-2026-43499.md) | CVE-2026-43499 - Linux内核 提权漏洞 | ⚪ 高危 | 19 |
+| [CVE-2026-43499](CVE-2026-43499-fuukliam_vivo-x-fold6-ghostlock.md) | CVE-2026-43499 - Linux内核 权限提升 | ⚪ 高危 | 19 |
+| [CVE-2026-43499](CVE-2026-43499-sorrow404Null_CVE-2026-43499-RMX5200.md) | CVE-2026-43499 - Linux内核 本地权限提升 | ⚪ 高危 | 19 |
+| [CVE-2026-43499](CVE-2026-43499-x-spy_CVE-2026-43499-popsicle.md) | CVE-2026-43499 - Linux Kernel, Android 提权漏洞 | ⚪ 高危 | 19 |
 | [CVE-2026-43500](CVE-2026-43500-attaattaatta_CVE-2026-43500.md) | CVE-2026-43284 - Linux Kernel 提权漏洞 | ⚪ 高危 | 1 |
 | [CVE-2026-43503](CVE-2026-43503-SecureWithUmer_CVE-2026-43503.md) | CVE-2026-43503 - Linux kernel 本地权限提升 | ⚪ 高危 | 5 |
 | [CVE-2026-43503](CVE-2026-43503-aexdyhaxor_CVE-2026-43503-DirtyClone.md) | CVE-2026-43503 - Linux Kernel 本地权限提升 | ⚪ 高危 | 5 |
@@ -370,10 +372,11 @@
 | [CVE-2026-57517](CVE-2026-57517-shinthink_CVE-2026-57517.md) | CVE-2026-57517 - Control Web Panel (CWP) SQL注入/盲注/远程代码执行 | ⚪ 严重/Critical | 1 |
 | [CVE-2026-58116](CVE-2026-58116-Hunt-Benito_llama-factory-webui-rce-cve-2026-58116-trust-remote-code-model-path-injection.md) | CVE-2026-58116 - LLaMA-Factory WebUI 远程代码执行（RCE） | ⚪ 严重/Critical | 1 |
 | [CVE-2026-58138](CVE-2026-58138-BiiTts_CVE-2026-58138-Conductor-Unauth-RCE.md) | CVE-2026-58138 - Netflix Conductor 远程代码执行 | ⚪ 严重 | 1 |
-| [CVE-2026-63030](CVE-2026-63030-4minx_CVE-2026-63030.md) | CVE-2026-63030 - WordPress 远程代码执行 | ⚪ 高危 | 4 |
-| [CVE-2026-63030](CVE-2026-63030-ZephrFish_wp2shell-scanner.md) | CVE-2026-63030 - WordPress RCE | 🔴 Critical | 4 |
-| [CVE-2026-63030](CVE-2026-63030-gbrsh_CVE-2026-63030.md) | CVE-2026-63030 - WordPress 远程代码执行 | ⚪ 高 | 4 |
-| [CVE-2026-63030](CVE-2026-63030-zeroc00I_CVE-2026-63030.md) | CVE-2026-63030 - WordPress SQL注入 | ⚪ 严重 | 4 |
+| [CVE-2026-63030](CVE-2026-63030-4minx_CVE-2026-63030.md) | CVE-2026-63030 - WordPress 远程代码执行 | ⚪ 高危 | 5 |
+| [CVE-2026-63030](CVE-2026-63030-ZephrFish_wp2shell-scanner.md) | CVE-2026-63030 - WordPress RCE | 🔴 Critical | 5 |
+| [CVE-2026-63030](CVE-2026-63030-gbrsh_CVE-2026-63030.md) | CVE-2026-63030 - WordPress 远程代码执行 | ⚪ 高 | 5 |
+| [CVE-2026-63030](CVE-2026-63030-mhtsec_CVE-2026-63030.md) | CVE-2026-63030 - WordPress Core REST API SQL注入, 未授权管理员创建, 远程... | ⚪ 高危：可导致未授权新建管理员账号 | 5 |
+| [CVE-2026-63030](CVE-2026-63030-zeroc00I_CVE-2026-63030.md) | CVE-2026-63030 - WordPress SQL注入 | ⚪ 严重 | 5 |
 | [CVE-2026-6307](CVE-2026-6307-0xsha_CVE-2026-6307.md) | CVE-2026-6307 - Google Chrome / Chromium V8 引擎 类型混淆/远程代码执行 | ⚪ 严重 | 2 |
 | [CVE-2026-6307](CVE-2026-6307-J4ck3LSyN-Gen2_CVE-2026-6307-Longinus.md) | CVE-2026-6307 - Google V8 JavaScript 引擎（d8 shell/Chromium 相关... | ⚪ 高危 | 2 |
 | [CVE-2026-6433](CVE-2026-6433-murrez_CVE-2026-6433.md) | CVE-2026-6433 - FlipperCode Custom CSS, JS & PHP SQL注入/远程代码执... | ⚪ 高危 | 1 |
@@ -406,4 +409,4 @@
 
 ---
 
-*最后更新: 2026-07-18*
+*最后更新: 2026-07-19*
