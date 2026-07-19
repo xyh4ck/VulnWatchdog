@@ -1,7 +1,7 @@
 {
   "$schema": "blacklist-schema.json",
   "version": "1.0.0",
-  "last_updated": "2026-07-19T01:55:39.162952Z",
+  "last_updated": "2026-07-19T06:33:54.814154Z",
   "description": "VulnWatchdog 黑名单配置文件 - 用于过滤低质量POC和恶意仓库",
   "settings": {
     "auto_blacklist_enabled": true,
@@ -13104,6 +13104,46 @@
         "last_quality_score": 8,
         "last_poisoning_risk": 80,
         "notes": "自动拉黑 - 失败原因: 投毒风险过高: 80%"
+      },
+      {
+        "username": "sudoand3rs0n",
+        "reason": "投毒风险持续过高(最近风险: 80%)",
+        "added_date": "2026-07-19",
+        "added_by": "auto",
+        "fail_count": 1,
+        "last_quality_score": 8,
+        "last_poisoning_risk": 80,
+        "notes": "自动拉黑 - 失败原因: 投毒风险过高: 80%, 有效性分析过短: 403 字符 (最少500字符)"
+      },
+      {
+        "username": "CryptoMachio",
+        "reason": "投毒风险持续过高(最近风险: 80%)",
+        "added_date": "2026-07-19",
+        "added_by": "auto",
+        "fail_count": 1,
+        "last_quality_score": 8,
+        "last_poisoning_risk": 80,
+        "notes": "自动拉黑 - 失败原因: 投毒风险过高: 80%, 有效性分析过短: 400 字符 (最少500字符)"
+      },
+      {
+        "username": "anasrami12",
+        "reason": "投毒风险持续过高(最近风险: 75%)",
+        "added_date": "2026-07-19",
+        "added_by": "auto",
+        "fail_count": 1,
+        "last_quality_score": 8,
+        "last_poisoning_risk": 75,
+        "notes": "自动拉黑 - 失败原因: 投毒风险过高: 75%, 有效性分析过短: 443 字符 (最少500字符)"
+      },
+      {
+        "username": "alfa8sa",
+        "reason": "投毒风险持续过高(最近风险: 85%)",
+        "added_date": "2026-07-19",
+        "added_by": "auto",
+        "fail_count": 1,
+        "last_quality_score": 9,
+        "last_poisoning_risk": 85,
+        "notes": "自动拉黑 - 失败原因: 投毒风险过高: 85, 有效性分析过短: 497 字符 (最少500字符)"
       }
     ],
     "repositories": [
@@ -13139,11 +13179,11 @@
     "repositories": []
   },
   "statistics": {
-    "total_blocked": 17853,
-    "blocked_by_author": 17852,
+    "total_blocked": 18049,
+    "blocked_by_author": 18048,
     "blocked_by_repository": 1,
     "blocked_by_cve": 0,
-    "auto_blacklisted_authors": 1308,
+    "auto_blacklisted_authors": 1312,
     "auto_blacklisted_repositories": 0
   }
 }
