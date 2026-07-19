@@ -1,6 +1,6 @@
 # 2026年 CVE漏洞列表
 
-> 📊 共收录 **392** 个CVE漏洞
+> 📊 共收录 **393** 个CVE漏洞
 
 ---
 
@@ -237,7 +237,8 @@
 | [CVE-2026-39047](CVE-2026-39047-J4ck3LSyN-Gen2_CVE-2026-39047.md) | CVE-2026-39047 - Epson 多功能打印机（重点为 L14150，固件 FL27PB，及可能相近型号） ... | ⚪ 高危 | 1 |
 | [CVE-2026-39275](CVE-2026-39275-Securify-AI_CVE-2026-39275.md) | CVE-2026-39275 - Cockpit CMS 存储型跨站脚本（XSS） | ⚪ 高危 | 1 |
 | [CVE-2026-39492](CVE-2026-39492-shinthink_CVE-2026-39492.md) | CVE-2026-39492 - WP Maps插件 SQL注入 | ⚪ 危害等级：严重 | 1 |
-| [CVE-2026-39987](CVE-2026-39987-mki9_CVE-2026-39987_exploit.md) | CVE-2026-39987 - 未指明产品 RCE | ⚪ 高 | 1 |
+| [CVE-2026-39987](CVE-2026-39987-h3raklez_CVE-2026-39987.md) | CVE-2026-39987 - Marimo 远程代码执行(RCE) | ⚪ 危害等级严重 | 2 |
+| [CVE-2026-39987](CVE-2026-39987-mki9_CVE-2026-39987_exploit.md) | CVE-2026-39987 - 未指明产品 RCE | ⚪ 高 | 2 |
 | [CVE-2026-41089](CVE-2026-41089-ADScanPro_CVE-2026-41089-LongLogon.md) | CVE-2026-41089 - Windows Netlogon RCE | ⚪ 高危 | 1 |
 | [CVE-2026-41940](CVE-2026-41940-Christian93111_CVE-2026-41940.md) | CVE-2026-41940 - cPanel & WHM 认证绕过/CRLF注入/会话伪造 | ⚪ 高危 | 21 |
 | [CVE-2026-41940](CVE-2026-41940-Jenderal92_CVE-2026-41940.md) | CVE-2026-41940 - cPanel/WHM 认证绕过 | ⚪ 高危 | 21 |
@@ -285,13 +286,13 @@
 | [CVE-2026-43284](CVE-2026-43284-lukeslp_redtail-ioc.md) | CVE-2026-43284 - Linux Kernel 本地权限提升 | ⚪ 高 | 1 |
 | [CVE-2026-43494](CVE-2026-43494-tanzz1337_CVE-2026-43494-PinTheft-PoC.md) | CVE-2026-43494 - Linux内核 本地特权升级 | ⚪ 危害等级：高 | 1 |
 | [CVE-2026-43499](CVE-2026-43499-2932796375github_CVE-2026-43499_OPPO-MT6835.md) | CVE-2026-43499 - OPPO MT6835设备 权限提升 | ⚪ 高危 | 19 |
-| [CVE-2026-43499](CVE-2026-43499-Bartixxx32_CVE-2026-43499-OnePlus15.md) | CVE-2026-43499 - Linux Kernel 权限提升 | ⚪ 高危 | 19 |
+| [CVE-2026-43499](CVE-2026-43499-Bartixxx32_CVE-2026-43499-OnePlus15.md) | CVE-2026-43499 - OnePlus 15 本地权限提升 | ⚪ 高危 | 19 |
 | [CVE-2026-43499](CVE-2026-43499-BuSung-dev_CVE-2026-43499-S25U.md) | CVE-2026-43499 - Samsung Galaxy S25 Ultra 提权/栈上使用后释放 | ⚪ 高 | 19 |
 | [CVE-2026-43499](CVE-2026-43499-CakesTwix_Android-CVE-2026-43499.md) | CVE-2026-43499 - Linux内核 Use-after-free | ⚪ 高危 | 19 |
 | [CVE-2026-43499](CVE-2026-43499-Cxyofficial_x200-cve-2026-43499.md) | CVE-2026-43499 - Linux内核 权限提升 | ⚪ 高危 | 19 |
 | [CVE-2026-43499](CVE-2026-43499-HYCQAQ_Logitech-G-Cloud-GhostLock-CVE-2026-43499.md) | CVE-2026-43499 - Logitech G Cloud 权限提升 | ⚪ 高 | 19 |
 | [CVE-2026-43499](CVE-2026-43499-JoinChang_ghostlock-oneplus.md) | CVE-2026-43499 - Linux Kernel 本地权限提升 | ⚪ 高危 | 19 |
-| [CVE-2026-43499](CVE-2026-43499-Kananosa_CVE-2026-43499-For-Xiaomi-17T-chagall.md) | CVE-2026-43499 - Linux内核 本地权限提升 | ⚪ 高危 | 19 |
+| [CVE-2026-43499](CVE-2026-43499-Kananosa_CVE-2026-43499-For-Xiaomi-17T-chagall.md) | CVE-2026-43499 - Linux内核 本地权限提升 | ⚪ 高 | 19 |
 | [CVE-2026-43499](CVE-2026-43499-Linuxoid-cn_Mi8E5-Unlocker-by-CVE-2026-43499.md) | CVE-2026-43499 - Linux内核所有主流发行版 权限提升 | ⚪ 高危 | 19 |
 | [CVE-2026-43499](CVE-2026-43499-SlightNeko_ghostlock-rothko.md) | CVE-2026-43499 - Linux Kernel 本地权限提升 | ⚪ 高危 | 19 |
 | [CVE-2026-43499](CVE-2026-43499-Thiasap_oppo-pgem10-ghostlock.md) | CVE-2026-43499 - Linux Kernel Use-After-Free | ⚪ 高危 | 19 |
@@ -301,7 +302,7 @@
 | [CVE-2026-43499](CVE-2026-43499-caspy123_CVE-2026-43499.md) | CVE-2026-43499 - Linux内核 权限提升漏洞 | ⚪ 高危 | 19 |
 | [CVE-2026-43499](CVE-2026-43499-d224407_CVE-2026-43499.md) | CVE-2026-43499 - Linux Kernel 权限提升 | ⚪ 高危 | 19 |
 | [CVE-2026-43499](CVE-2026-43499-fuukliam_vivo-x-fold6-ghostlock.md) | CVE-2026-43499 - Linux内核 权限提升 | ⚪ 高危 | 19 |
-| [CVE-2026-43499](CVE-2026-43499-sorrow404Null_CVE-2026-43499-RMX5200.md) | CVE-2026-43499 - realme RMX5200 本地权限提升 | ⚪ 高危 | 19 |
+| [CVE-2026-43499](CVE-2026-43499-sorrow404Null_CVE-2026-43499-RMX5200.md) | CVE-2026-43499 - Linux 内核 本地权限提升 | ⚪ 高危 | 19 |
 | [CVE-2026-43499](CVE-2026-43499-x-spy_CVE-2026-43499-popsicle.md) | CVE-2026-43499 - Linux Kernel, Android 提权漏洞 | ⚪ 高危 | 19 |
 | [CVE-2026-43500](CVE-2026-43500-attaattaatta_CVE-2026-43500.md) | CVE-2026-43284 - Linux Kernel 提权漏洞 | ⚪ 高危 | 1 |
 | [CVE-2026-43503](CVE-2026-43503-SecureWithUmer_CVE-2026-43503.md) | CVE-2026-43503 - Linux kernel 本地权限提升 | ⚪ 高危 | 5 |
@@ -313,7 +314,7 @@
 | [CVE-2026-43735](CVE-2026-43735-dem0ns_CVE-2026-43735.md) | CVE-2026-43735 - Apple WebKit / Safari 跨域信息泄露/同源策略绕过 | ⚪ 高危 | 1 |
 | [CVE-2026-44789](CVE-2026-44789-BiiTts_CVE-2026-44789-n8n-PrototypePollution-RCE.md) | CVE-2026-44789 - n8n工作流自动化平台 原型污染/远程代码执行 | ⚪ 严重 | 1 |
 | [CVE-2026-46215](CVE-2026-46215-bluedragonsecurity_CVE-2026-46215-EXPLOIT.md) | CVE-2026-46215 - Linux Kernel Use After Free | 🟠 High | 2 |
-| [CVE-2026-46215](CVE-2026-46215-bluedragonsecurity_CVE-2026-46215-exploit-linux-7.0-uaf-stable.md) | CVE-2026-46215 - Linux Kernel Use After Free | ⚪ 高危 | 2 |
+| [CVE-2026-46215](CVE-2026-46215-bluedragonsecurity_CVE-2026-46215-exploit-linux-7.0-uaf-stable.md) | CVE-2026-46215 - Linux Kernel RCE | ⚪ 高 | 2 |
 | [CVE-2026-46300](CVE-2026-46300-1neptune_Fragnesia.md) | CVE-2026-46300 - Linux Kernel（XFRM ESP-in-TCP / splice / pag... | ⚪ 高危 | 7 |
 | [CVE-2026-46300](CVE-2026-46300-BenedictEjepu_CVE-2026-46300-Fragnesia---TryHackMe-Lab-Project.md) | CVE-2026-46300 - Linux Kernel RCE | ⚪ 高 | 7 |
 | [CVE-2026-46300](CVE-2026-46300-First-John_cve_2026_frag_family_fix.md) | CVE-2026-46300 - Linux Kernel 本地权限提升 | ⚪ 高危 | 7 |
