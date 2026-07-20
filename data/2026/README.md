@@ -1,6 +1,6 @@
 # 2026年 CVE漏洞列表
 
-> 📊 共收录 **398** 个CVE漏洞
+> 📊 共收录 **401** 个CVE漏洞
 
 ---
 
@@ -22,6 +22,7 @@
 | [CVE-2026-10520](CVE-2026-10520-watchtowrlabs_watchTowr-vs-Ivanti-Sentry-RCE-CVE-2026-10520-CVE-2026-10523.md) | CVE-2026-10520 - Ivanti Sentry OS命令注入/远程代码执行 | ⚪ 严重/Critical | 2 |
 | [CVE-2026-10580](CVE-2026-10580-0xgh057r3c0n_CVE-2026-10580.md) | CVE-2026-10580 - WordPress Hippoo Mobile App for WooCommerce... | ⚪ 严重 | 2 |
 | [CVE-2026-10580](CVE-2026-10580-Polosss_By-Poloss..-..CVE-2026-10580.md) | CVE-2026-10580 - Hippoo Mobile App for WooCommerce 认证绕过/权限提升 | ⚪ 严重 | 2 |
+| [CVE-2026-11374](CVE-2026-11374-BishopFox_CVE-2026-11374-check.md) | CVE-2026-11374 - ManageEngine AD360 RCE | ⚪ 高 | 1 |
 | [CVE-2026-11387](CVE-2026-11387-1beelze_CVE-2026-11387.md) | CVE-2026-11387 - SMS Alert 插件 权限提升 | ⚪ 高危 | 1 |
 | [CVE-2026-12166](CVE-2026-12166-FzRsLLaSheR_CVE-2026-12166_CVE-2026-12167_CVE-2026-12168.md) | CVE-2026-12166 - Little Orbit GamersFirst Anti-Cheat (GFAC) ... | ⚪ 严重 | 1 |
 | [CVE-2026-1357](CVE-2026-1357-halilkirazkaya_CVE-2026-1357.md) | CVE-2026-1357 - WPvivid Backup & Migration 任意文件上传, 远程代码执行 (R... | 🔴 Critical | 1 |
@@ -236,7 +237,7 @@
 | [CVE-2026-38751](CVE-2026-38751-Mkps_CVE-2026-38751-OpenSTAManager-Arbitrary-File-Upload-PoC.md) | CVE-2026-38751 - OpenSTAManager 任意文件上传/远程代码执行 | ⚪ 高危 | 3 |
 | [CVE-2026-38751](CVE-2026-38751-Why-Shell_CVE-2026-38751.md) | CVE-2026-38751 - OpenSTAManager RCE | ⚪ 高危 | 3 |
 | [CVE-2026-38751](CVE-2026-38751-hackthem_OpenSTAManager_RCE_Exploit-CVE-2026-38751-.md) | CVE-2026-38751 - OpenSTAManager RCE | ⚪ 高危 | 3 |
-| [CVE-2026-3891](CVE-2026-3891-AnggaTechI_Mass-Scanner-CVE-2026-3891.md) | CVE-2026-3891 - WordPress AJAX行为验证漏洞 | ⚪ 中等 | 1 |
+| [CVE-2026-3891](CVE-2026-3891-AnggaTechI_Mass-Scanner-CVE-2026-3891.md) | CVE-2026-55723 - Nginx Ingress Controller 配置注入 | ⚪ 高危 | 1 |
 | [CVE-2026-39047](CVE-2026-39047-J4ck3LSyN-Gen2_CVE-2026-39047.md) | CVE-2026-39047 - Epson 多功能打印机（重点为 L14150，固件 FL27PB，及可能相近型号） ... | ⚪ 高危 | 1 |
 | [CVE-2026-39275](CVE-2026-39275-Securify-AI_CVE-2026-39275.md) | CVE-2026-39275 - Cockpit CMS 存储型跨站脚本（XSS） | ⚪ 高危 | 1 |
 | [CVE-2026-39492](CVE-2026-39492-shinthink_CVE-2026-39492.md) | CVE-2026-39492 - WP Maps插件 SQL注入 | ⚪ 危害等级：严重 | 1 |
@@ -317,6 +318,7 @@
 | [CVE-2026-43700](CVE-2026-43700-dem0ns_CVE-2026-43700.md) | CVE-2026-43700 - Apple Safari / WebKit 信息泄露/同源策略绕过 | ⚪ 高危 | 1 |
 | [CVE-2026-43735](CVE-2026-43735-dem0ns_CVE-2026-43735.md) | CVE-2026-43735 - Apple WebKit / Safari 跨域信息泄露/同源策略绕过 | ⚪ 高危 | 1 |
 | [CVE-2026-44789](CVE-2026-44789-BiiTts_CVE-2026-44789-n8n-PrototypePollution-RCE.md) | CVE-2026-44789 - n8n工作流自动化平台 原型污染/远程代码执行 | ⚪ 严重 | 1 |
+| [CVE-2026-45585](CVE-2026-45585-bjbakker1984_Yellowkey-mitigation.md) | CVE-2026-45585 - Microsoft Windows 安全功能绕过 | ⚪ 高 | 1 |
 | [CVE-2026-46215](CVE-2026-46215-bluedragonsecurity_CVE-2026-46215-EXPLOIT.md) | CVE-2026-46215 - Linux Kernel Use After Free | 🟠 High | 2 |
 | [CVE-2026-46215](CVE-2026-46215-bluedragonsecurity_CVE-2026-46215-exploit-linux-7.0-uaf-stable.md) | CVE-2026-46215 - Linux Kernel 提权漏洞 | ⚪ 高危 | 2 |
 | [CVE-2026-46300](CVE-2026-46300-1neptune_Fragnesia.md) | CVE-2026-46300 - Linux Kernel（XFRM ESP-in-TCP / splice / pag... | ⚪ 高危 | 7 |
@@ -354,6 +356,7 @@
 | [CVE-2026-48908](CVE-2026-48908-papageo75_CVE-2026-48908-PoC.md) | CVE-2026-48908 - Joomla SP Page Builder（com_sppagebuilder） 未... | ⚪ 严重 | 3 |
 | [CVE-2026-48939](CVE-2026-48939-Polosss_By-Poloss..-..CVE-2026-48939.md) | CVE-2026-48939 - iCagenda（Joomla事件与日历组件） 远程代码执行 | 🔴 Critical | 1 |
 | [CVE-2026-49049](CVE-2026-49049-shinthink_CVE-2026-49049.md) | CVE-2026-49049 - Helix3 Joomla Plugin (JoomShaper) 未授权文件操作/任... | ⚪ 高危 | 1 |
+| [CVE-2026-49176](CVE-2026-49176-DavidCarliez_CVE-2026-49176_LPE_POC.md) | CVE-2026-49176 - Windows WalletService 本地权限提升 | ⚪ 高 | 1 |
 | [CVE-2026-49468](CVE-2026-49468-BiiTts_CVE-2026-49468-LiteLLM-Auth-Bypass.md) | CVE-2026-49468 - LiteLLM Proxy 认证绕过/授权绕过 | ⚪ 高危 | 1 |
 | [CVE-2026-49869](CVE-2026-49869-Ap0dexMe0_CVE-2026-49869.md) | CVE-2026-49869 - Kestra 认证绕过/RCE | ⚪ 严重 | 1 |
 | [CVE-2026-50338](CVE-2026-50338-JohannesLks_CVE-2026-50338.md) | CVE-2026-50338 - spring-cloud-azure-starter-active-directory... | ⚪ 高 | 1 |

@@ -1,7 +1,7 @@
 {
   "$schema": "blacklist-schema.json",
   "version": "1.0.0",
-  "last_updated": "2026-07-20T17:41:46.699024Z",
+  "last_updated": "2026-07-20T21:19:28.828361Z",
   "description": "VulnWatchdog 黑名单配置文件 - 用于过滤低质量POC和恶意仓库",
   "settings": {
     "auto_blacklist_enabled": true,
@@ -14584,6 +14584,66 @@
         "last_quality_score": 4,
         "last_poisoning_risk": 80,
         "notes": "自动拉黑 - 失败原因: 投毒风险过高: 80%, 有效性分析过短: 389 字符 (最少500字符)"
+      },
+      {
+        "username": "hybinn",
+        "reason": "投毒风险持续过高(最近风险: 80%)",
+        "added_date": "2026-07-20",
+        "added_by": "auto",
+        "fail_count": 1,
+        "last_quality_score": 9,
+        "last_poisoning_risk": 80,
+        "notes": "自动拉黑 - 失败原因: 投毒风险过高: 80%, 有效性分析过短: 376 字符 (最少500字符)"
+      },
+      {
+        "username": "vettrivel007",
+        "reason": "POC质量持续过低(最近评分: 0/10)",
+        "added_date": "2026-07-20",
+        "added_by": "auto",
+        "fail_count": 1,
+        "last_quality_score": 0,
+        "last_poisoning_risk": 50,
+        "notes": "自动拉黑 - 失败原因: POC质量过低: 0-2, 有效性分析过短: 396 字符 (最少500字符)"
+      },
+      {
+        "username": "team-MineDEV",
+        "reason": "投毒风险持续过高(最近风险: 80%)",
+        "added_date": "2026-07-20",
+        "added_by": "auto",
+        "fail_count": 1,
+        "last_quality_score": 7,
+        "last_poisoning_risk": 80,
+        "notes": "自动拉黑 - 失败原因: 投毒风险过高: 80%, 有效性分析过短: 421 字符 (最少500字符)"
+      },
+      {
+        "username": "komomon",
+        "reason": "投毒风险持续过高(最近风险: 85%)",
+        "added_date": "2026-07-20",
+        "added_by": "auto",
+        "fail_count": 1,
+        "last_quality_score": 8,
+        "last_poisoning_risk": 85,
+        "notes": "自动拉黑 - 失败原因: 投毒风险过高: 85%, 有效性分析过短: 413 字符 (最少500字符)"
+      },
+      {
+        "username": "drackyjr",
+        "reason": "投毒风险持续过高(最近风险: 80%)",
+        "added_date": "2026-07-20",
+        "added_by": "auto",
+        "fail_count": 1,
+        "last_quality_score": 7,
+        "last_poisoning_risk": 80,
+        "notes": "自动拉黑 - 失败原因: 投毒风险过高: 80%, 有效性分析过短: 448 字符 (最少500字符)"
+      },
+      {
+        "username": "hakaioffsec",
+        "reason": "投毒风险持续过高(最近风险: 80%)",
+        "added_date": "2026-07-20",
+        "added_by": "auto",
+        "fail_count": 1,
+        "last_quality_score": 7,
+        "last_poisoning_risk": 80,
+        "notes": "自动拉黑 - 失败原因: 投毒风险过高: 80%, 有效性分析过短: 405 字符 (最少500字符)"
       }
     ],
     "repositories": [
@@ -14619,11 +14679,11 @@
     "repositories": []
   },
   "statistics": {
-    "total_blocked": 19748,
-    "blocked_by_author": 19747,
+    "total_blocked": 19937,
+    "blocked_by_author": 19936,
     "blocked_by_repository": 1,
     "blocked_by_cve": 0,
-    "auto_blacklisted_authors": 1456,
+    "auto_blacklisted_authors": 1462,
     "auto_blacklisted_repositories": 0
   }
 }
