@@ -315,7 +315,7 @@
 | [CVE-2026-43735](CVE-2026-43735-dem0ns_CVE-2026-43735.md) | CVE-2026-43735 - Apple WebKit / Safari 跨域信息泄露/同源策略绕过 | ⚪ 高危 | 1 |
 | [CVE-2026-44789](CVE-2026-44789-BiiTts_CVE-2026-44789-n8n-PrototypePollution-RCE.md) | CVE-2026-44789 - n8n工作流自动化平台 原型污染/远程代码执行 | ⚪ 严重 | 1 |
 | [CVE-2026-46215](CVE-2026-46215-bluedragonsecurity_CVE-2026-46215-EXPLOIT.md) | CVE-2026-46215 - Linux Kernel Use After Free | 🟠 High | 2 |
-| [CVE-2026-46215](CVE-2026-46215-bluedragonsecurity_CVE-2026-46215-exploit-linux-7.0-uaf-stable.md) | CVE-2026-46215 - Linux Kernel RCE | ⚪ 高 | 2 |
+| [CVE-2026-46215](CVE-2026-46215-bluedragonsecurity_CVE-2026-46215-exploit-linux-7.0-uaf-stable.md) | CVE-2026-46215 - Linux Kernel 提权漏洞 | ⚪ 高危 | 2 |
 | [CVE-2026-46300](CVE-2026-46300-1neptune_Fragnesia.md) | CVE-2026-46300 - Linux Kernel（XFRM ESP-in-TCP / splice / pag... | ⚪ 高危 | 7 |
 | [CVE-2026-46300](CVE-2026-46300-BenedictEjepu_CVE-2026-46300-Fragnesia---TryHackMe-Lab-Project.md) | CVE-2026-46300 - Linux Kernel RCE | ⚪ 高 | 7 |
 | [CVE-2026-46300](CVE-2026-46300-First-John_cve_2026_frag_family_fix.md) | CVE-2026-46300 - Linux Kernel 本地权限提升 | ⚪ 高危 | 7 |
