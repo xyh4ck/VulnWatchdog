@@ -1,6 +1,6 @@
 # 2026年 CVE漏洞列表
 
-> 📊 共收录 **394** 个CVE漏洞
+> 📊 共收录 **398** 个CVE漏洞
 
 ---
 
@@ -30,6 +30,7 @@
 | [CVE-2026-1492](CVE-2026-1492-the8frust_CVE-2026-1492.md) | CVE-2026-1492 - WordPress User Registration & Membership Plu... | ⚪ 关键 | 1 |
 | [CVE-2026-14960](CVE-2026-14960-FzRsLLaSheR_CVE-2026-14960-CVE-2026-14961.md) | CVE-2026-14960 - Pegatron TdeIo Driver 权限提升 | ⚪ 高危 | 1 |
 | [CVE-2026-1560](CVE-2026-1560-Z3YR0xX_CVE-2026-1560-Authenticated-Remote-Code-Execution-in-Lazy-Blocks-4.2.0.md) | CVE-2026-1560 - Custom Block Builder – Lazy Blocks WordPress... | 🟠 High | 1 |
+| [CVE-2026-16219](CVE-2026-16219-HELLBOY3110_cve-2026-16219-croogo-lab.md) | CVE-2026-55723 - Nginx Ingress Controller 配置注入 | ⚪ 高 | 1 |
 | [CVE-2026-20127](CVE-2026-20127-gigachadusers_cve-2026-20127.md) | CVE-2026-20127 - Cisco SD-WAN 信息泄露 | ⚪ 高危 | 1 |
 | [CVE-2026-20253](CVE-2026-20253-watchtowrlabs_watchTowr-vs-Splunk-CVE-2026-20253.md) | CVE-2026-20253 - Splunk Enterprise RCE | ⚪ 危害等级高 | 1 |
 | [CVE-2026-20841](CVE-2026-20841-404godd_CVE-2026-20841-PoC.md) | CVE-2026-20841 - Windows Notepad（记事本） 命令注入 | ⚪ 高危 | 11 |
@@ -75,11 +76,12 @@
 | [CVE-2026-23111](CVE-2026-23111-bakano98_cve-2026-23111-poc.md) | CVE-2026-23111 - Linux Kernel nf_tables/netfilter Use-After-... | ⚪ 高危 | 4 |
 | [CVE-2026-23111](CVE-2026-23111-criann_check-cve-2026-23111.md) | CVE-2026-23111 - Linux内核 权限提升 | ⚪ 高 | 4 |
 | [CVE-2026-23111](CVE-2026-23111-ishankaru_CVE-2026-23111-nftables-lab.md) | CVE-2026-23111 - Linux kernel 的 nf_tables 子系统 本地权限提升/Use-Aft... | ⚪ 高危 | 4 |
-| [CVE-2026-23550](CVE-2026-23550-1beelze_CVE-2026-23550.md) | CVE-2026-23550 - Modular DS（modular-connector） 会话劫持/权限提升 | ⚪ 严重 | 5 |
-| [CVE-2026-23550](CVE-2026-23550-Cyber-DarkNay_CVE-2026-23550.md) | CVE-2026-23550 - WordPress Modular Connector Plugin 认证绕过/未授权... | ⚪ 严重/Critical | 5 |
-| [CVE-2026-23550](CVE-2026-23550-TheTorjanCaptain_CVE-2026-23550-PoC.md) | CVE-2026-23550 - Modular DS WordPress Plugin 认证绕过/未授权访问 | 🔴 Critical | 5 |
-| [CVE-2026-23550](CVE-2026-23550-cyberdudebivash_CYBERDUDEBIVASH-Modular-DS-CVE-2026-23550-Detector.md) | CVE-2026-23550 - WordPress Modular DS plugin 信息泄露/版本探测 | ⚪ 中危 | 5 |
-| [CVE-2026-23550](CVE-2026-23550-dzmind2312_Mass-CVE-2026-23550-Exploit.md) | CVE-2026-23550 - WordPress Modular DS 插件 身份认证绕过 | ⚪ 高危 | 5 |
+| [CVE-2026-23550](CVE-2026-23550-1beelze_CVE-2026-23550.md) | CVE-2026-23550 - Modular DS（modular-connector） 会话劫持/权限提升 | ⚪ 严重 | 6 |
+| [CVE-2026-23550](CVE-2026-23550-Cyber-DarkNay_CVE-2026-23550.md) | CVE-2026-23550 - WordPress Modular Connector Plugin 认证绕过/未授权... | ⚪ 严重/Critical | 6 |
+| [CVE-2026-23550](CVE-2026-23550-TheTorjanCaptain_CVE-2026-23550-PoC.md) | CVE-2026-23550 - Modular DS WordPress Plugin 认证绕过/未授权访问 | 🔴 Critical | 6 |
+| [CVE-2026-23550](CVE-2026-23550-baktistr_cve-2026-23550-poc.md) | CVE-2026-23550 - WordPress Modular DS Plugin 权限提升 | ⚪ 严重 | 6 |
+| [CVE-2026-23550](CVE-2026-23550-cyberdudebivash_CYBERDUDEBIVASH-Modular-DS-CVE-2026-23550-Detector.md) | CVE-2026-23550 - WordPress Modular DS plugin 信息泄露/版本探测 | ⚪ 中危 | 6 |
+| [CVE-2026-23550](CVE-2026-23550-dzmind2312_Mass-CVE-2026-23550-Exploit.md) | CVE-2026-23550 - Modular DS RCE | ⚪ 高 | 6 |
 | [CVE-2026-23744](CVE-2026-23744-0xg00se_CVE-2026-23744-script.md) | CVE-2026-23744 - MCPJam Inspector 命令注入 | ⚪ 高危 | 27 |
 | [CVE-2026-23744](CVE-2026-23744-AhmadF77_CVE-2026-23744.md) | CVE-2026-23744 - MCPJam Inspector 远程代码执行 | ⚪ 严重 | 27 |
 | [CVE-2026-23744](CVE-2026-23744-CyLock11_CVE-2026-23744.md) | CVE-2026-23744 - MCP Connect 命令注入/RCE | ⚪ 严重/Critical | 27 |
@@ -262,6 +264,7 @@
 | [CVE-2026-41940](CVE-2026-41940-thekawix_CVE-2026-41940.md) | CVE-2026-41940 - cPanel/WHM 认证绕过 | ⚪ 高危 | 21 |
 | [CVE-2026-41940](CVE-2026-41940-xxconi_CVE-2026-41940.md) | CVE-2026-41940 - cPanel & WHM 认证绕过/CRLF注入 | ⚪ 严重 | 21 |
 | [CVE-2026-41940](CVE-2026-41940-yurahshell_CVE-2026-41940.md) | CVE-2026-41940 - cPanel & WHM 认证绕过/CRLF注入 | ⚪ 严重/高危 | 21 |
+| [CVE-2026-42533](CVE-2026-42533-srkyn_nginx-map-risk-audit.md) | CVE-2026-42533 - NGINX 远程代码执行 | ⚪ 高危 | 1 |
 | [CVE-2026-42945](CVE-2026-42945-BarAppTeam_nginx-cve-fix.md) | CVE-2026-42945 - NGINX ngx_http_rewrite_module 堆缓冲区溢出/RCE | 🔴 Critical | 22 |
 | [CVE-2026-42945](CVE-2026-42945-F2u0a0d3_CVE-2026-42945-nginx-rift-poc.md) | CVE-2026-42945 - NGINX ngx_http_rewrite_module 堆缓冲区溢出/RCE | ⚪ 严重/高危/Critical | 22 |
 | [CVE-2026-42945](CVE-2026-42945-LiaoZiqi-GZFLS_CVE-2026-42945.md) | CVE-2026-42945 - Nginx 堆缓冲区溢出 | 🔴 Critical | 22 |
@@ -297,7 +300,7 @@
 | [CVE-2026-43499](CVE-2026-43499-Linuxoid-cn_Mi8E5-Unlocker-by-CVE-2026-43499.md) | CVE-2026-43499 - Linux内核所有主流发行版 权限提升 | ⚪ 高危 | 19 |
 | [CVE-2026-43499](CVE-2026-43499-SlightNeko_ghostlock-rothko.md) | CVE-2026-43499 - Linux Kernel 本地权限提升 | ⚪ 高危 | 19 |
 | [CVE-2026-43499](CVE-2026-43499-Thiasap_oppo-pgem10-ghostlock.md) | CVE-2026-43499 - Linux Kernel Use-After-Free | ⚪ 高危 | 19 |
-| [CVE-2026-43499](CVE-2026-43499-Wtrwx_smt878u-ionstack-poc.md) | CVE-2026-43499 - Linux内核 本地提权 | ⚪ 高 | 19 |
+| [CVE-2026-43499](CVE-2026-43499-Wtrwx_smt878u-ionstack-poc.md) | CVE-2026-43499 - Linux内核 本地提权 | ⚪ 高危 | 19 |
 | [CVE-2026-43499](CVE-2026-43499-Yakayna_SpringPeace.md) | CVE-2026-43499 - Linux内核 本地权限提升 | ⚪ 高危 | 19 |
 | [CVE-2026-43499](CVE-2026-43499-ayyy7128_CVE-2026-43499-jinghu.md) | CVE-2026-43499 - Linux Kernel 权限提升 | ⚪ 高危 | 19 |
 | [CVE-2026-43499](CVE-2026-43499-caspy123_CVE-2026-43499.md) | CVE-2026-43499 - Linux内核 权限提升漏洞 | ⚪ 高危 | 19 |
@@ -354,6 +357,7 @@
 | [CVE-2026-49468](CVE-2026-49468-BiiTts_CVE-2026-49468-LiteLLM-Auth-Bypass.md) | CVE-2026-49468 - LiteLLM Proxy 认证绕过/授权绕过 | ⚪ 高危 | 1 |
 | [CVE-2026-49869](CVE-2026-49869-Ap0dexMe0_CVE-2026-49869.md) | CVE-2026-49869 - Kestra 认证绕过/RCE | ⚪ 严重 | 1 |
 | [CVE-2026-50338](CVE-2026-50338-JohannesLks_CVE-2026-50338.md) | CVE-2026-50338 - spring-cloud-azure-starter-active-directory... | ⚪ 高 | 1 |
+| [CVE-2026-50369](CVE-2026-50369-syxlox_CVE-2026-50369.md) | CVE-2026-50369 - Windows Server 2025 DoS/提升特权 | ⚪ 高 | 1 |
 | [CVE-2026-52217](CVE-2026-52217-teteco_CVE-2026-52217-VTEX-Checkout-CrossTenant-IDOR.md) | CVE-2026-52217 - VTEX Commerce Platform Checkout Service (ch... | ⚪ 高危 | 1 |
 | [CVE-2026-52614](CVE-2026-52614-Chinesespeople_CVE-2026-52614.md) | CVE-2026-52614 - RuoYi v4.8.3 SQL注入 | ⚪ 高危 | 1 |
 | [CVE-2026-5281](CVE-2026-5281-jaf0rk_CVE-2026-5281.md) | CVE-2026-5281 - Google Chrome 内存破坏漏洞 | ⚪ 高危 | 2 |
