@@ -1,6 +1,6 @@
 # 2026年 CVE漏洞列表
 
-> 📊 共收录 **393** 个CVE漏洞
+> 📊 共收录 **394** 个CVE漏洞
 
 ---
 
@@ -234,6 +234,7 @@
 | [CVE-2026-38751](CVE-2026-38751-Mkps_CVE-2026-38751-OpenSTAManager-Arbitrary-File-Upload-PoC.md) | CVE-2026-38751 - OpenSTAManager 任意文件上传/远程代码执行 | ⚪ 高危 | 3 |
 | [CVE-2026-38751](CVE-2026-38751-Why-Shell_CVE-2026-38751.md) | CVE-2026-38751 - OpenSTAManager RCE | ⚪ 高危 | 3 |
 | [CVE-2026-38751](CVE-2026-38751-hackthem_OpenSTAManager_RCE_Exploit-CVE-2026-38751-.md) | CVE-2026-38751 - OpenSTAManager RCE | ⚪ 高危 | 3 |
+| [CVE-2026-3891](CVE-2026-3891-AnggaTechI_Mass-Scanner-CVE-2026-3891.md) | CVE-2026-3891 - WordPress AJAX行为验证漏洞 | ⚪ 中等 | 1 |
 | [CVE-2026-39047](CVE-2026-39047-J4ck3LSyN-Gen2_CVE-2026-39047.md) | CVE-2026-39047 - Epson 多功能打印机（重点为 L14150，固件 FL27PB，及可能相近型号） ... | ⚪ 高危 | 1 |
 | [CVE-2026-39275](CVE-2026-39275-Securify-AI_CVE-2026-39275.md) | CVE-2026-39275 - Cockpit CMS 存储型跨站脚本（XSS） | ⚪ 高危 | 1 |
 | [CVE-2026-39492](CVE-2026-39492-shinthink_CVE-2026-39492.md) | CVE-2026-39492 - WP Maps插件 SQL注入 | ⚪ 危害等级：严重 | 1 |
@@ -302,7 +303,7 @@
 | [CVE-2026-43499](CVE-2026-43499-caspy123_CVE-2026-43499.md) | CVE-2026-43499 - Linux内核 权限提升漏洞 | ⚪ 高危 | 19 |
 | [CVE-2026-43499](CVE-2026-43499-d224407_CVE-2026-43499.md) | CVE-2026-43499 - Linux Kernel 权限提升 | ⚪ 高危 | 19 |
 | [CVE-2026-43499](CVE-2026-43499-fuukliam_vivo-x-fold6-ghostlock.md) | CVE-2026-43499 - Linux内核 权限提升 | ⚪ 高危 | 19 |
-| [CVE-2026-43499](CVE-2026-43499-sorrow404Null_CVE-2026-43499-RMX5200.md) | CVE-2026-43499 - Linux 内核 本地权限提升 | ⚪ 高危 | 19 |
+| [CVE-2026-43499](CVE-2026-43499-sorrow404Null_CVE-2026-43499-RMX5200.md) | CVE-2026-43499 - Linux内核 本地提权 | ⚪ 高危 | 19 |
 | [CVE-2026-43499](CVE-2026-43499-x-spy_CVE-2026-43499-popsicle.md) | CVE-2026-43499 - Linux Kernel, Android 提权漏洞 | ⚪ 高危 | 19 |
 | [CVE-2026-43500](CVE-2026-43500-attaattaatta_CVE-2026-43500.md) | CVE-2026-43284 - Linux Kernel 提权漏洞 | ⚪ 高危 | 1 |
 | [CVE-2026-43503](CVE-2026-43503-SecureWithUmer_CVE-2026-43503.md) | CVE-2026-43503 - Linux kernel 本地权限提升 | ⚪ 高危 | 5 |
