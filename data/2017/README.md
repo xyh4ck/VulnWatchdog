@@ -1,6 +1,6 @@
 # 2017年 CVE漏洞列表
 
-> 📊 共收录 **298** 个CVE漏洞
+> 📊 共收录 **301** 个CVE漏洞
 
 ---
 
@@ -29,6 +29,8 @@
 | [CVE-2017-0144](CVE-2017-0144-peterpt_eternal_scanner.md) | CVE-2017-0144 Windows SMB 远程代码执行漏洞 (EternalBlue) | ⚪ 高危 | 15 |
 | [CVE-2017-0144](CVE-2017-0144-quynhold_Detect-CVE-2017-0144-attack.md) | CVE-2017-0144 (EternalBlue) | ⚪ 高危 | 15 |
 | [CVE-2017-0144](CVE-2017-0144-sethwhy_BlueDoor.md) | CVE-2017-0144 (EternalBlue) Windows SMB 远程代码执行漏洞 | ⚪ 高危 | 15 |
+| [CVE-2017-10001](CVE-2017-10001-greymd_CVE-2017-1000117.md) | CVE-2017-1000117 - Git 命令注入 | ⚪ 高 | 2 |
+| [CVE-2017-10001](CVE-2017-10001-ol0273st-s_CVE-2017-1000112-Adpated.md) | CVE-2017-1000112 - Ubuntu Linux 本地提权漏洞 | ⚪ 高 | 2 |
 | [CVE-2017-10002](CVE-2017-10002-olav-st_CVE-2017-1000250-PoC.md) | CVE-2017-1000250 - Linux BlueZ Bluetooth Stack 信息泄露 | ⚪ 高 | 1 |
 | [CVE-2017-10003](CVE-2017-10003-Jelc0Doesbruf_CVE-2017-1000353.md) | CVE-2017-10003-Solaris-Network Services Library | ⚪ 中危 | 6 |
 | [CVE-2017-10003](CVE-2017-10003-Trinadh465_linux-4.1.15_CVE-2017-1000371.md) | CVE-2017-10003-Oracle Solaris Network Services Library权限提升/信... | ⚪ 中危 | 6 |
@@ -140,7 +142,7 @@
 | [CVE-2017-16995](CVE-2017-16995-C0dak_CVE-2017-16995.md) | CVE-2017-16995 - Linux Kernel eBPF 权限提升 | ⚪ 高危 | 12 |
 | [CVE-2017-16995](CVE-2017-16995-Lumindu_CVE-2017-16995-Linux-Kernel---BPF-Sign-Extension-Local-Privilege-Escalation-.md) | CVE-2017-16995-Linux Kernel-BPF 整数溢出 | ⚪ 高危 | 12 |
 | [CVE-2017-16995](CVE-2017-16995-ZhiQiAnSecFork_cve-2017-16995.md) | CVE-2017-16995 | ⚪ 高危 | 12 |
-| [CVE-2017-16995](CVE-2017-16995-anldori_CVE-2017-16995.md) | CVE-2017-16995-Linux Kernel-BPF 权限提升 | ⚪ 高危 | 12 |
+| [CVE-2017-16995](CVE-2017-16995-anldori_CVE-2017-16995.md) | CVE-2017-16995 - Ubuntu 16.04 本地提权 | ⚪ 高危 | 12 |
 | [CVE-2017-16995](CVE-2017-16995-fei9747_CVE-2017-16995.md) | CVE-2017-16995-Linux Kernel BPF权限提升 | ⚪ 高危 | 12 |
 | [CVE-2017-16995](CVE-2017-16995-gugronnier_CVE-2017-16995.md) | CVE-2017-16995 Linux Kernel BPF 权限提升漏洞 | ⚪ 高危 | 12 |
 | [CVE-2017-16995](CVE-2017-16995-ivilpez_cve-2017-16995.c.md) | CVE-2017-16995-Linux Kernel BPF 权限提升 | ⚪ 高危 | 12 |
@@ -288,7 +290,8 @@
 | [CVE-2017-9248](CVE-2017-9248-ictnamanh_CVE-2017-9248.md) | CVE-2017-9248 - Telerik UI for ASP.NET AJAX Cryptographic We... | ⚪ 高危 | 6 |
 | [CVE-2017-9248](CVE-2017-9248-oldboysonnt_dp.md) | CVE-2017-9248 - Telerik UI for ASP.NET AJAX Cryptographic We... | ⚪ 高危 | 6 |
 | [CVE-2017-9805](CVE-2017-9805-Fl5xia_CVE-2017-9805.md) | CVE-2017-9805 - Apache Struts 2 (REST Plugin) RCE (远程代码执行) | 🔴 CRITICAL | 1 |
-| [CVE-2017-9822](CVE-2017-9822-Tnot123_cve-2017-9822.md) | CVE-2017-9822 DotNetNuke Cookie 反序列化 RCE | ⚪ 高危 | 1 |
+| [CVE-2017-9822](CVE-2017-9822-Tnot123_cve-2017-9822.md) | CVE-2017-9822 DotNetNuke Cookie 反序列化 RCE | ⚪ 高危 | 2 |
+| [CVE-2017-9822](CVE-2017-9822-murataydemir_CVE-2017-9822.md) | CVE-2017-9822 DotNetNuke Cookie 反序列化 RCE | ⚪ 高危 | 2 |
 | [CVE-2017-9841](CVE-2017-9841-Chocapikk_CVE-2017-9841.md) | CVE-2017-9841-PHPUnit-远程代码执行 | ⚪ 高危 | 17 |
 | [CVE-2017-9841](CVE-2017-9841-Habibullah1101_PHPUnit-GoScan.md) | CVE-2017-9841 PHPUnit 远程代码执行 | ⚪ 高危 | 17 |
 | [CVE-2017-9841](CVE-2017-9841-K3ysTr0K3R_CVE-2017-9841-EXPLOIT.md) | CVE-2017-9841-PHPUnit远程代码执行 | ⚪ 高危 | 17 |
