@@ -1,6 +1,6 @@
 # 2026年 CVE漏洞列表
 
-> 📊 共收录 **405** 个CVE漏洞
+> 📊 共收录 **407** 个CVE漏洞
 
 ---
 
@@ -181,6 +181,7 @@
 | [CVE-2026-27944](CVE-2026-27944-Skynoxk_CVE-2026-27944.md) | CVE-2026-27944 - Nginx UI 未授权访问/敏感信息泄露/认证绕过 | ⚪ 严重 | 6 |
 | [CVE-2026-27944](CVE-2026-27944-jake-young-dev_CVE-2026-27944.md) | CVE-2026-27944 - nginx-ui 敏感信息泄露/未授权访问 | ⚪ 高危 | 6 |
 | [CVE-2026-27944](CVE-2026-27944-karimelsheikh1_HTB-Snapped-Writeup.md) | CVE-2026-27944 - Nginx UI 信息泄露 | ⚪ 高危 | 6 |
+| [CVE-2026-27971](CVE-2026-27971-Ghalendar_CVE-2026-27971_POC.md) | CVE-2026-27971 - Qwik - npm package @builder.io/qwik 远程代码执行(... | ⚪ 危害等级高 | 1 |
 | [CVE-2026-28867](CVE-2026-28867-speedyfriend433_CVE-2026-28867-PoC.md) | CVE-2026-28867 - macOS Kernel TCP/IP sysctl接口 信息泄露 | ⚪ 高危 | 1 |
 | [CVE-2026-28995](CVE-2026-28995-Robertmak2014-sudow_CVE-2026-28995.md) | CVE-2026-28995 - iOS App Intents 路径穿越 | ⚪ 高危 | 1 |
 | [CVE-2026-29000](CVE-2026-29000-lucastran05_CVE-2026-29000.md) | CVE-2026-29000 - pac4j-jwt JWT认证漏洞 | ⚪ 高危 | 2 |
@@ -231,6 +232,7 @@
 | [CVE-2026-34048](CVE-2026-34048-0xmrma_CVE-2026-34048.md) | CVE-2026-34048 - Coolify RCE | ⚪ 高 | 1 |
 | [CVE-2026-34835](CVE-2026-34835-Cyber-note_CVE-2026-34835-Black-box-Analysis.md) | CVE-2026-34835 - Rack::Request 验证绕过/输入验证不当 | ⚪ 中危 | 1 |
 | [CVE-2026-35204](CVE-2026-35204-h3ck13r_CVE-2026-35204.md) | CVE-2026-35204 - Helm 路径遍历 | ⚪ 高 | 1 |
+| [CVE-2026-3576](CVE-2026-3576-anirbala98_CVE-2026-3576.md) | CVE-2026-3576 - Planyo Online Reservation System Server Side... | ⚪ 高危 | 1 |
 | [CVE-2026-36848](CVE-2026-36848-calligraf0_CVE-2026-36848.md) | CVE-2026-36848 - Gigamon-VUE OS (GVOS) appliances 路径遍历/任意文件读... | ⚪ 严重 | 1 |
 | [CVE-2026-36851](CVE-2026-36851-SyntaxSaiyan_CVE-2026-36851.md) | CVE-2026-36851 - UnPoller 路径穿越/任意文件读取 | 🟠 High | 1 |
 | [CVE-2026-38526](CVE-2026-38526-mmoobbeeiidat-design_Hack-The-Box-Nexus-Findings-Report.md) | CVE-2026-38526 - Krayin CRM RCE | 🟠 High | 2 |
@@ -266,7 +268,7 @@
 | [CVE-2026-41940](CVE-2026-41940-thekawix_CVE-2026-41940.md) | CVE-2026-41940 - cPanel/WHM 认证绕过 | ⚪ 高危 | 21 |
 | [CVE-2026-41940](CVE-2026-41940-xxconi_CVE-2026-41940.md) | CVE-2026-41940 - cPanel & WHM 认证绕过/CRLF注入 | ⚪ 严重 | 21 |
 | [CVE-2026-41940](CVE-2026-41940-yurahshell_CVE-2026-41940.md) | CVE-2026-41940 - cPanel & WHM 认证绕过/CRLF注入 | ⚪ 严重/高危 | 21 |
-| [CVE-2026-42533](CVE-2026-42533-srkyn_nginx-map-risk-audit.md) | CVE-2026-42533 - NGINX 远程代码执行 | ⚪ 高危 | 1 |
+| [CVE-2026-42533](CVE-2026-42533-srkyn_nginx-map-risk-audit.md) | CVE-2026-42533 - NGINX RCE | ⚪ 高危 | 1 |
 | [CVE-2026-42945](CVE-2026-42945-BarAppTeam_nginx-cve-fix.md) | CVE-2026-42945 - NGINX ngx_http_rewrite_module 堆缓冲区溢出/RCE | 🔴 Critical | 22 |
 | [CVE-2026-42945](CVE-2026-42945-F2u0a0d3_CVE-2026-42945-nginx-rift-poc.md) | CVE-2026-42945 - NGINX ngx_http_rewrite_module 堆缓冲区溢出/RCE | ⚪ 严重/高危/Critical | 22 |
 | [CVE-2026-42945](CVE-2026-42945-LiaoZiqi-GZFLS_CVE-2026-42945.md) | CVE-2026-42945 - Nginx 堆缓冲区溢出 | 🔴 Critical | 22 |
