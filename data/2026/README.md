@@ -1,6 +1,6 @@
 # 2026年 CVE漏洞列表
 
-> 📊 共收录 **401** 个CVE漏洞
+> 📊 共收录 **403** 个CVE漏洞
 
 ---
 
@@ -15,7 +15,8 @@
 | [CVE-2026-0740](CVE-2026-0740-whattheslime_CVE-2026-0740.md) | CVE-2026-0740 - Ninja Forms File Uploads WordPress 插件 任意文件上传 | 🔴 Critical | 3 |
 | [CVE-2026-0740](CVE-2026-0740-xShadow-Here_CVE-2026-0740.md) | CVE-2026-0740 - WordPress 插件 Ninja Forms - File Uploads 任意文件... | ⚪ 严重 | 3 |
 | [CVE-2026-0770](CVE-2026-0770-affix_CVE-2026-0770-PoC.md) | CVE-2026-0770 - Langflow 远程代码执行 (RCE) | ⚪ 关键 (Critical) | 1 |
-| [CVE-2026-0776](CVE-2026-0776-zerkl_CVE-2026-0776.md) | CVE-2026-0776 - Discord Desktop Client RCE | ⚪ 高 | 1 |
+| [CVE-2026-0776](CVE-2026-0776-whenx_CVE-2026-0776.md) | CVE-2026-0776 - Discord Desktop Client RCE | 🟠 High | 2 |
+| [CVE-2026-0776](CVE-2026-0776-zerkl_CVE-2026-0776.md) | CVE-2026-0776 - Discord Desktop Client RCE | ⚪ 高 | 2 |
 | [CVE-2026-0920](CVE-2026-0920-John-doe-code-a11_CVE-2026-0920.md) | CVE-2026-0920 - LA-Studio Element Kit for Elementor 不当授权/后门 | ⚪ 危害等级：高 | 1 |
 | [CVE-2026-10104](CVE-2026-10104-Ravi-lk_CVE-2026-10104-POC.md) | CVE-2026-10104 - Product Video Gallery for WooCommerce 存储型跨站... | ⚪ 中危 | 1 |
 | [CVE-2026-10520](CVE-2026-10520-emilliewatson96_spryCVE-2026-10520.md) | CVE-2026-10520 - Ivanti Sentry OS命令注入 | ⚪ 严重/高危/Critical | 2 |
@@ -82,7 +83,7 @@
 | [CVE-2026-23550](CVE-2026-23550-TheTorjanCaptain_CVE-2026-23550-PoC.md) | CVE-2026-23550 - Modular DS WordPress Plugin 认证绕过/未授权访问 | 🔴 Critical | 6 |
 | [CVE-2026-23550](CVE-2026-23550-baktistr_cve-2026-23550-poc.md) | CVE-2026-23550 - WordPress Modular DS Plugin 权限提升 | ⚪ 严重 | 6 |
 | [CVE-2026-23550](CVE-2026-23550-cyberdudebivash_CYBERDUDEBIVASH-Modular-DS-CVE-2026-23550-Detector.md) | CVE-2026-23550 - WordPress Modular DS plugin 信息泄露/版本探测 | ⚪ 中危 | 6 |
-| [CVE-2026-23550](CVE-2026-23550-dzmind2312_Mass-CVE-2026-23550-Exploit.md) | CVE-2026-23550 - Modular DS RCE | ⚪ 高 | 6 |
+| [CVE-2026-23550](CVE-2026-23550-dzmind2312_Mass-CVE-2026-23550-Exploit.md) | CVE-2026-55723 - Nginx Ingress Controller 配置注入 | ⚪ 中等 | 6 |
 | [CVE-2026-23744](CVE-2026-23744-0xg00se_CVE-2026-23744-script.md) | CVE-2026-23744 - MCPJam Inspector 命令注入 | ⚪ 高危 | 27 |
 | [CVE-2026-23744](CVE-2026-23744-AhmadF77_CVE-2026-23744.md) | CVE-2026-23744 - MCPJam Inspector 远程代码执行 | ⚪ 严重 | 27 |
 | [CVE-2026-23744](CVE-2026-23744-CyLock11_CVE-2026-23744.md) | CVE-2026-23744 - MCP Connect 命令注入/RCE | ⚪ 严重/Critical | 27 |
@@ -318,7 +319,8 @@
 | [CVE-2026-43700](CVE-2026-43700-dem0ns_CVE-2026-43700.md) | CVE-2026-43700 - Apple Safari / WebKit 信息泄露/同源策略绕过 | ⚪ 高危 | 1 |
 | [CVE-2026-43735](CVE-2026-43735-dem0ns_CVE-2026-43735.md) | CVE-2026-43735 - Apple WebKit / Safari 跨域信息泄露/同源策略绕过 | ⚪ 高危 | 1 |
 | [CVE-2026-44789](CVE-2026-44789-BiiTts_CVE-2026-44789-n8n-PrototypePollution-RCE.md) | CVE-2026-44789 - n8n工作流自动化平台 原型污染/远程代码执行 | ⚪ 严重 | 1 |
-| [CVE-2026-45585](CVE-2026-45585-bjbakker1984_Yellowkey-mitigation.md) | CVE-2026-45585 - Microsoft Windows 安全功能绕过 | ⚪ 高 | 1 |
+| [CVE-2026-45585](CVE-2026-45585-andrei-majer_bitlocker-hardening.md) | CVE-2026-45585 - Windows 11 安全功能绕过 | ⚪ 高危 | 2 |
+| [CVE-2026-45585](CVE-2026-45585-bjbakker1984_Yellowkey-mitigation.md) | CVE-2026-45585 - Microsoft Windows 安全功能绕过 | ⚪ 高 | 2 |
 | [CVE-2026-46215](CVE-2026-46215-bluedragonsecurity_CVE-2026-46215-EXPLOIT.md) | CVE-2026-46215 - Linux Kernel Use After Free | 🟠 High | 2 |
 | [CVE-2026-46215](CVE-2026-46215-bluedragonsecurity_CVE-2026-46215-exploit-linux-7.0-uaf-stable.md) | CVE-2026-46215 - Linux Kernel 提权漏洞 | ⚪ 高危 | 2 |
 | [CVE-2026-46300](CVE-2026-46300-1neptune_Fragnesia.md) | CVE-2026-46300 - Linux Kernel（XFRM ESP-in-TCP / splice / pag... | ⚪ 高危 | 7 |
@@ -420,4 +422,4 @@
 
 ---
 
-*最后更新: 2026-07-20*
+*最后更新: 2026-07-21*

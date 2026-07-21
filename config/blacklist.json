@@ -1,7 +1,7 @@
 {
   "$schema": "blacklist-schema.json",
   "version": "1.0.0",
-  "last_updated": "2026-07-20T21:19:28.828361Z",
+  "last_updated": "2026-07-21T02:01:47.679344Z",
   "description": "VulnWatchdog 黑名单配置文件 - 用于过滤低质量POC和恶意仓库",
   "settings": {
     "auto_blacklist_enabled": true,
@@ -14644,6 +14644,56 @@
         "last_quality_score": 7,
         "last_poisoning_risk": 80,
         "notes": "自动拉黑 - 失败原因: 投毒风险过高: 80%, 有效性分析过短: 405 字符 (最少500字符)"
+      },
+      {
+        "username": "0xGunrunner",
+        "reason": "投毒风险持续过高(最近风险: 80%)",
+        "added_date": "2026-07-21",
+        "added_by": "auto",
+        "fail_count": 1,
+        "last_quality_score": 9,
+        "last_poisoning_risk": 80,
+        "notes": "自动拉黑 - 失败原因: 投毒风险过高: 80%, 有效性分析过短: 400 字符 (最少500字符)"
+      },
+      {
+        "username": "Cracked5pider",
+        "reason": "投毒风险持续过高(最近风险: 85%)",
+        "added_date": "2026-07-21",
+        "added_by": "auto",
+        "fail_count": 1,
+        "last_quality_score": 8,
+        "last_poisoning_risk": 85,
+        "notes": "自动拉黑 - 失败原因: 投毒风险过高: 85%, 有效性分析过短: 492 字符 (最少500字符)"
+      },
+      {
+        "username": "yellowkeys",
+        "reason": "投毒风险持续过高(最近风险: 80%)",
+        "added_date": "2026-07-21",
+        "added_by": "auto",
+        "fail_count": 1,
+        "last_quality_score": 8,
+        "last_poisoning_risk": 80,
+        "notes": "自动拉黑 - 失败原因: 投毒风险过高: 80%, 有效性分析过短: 326 字符 (最少500字符)"
+      },
+      {
+        "username": "ChanderManiPandey2022",
+        "reason": "投毒风险持续过高(最近风险: 90%)",
+        "added_date": "2026-07-21",
+        "added_by": "auto",
+        "fail_count": 1,
+        "last_quality_score": 9,
+        "last_poisoning_risk": 90,
+        "notes": "自动拉黑 - 失败原因: 投毒风险过高: 90%"
+      },
+      {
+        "username": "berraesen",
+        "reason": "投毒风险持续过高(最近风险: 80%)",
+        "added_date": "2026-07-21",
+        "added_by": "auto",
+        "fail_count": 1,
+        "last_quality_score": 7,
+        "last_poisoning_risk": 80,
+        "notes": "自动拉黑 - 失败原因: 投毒风险过高: 80%, 有效性分析过短: 441 字符 (最少500字符)"
       }
     ],
     "repositories": [
@@ -14679,11 +14729,11 @@
     "repositories": []
   },
   "statistics": {
-    "total_blocked": 19937,
-    "blocked_by_author": 19936,
+    "total_blocked": 20088,
+    "blocked_by_author": 20087,
     "blocked_by_repository": 1,
     "blocked_by_cve": 0,
-    "auto_blacklisted_authors": 1462,
+    "auto_blacklisted_authors": 1467,
     "auto_blacklisted_repositories": 0
   }
 }
