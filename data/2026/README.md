@@ -325,9 +325,9 @@
 | [CVE-2026-43735](CVE-2026-43735-dem0ns_CVE-2026-43735.md) | CVE-2026-43735 - Apple WebKit / Safari 跨域信息泄露/同源策略绕过 | ⚪ 高危 | 1 |
 | [CVE-2026-44789](CVE-2026-44789-BiiTts_CVE-2026-44789-n8n-PrototypePollution-RCE.md) | CVE-2026-44789 - n8n工作流自动化平台 原型污染/远程代码执行 | ⚪ 严重 | 1 |
 | [CVE-2026-45585](CVE-2026-45585-Desireeontrial76_yellowkey-bitlocker.md) | CVE-2026-45585 - Microsoft Windows 10, Windows 11 绕过 | ⚪ 高 | 4 |
-| [CVE-2026-45585](CVE-2026-45585-andrei-majer_bitlocker-hardening.md) | CVE-2026-45585 - Microsoft Windows 安全绕过 | ⚪ 中等 | 4 |
+| [CVE-2026-45585](CVE-2026-45585-andrei-majer_bitlocker-hardening.md) | CVE-2026-45585 - Microsoft BitLocker (Windows 11) 安全功能绕过 | ⚪ 高危 | 4 |
 | [CVE-2026-45585](CVE-2026-45585-bjbakker1984_Yellowkey-mitigation.md) | CVE-2026-45585 - Windows 10/11 安全功能绕过 | ⚪ 中高危 | 4 |
-| [CVE-2026-45585](CVE-2026-45585-everest90909_YellowKey-WinRE-Remediation.md) | CVE-2026-45585 - Windows BitLocker 安全绕过 | ⚪ 高危 | 4 |
+| [CVE-2026-45585](CVE-2026-45585-everest90909_YellowKey-WinRE-Remediation.md) | CVE-2026-45585 - Windows 11 安全功能绕过 | ⚪ 高 | 4 |
 | [CVE-2026-46215](CVE-2026-46215-bluedragonsecurity_CVE-2026-46215-EXPLOIT.md) | CVE-2026-46215 - Linux Kernel Use After Free | 🟠 High | 2 |
 | [CVE-2026-46215](CVE-2026-46215-bluedragonsecurity_CVE-2026-46215-exploit-linux-7.0-uaf-stable.md) | CVE-2026-46215 - Linux Kernel 提权漏洞 | ⚪ 高危 | 2 |
 | [CVE-2026-46300](CVE-2026-46300-1neptune_Fragnesia.md) | CVE-2026-46300 - Linux Kernel（XFRM ESP-in-TCP / splice / pag... | ⚪ 高危 | 7 |
