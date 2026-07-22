@@ -1,6 +1,6 @@
 # 2012年 CVE漏洞列表
 
-> 📊 共收录 **36** 个CVE漏洞
+> 📊 共收录 **35** 个CVE漏洞
 
 ---
 
@@ -13,8 +13,8 @@
 | [CVE-2012-1823](CVE-2012-1823-K3ysTr0K3R_CVE-2012-1823.md) | CVE-2012-1823 - PHP CGI（php-cgi） 命令注入/RCE | 🔴 Critical | 10 |
 | [CVE-2012-1823](CVE-2012-1823-Unix13_metasploitable2.md) | CVE-2001-0800 - Java RMI Registry / Java RMI Server 远程代码执行 | ⚪ 高危 | 10 |
 | [CVE-2012-1823](CVE-2012-1823-cyberharsh_PHP_CVE-2012-1823.md) | CVE-2012-1823 - PHP CGI 远程代码执行 | ⚪ 高危 | 10 |
-| [CVE-2012-1823](CVE-2012-1823-drone789_CVE-2012-1823.md) | CVE-2012-1823 - PHP CGI 远程命令执行 | ⚪ 高危 | 10 |
-| [CVE-2012-1823](CVE-2012-1823-hackherMind-Pixel_Vulnerable-Lab-Exploitation.md) | CVE-2012-1823 - PHP CGI 远程代码执行 | ⚪ 高危 | 10 |
+| [CVE-2012-1823](CVE-2012-1823-drone789_CVE-2012-1823.md) | CVE-2026-63766 - GPT-SoVITS 命令注入 | ⚪ 高危 | 10 |
+| [CVE-2012-1823](CVE-2012-1823-hackherMind-Pixel_Vulnerable-Lab-Exploitation.md) | CVE-2012-1823 - PHP RCE | ⚪ 高 | 10 |
 | [CVE-2012-1823](CVE-2012-1823-nulltrace1336_PHP-CGI-Argument-Injection-Exploit.md) | CVE-2012-1823 - PHP CGI 命令注入 | ⚪ 高危 | 10 |
 | [CVE-2012-1823](CVE-2012-1823-tryj_CVE-2012-1823---PHP-CGI---RCE.md) | CVE-2012-1823 - PHP-CGI 命令注入/RCE | ⚪ 高危 | 10 |
 | [CVE-2012-1823](CVE-2012-1823-waburig_Open-Worldwide-Application-Security-Project-OWASP-.md) | CVE-2012-1823 - PHP CGI 远程代码执行 | ⚪ 高危 | 10 |
@@ -42,8 +42,7 @@
 | [CVE-2012-2982](CVE-2012-2982-elliotosama_CVE-2012-2982.md) | CVE-2012-2982 - Webmin 远程命令执行 (RCE) | ⚪ 高 (High) | 20 |
 | [CVE-2012-2982](CVE-2012-2982-lpuv_CVE-2012-2982.md) | CVE-2012-2982 - Webmin 命令注入/RCE | ⚪ 高危 (High) | 20 |
 | [CVE-2012-2982](CVE-2012-2982-varppi_CVE-2012-2982.md) | CVE-2012-2982 - Webmin 命令注入/RCE | ⚪ 高危 | 20 |
-| [CVE-2012-4869](CVE-2012-4869-bitc0de_Elastix-Remote-Code-Execution.md) | CVE-2012-4869-FreePBX-远程命令执行 | ⚪ 高危 | 2 |
-| [CVE-2012-4869](CVE-2012-4869-cyberdesu_Elastix-2.2.0-CVE-2012-4869.md) | CVE-2012-4869-FreePBX-远程命令执行 | ⚪ 高危 | 2 |
+| [CVE-2012-4869](CVE-2012-4869-bitc0de_Elastix-Remote-Code-Execution.md) | CVE-2012-4869-FreePBX-远程命令执行 | ⚪ 高危 | 1 |
 
 ---
 
