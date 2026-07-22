@@ -1,6 +1,6 @@
 # 2026年 CVE漏洞列表
 
-> 📊 共收录 **411** 个CVE漏洞
+> 📊 共收录 **412** 个CVE漏洞
 
 ---
 
@@ -33,6 +33,7 @@
 | [CVE-2026-14960](CVE-2026-14960-FzRsLLaSheR_CVE-2026-14960-CVE-2026-14961.md) | CVE-2026-14960 - Pegatron TdeIo Driver 权限提升 | ⚪ 高危 | 1 |
 | [CVE-2026-1560](CVE-2026-1560-Z3YR0xX_CVE-2026-1560-Authenticated-Remote-Code-Execution-in-Lazy-Blocks-4.2.0.md) | CVE-2026-1560 - Custom Block Builder – Lazy Blocks WordPress... | 🟠 High | 1 |
 | [CVE-2026-16219](CVE-2026-16219-HELLBOY3110_cve-2026-16219-croogo-lab.md) | CVE-2026-55723 - Nginx Ingress Controller 配置注入 | ⚪ 高 | 1 |
+| [CVE-2026-16540](CVE-2026-16540-huseyn0vs_CVE-2026-16540-SimplyScheduleAppointments.md) | CVE-2026-16540 - Simply Schedule Appointments 授权错误 | ⚪ 中等 | 1 |
 | [CVE-2026-20127](CVE-2026-20127-gigachadusers_cve-2026-20127.md) | CVE-2026-20127 - Cisco SD-WAN 信息泄露 | ⚪ 高危 | 1 |
 | [CVE-2026-20169](CVE-2026-20169-gigachadusers_CVE-2026-20169.md) | CVE-2026-21509 - Microsoft Office 2016, 2019, LTSC 2021, LTS... | ⚪ 高危 | 1 |
 | [CVE-2026-20253](CVE-2026-20253-watchtowrlabs_watchTowr-vs-Splunk-CVE-2026-20253.md) | CVE-2026-20253 - Splunk Enterprise RCE | ⚪ 危害等级高 | 1 |
