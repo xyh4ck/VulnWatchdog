@@ -55,7 +55,7 @@
 | [CVE-2026-21509](CVE-2026-21509-decalage2_detect_CVE-2026-21509.md) | CVE-2026-21509 - Microsoft Office 安全功能绕过 | ⚪ 高危 | 6 |
 | [CVE-2026-21509](CVE-2026-21509-kimstars_Ashwesker-CVE-2026-21509.md) | CVE-2026-21509 - Microsoft Office 安全功能绕过 | ⚪ 高危 | 6 |
 | [CVE-2026-21509](CVE-2026-21509-ksk-itdk_KSK-ITDK-CVE-2026-21509-Mitigation.md) | CVE-2026-21509 - Microsoft Office 安全功能绕过 | ⚪ 高危 | 6 |
-| [CVE-2026-21509](CVE-2026-21509-planetoid_cve-2026-21509-mitigation.md) | CVE-2026-21509 - Microsoft Office 安全功能绕过 | ⚪ 高危 | 6 |
+| [CVE-2026-21509](CVE-2026-21509-planetoid_cve-2026-21509-mitigation.md) | CVE-2026-21509 - Microsoft Office 2016 & 2019 安全特性绕过 | ⚪ 重要 | 6 |
 | [CVE-2026-21509](CVE-2026-21509-suuhm_CVE-2026-21509-handler.md) | CVE-2026-21509 - Microsoft Office 安全功能绕过 | ⚪ 高危 | 6 |
 | [CVE-2026-21533](CVE-2026-21533-ghostroots_CVE-2026-21533.md) | CVE-2026-21533 - Microsoft Windows Remote Desktop Services 权... | ⚪ 高危 (High) | 1 |
 | [CVE-2026-21858](CVE-2026-21858-Alhakim88_CVE-2026-21858.md) | CVE-2026-21858 - n8n 远程代码执行 (RCE) | 🔴 Critical / 严重 | 10 |
@@ -313,7 +313,7 @@
 | [CVE-2026-43499](CVE-2026-43499-caspy123_CVE-2026-43499.md) | CVE-2026-43499 - Linux内核 权限提升漏洞 | ⚪ 高危 | 21 |
 | [CVE-2026-43499](CVE-2026-43499-d224407_CVE-2026-43499.md) | CVE-2026-43499 - Linux Kernel 权限提升 | ⚪ 高危 | 21 |
 | [CVE-2026-43499](CVE-2026-43499-fuukliam_vivo-x-fold6-ghostlock.md) | CVE-2026-43499 - Linux内核 权限提升 | ⚪ 高危 | 21 |
-| [CVE-2026-43499](CVE-2026-43499-geecjdj_CVE-2026-43499.md) | CVE-2026-43499 - Linux Kernel 权限提升 | ⚪ 中等 | 21 |
+| [CVE-2026-43499](CVE-2026-43499-geecjdj_CVE-2026-43499.md) | CVE-2026-43499 - Linux Kernel 本地权限提升 | ⚪ 高危 | 21 |
 | [CVE-2026-43499](CVE-2026-43499-sorrow404Null_CVE-2026-43499-RMX5200.md) | CVE-2026-43499 - Linux内核 本地提权 | ⚪ 高危 | 21 |
 | [CVE-2026-43499](CVE-2026-43499-x-spy_CVE-2026-43499-popsicle.md) | CVE-2026-43499 - Linux Kernel, Android 提权漏洞 | ⚪ 高危 | 21 |
 | [CVE-2026-43500](CVE-2026-43500-attaattaatta_CVE-2026-43500.md) | CVE-2026-43284 - Linux Kernel 提权漏洞 | ⚪ 高危 | 1 |
