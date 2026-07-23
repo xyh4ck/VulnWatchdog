@@ -304,7 +304,7 @@
 | [CVE-2026-43499](CVE-2026-43499-JoinChang_ghostlock-oneplus.md) | CVE-2026-43499 - Linux Kernel 本地权限提升 | ⚪ 高危 | 21 |
 | [CVE-2026-43499](CVE-2026-43499-Kananosa_CVE-2026-43499-For-Xiaomi-17T-chagall.md) | CVE-2026-43499 - Linux内核 栈释放后重用 | ⚪ 高危 | 21 |
 | [CVE-2026-43499](CVE-2026-43499-Linuxoid-cn_Mi8E5-Unlocker-by-CVE-2026-43499.md) | CVE-2026-43499 - Linux内核所有主流发行版 权限提升 | ⚪ 高危 | 21 |
-| [CVE-2026-43499](CVE-2026-43499-Petalrain224_CVE-2026-43499-Redmi-Turbo5.md) | CVE-2026-43499 - Xiaomi Redmi Turbo 5 权限提升 | ⚪ 高危 | 21 |
+| [CVE-2026-43499](CVE-2026-43499-Petalrain224_CVE-2026-43499-Redmi-Turbo5.md) | CVE-2026-43499 - Xiaomi Redmi Turbo 5 本地权限提升 | ⚪ 高 | 21 |
 | [CVE-2026-43499](CVE-2026-43499-SlightNeko_ghostlock-rothko.md) | CVE-2026-43499 - Linux Kernel 本地权限提升 | ⚪ 高危 | 21 |
 | [CVE-2026-43499](CVE-2026-43499-Thiasap_oppo-pgem10-ghostlock.md) | CVE-2026-43499 - Linux Kernel Use-After-Free | ⚪ 高危 | 21 |
 | [CVE-2026-43499](CVE-2026-43499-Wtrwx_smt878u-ionstack-poc.md) | CVE-2026-43499 - Linux内核 本地提权 | ⚪ 高危 | 21 |
@@ -431,4 +431,4 @@
 
 ---
 
-*最后更新: 2026-07-22*
+*最后更新: 2026-07-23*
