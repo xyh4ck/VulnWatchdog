@@ -296,7 +296,7 @@
 | [CVE-2026-43284](CVE-2026-43284-lukeslp_redtail-ioc.md) | CVE-2026-43284 - Linux Kernel 本地权限提升 | ⚪ 高 | 1 |
 | [CVE-2026-43494](CVE-2026-43494-tanzz1337_CVE-2026-43494-PinTheft-PoC.md) | CVE-2026-43494 - Linux内核 本地特权升级 | ⚪ 危害等级：高 | 1 |
 | [CVE-2026-43499](CVE-2026-43499-2932796375github_CVE-2026-43499_OPPO-MT6835.md) | CVE-2026-43499 - OPPO MT6835设备 权限提升 | ⚪ 高危 | 24 |
-| [CVE-2026-43499](CVE-2026-43499-Bailan766_rmx3888-cve-2026-43499-config.md) | CVE-2026-43499 - Linux Kernel 权限提升 | ⚪ 高风险 | 24 |
+| [CVE-2026-43499](CVE-2026-43499-Bailan766_rmx3888-cve-2026-43499-config.md) | CVE-2026-43499 - Linux Kernel 权限提升 | ⚪ 高 | 24 |
 | [CVE-2026-43499](CVE-2026-43499-Bartixxx32_CVE-2026-43499-OnePlus15.md) | CVE-2026-43499 - Linux内核 本地提权 | ⚪ 高 | 24 |
 | [CVE-2026-43499](CVE-2026-43499-BuSung-dev_CVE-2026-43499-S25U.md) | CVE-2026-43499 - Samsung Galaxy S25 Ultra 提权/栈上使用后释放 | ⚪ 高 | 24 |
 | [CVE-2026-43499](CVE-2026-43499-CakesTwix_Android-CVE-2026-43499.md) | CVE-2026-43499 - Linux内核 Use-after-free | ⚪ 高危 | 24 |
