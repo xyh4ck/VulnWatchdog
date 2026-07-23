@@ -1,6 +1,6 @@
 # 2026年 CVE漏洞列表
 
-> 📊 共收录 **412** 个CVE漏洞
+> 📊 共收录 **415** 个CVE漏洞
 
 ---
 
@@ -56,7 +56,7 @@
 | [CVE-2026-21509](CVE-2026-21509-kimstars_Ashwesker-CVE-2026-21509.md) | CVE-2026-21509 - Microsoft Office 安全功能绕过 | ⚪ 高危 | 6 |
 | [CVE-2026-21509](CVE-2026-21509-ksk-itdk_KSK-ITDK-CVE-2026-21509-Mitigation.md) | CVE-2026-21509 - Microsoft Office 安全功能绕过 | ⚪ 高危 | 6 |
 | [CVE-2026-21509](CVE-2026-21509-planetoid_cve-2026-21509-mitigation.md) | CVE-2026-21509 - Microsoft Office 2016 & 2019 安全特性绕过 | ⚪ 重要 | 6 |
-| [CVE-2026-21509](CVE-2026-21509-suuhm_CVE-2026-21509-handler.md) | CVE-2026-21509 - Microsoft Office 安全功能绕过 | ⚪ 高危 | 6 |
+| [CVE-2026-21509](CVE-2026-21509-suuhm_CVE-2026-21509-handler.md) | CVE-2026-21509 - Microsoft Office 2016 RCE | 🔴 Critical | 6 |
 | [CVE-2026-21533](CVE-2026-21533-ghostroots_CVE-2026-21533.md) | CVE-2026-21533 - Microsoft Windows Remote Desktop Services 权... | ⚪ 高危 (High) | 1 |
 | [CVE-2026-21858](CVE-2026-21858-Alhakim88_CVE-2026-21858.md) | CVE-2026-21858 - n8n 远程代码执行 (RCE) | 🔴 Critical / 严重 | 10 |
 | [CVE-2026-21858](CVE-2026-21858-Chocapikk_CVE-2026-21858.md) | CVE-2026-21858 - n8n 远程代码执行 (RCE), 通过Content-Type混淆导致的任意文件读取... | ⚪ 严重 | 10 |
@@ -295,27 +295,30 @@
 | [CVE-2026-42945](CVE-2026-42945-yusufdalbudak_CVE-2026-42945.md) | CVE-2026-42945 - NGINX 堆缓冲区溢出/RCE | 🔴 Critical | 22 |
 | [CVE-2026-43284](CVE-2026-43284-lukeslp_redtail-ioc.md) | CVE-2026-43284 - Linux Kernel 本地权限提升 | ⚪ 高 | 1 |
 | [CVE-2026-43494](CVE-2026-43494-tanzz1337_CVE-2026-43494-PinTheft-PoC.md) | CVE-2026-43494 - Linux内核 本地特权升级 | ⚪ 危害等级：高 | 1 |
-| [CVE-2026-43499](CVE-2026-43499-2932796375github_CVE-2026-43499_OPPO-MT6835.md) | CVE-2026-43499 - OPPO MT6835设备 权限提升 | ⚪ 高危 | 21 |
-| [CVE-2026-43499](CVE-2026-43499-Bartixxx32_CVE-2026-43499-OnePlus15.md) | CVE-2026-43499 - Linux内核 本地提权 | ⚪ 高 | 21 |
-| [CVE-2026-43499](CVE-2026-43499-BuSung-dev_CVE-2026-43499-S25U.md) | CVE-2026-43499 - Samsung Galaxy S25 Ultra 提权/栈上使用后释放 | ⚪ 高 | 21 |
-| [CVE-2026-43499](CVE-2026-43499-CakesTwix_Android-CVE-2026-43499.md) | CVE-2026-43499 - Linux内核 Use-after-free | ⚪ 高危 | 21 |
-| [CVE-2026-43499](CVE-2026-43499-Cxyofficial_x200-cve-2026-43499.md) | CVE-2026-43499 - Linux内核 权限提升 | ⚪ 高危 | 21 |
-| [CVE-2026-43499](CVE-2026-43499-HYCQAQ_Logitech-G-Cloud-GhostLock-CVE-2026-43499.md) | CVE-2026-43499 - Logitech G Cloud 权限提升 | ⚪ 高 | 21 |
-| [CVE-2026-43499](CVE-2026-43499-JoinChang_ghostlock-oneplus.md) | CVE-2026-43499 - Linux Kernel 本地权限提升 | ⚪ 高危 | 21 |
-| [CVE-2026-43499](CVE-2026-43499-Kananosa_CVE-2026-43499-For-Xiaomi-17T-chagall.md) | CVE-2026-43499 - Linux内核 栈释放后重用 | ⚪ 高危 | 21 |
-| [CVE-2026-43499](CVE-2026-43499-Linuxoid-cn_Mi8E5-Unlocker-by-CVE-2026-43499.md) | CVE-2026-43499 - Linux内核所有主流发行版 权限提升 | ⚪ 高危 | 21 |
-| [CVE-2026-43499](CVE-2026-43499-Petalrain224_CVE-2026-43499-Redmi-Turbo5.md) | CVE-2026-43499 - Xiaomi Redmi Turbo 5 本地权限提升 | ⚪ 高 | 21 |
-| [CVE-2026-43499](CVE-2026-43499-SlightNeko_ghostlock-rothko.md) | CVE-2026-43499 - Linux Kernel 本地权限提升 | ⚪ 高危 | 21 |
-| [CVE-2026-43499](CVE-2026-43499-Thiasap_oppo-pgem10-ghostlock.md) | CVE-2026-43499 - Linux Kernel Use-After-Free | ⚪ 高危 | 21 |
-| [CVE-2026-43499](CVE-2026-43499-Wtrwx_smt878u-ionstack-poc.md) | CVE-2026-43499 - Linux内核 本地提权 | ⚪ 高危 | 21 |
-| [CVE-2026-43499](CVE-2026-43499-Yakayna_SpringPeace.md) | CVE-2026-43499 - Linux内核 本地权限提升 | ⚪ 高危 | 21 |
-| [CVE-2026-43499](CVE-2026-43499-ayyy7128_CVE-2026-43499-jinghu.md) | CVE-2026-43499 - Linux Kernel 权限提升 | ⚪ 高危 | 21 |
-| [CVE-2026-43499](CVE-2026-43499-caspy123_CVE-2026-43499.md) | CVE-2026-43499 - Linux内核 权限提升漏洞 | ⚪ 高危 | 21 |
-| [CVE-2026-43499](CVE-2026-43499-d224407_CVE-2026-43499.md) | CVE-2026-43499 - Linux Kernel 权限提升 | ⚪ 高危 | 21 |
-| [CVE-2026-43499](CVE-2026-43499-fuukliam_vivo-x-fold6-ghostlock.md) | CVE-2026-43499 - Linux内核 权限提升 | ⚪ 高危 | 21 |
-| [CVE-2026-43499](CVE-2026-43499-geecjdj_CVE-2026-43499.md) | CVE-2026-43499 - Linux Kernel 本地权限提升 | ⚪ 高危 | 21 |
-| [CVE-2026-43499](CVE-2026-43499-sorrow404Null_CVE-2026-43499-RMX5200.md) | CVE-2026-43499 - Linux内核 本地提权 | ⚪ 高危 | 21 |
-| [CVE-2026-43499](CVE-2026-43499-x-spy_CVE-2026-43499-popsicle.md) | CVE-2026-43499 - Linux Kernel, Android 提权漏洞 | ⚪ 高危 | 21 |
+| [CVE-2026-43499](CVE-2026-43499-2932796375github_CVE-2026-43499_OPPO-MT6835.md) | CVE-2026-43499 - OPPO MT6835设备 权限提升 | ⚪ 高危 | 24 |
+| [CVE-2026-43499](CVE-2026-43499-Bailan766_rmx3888-cve-2026-43499-config.md) | CVE-2026-43499 - Linux Kernel 权限提升 | ⚪ 高风险 | 24 |
+| [CVE-2026-43499](CVE-2026-43499-Bartixxx32_CVE-2026-43499-OnePlus15.md) | CVE-2026-43499 - Linux内核 本地提权 | ⚪ 高 | 24 |
+| [CVE-2026-43499](CVE-2026-43499-BuSung-dev_CVE-2026-43499-S25U.md) | CVE-2026-43499 - Samsung Galaxy S25 Ultra 提权/栈上使用后释放 | ⚪ 高 | 24 |
+| [CVE-2026-43499](CVE-2026-43499-CakesTwix_Android-CVE-2026-43499.md) | CVE-2026-43499 - Linux内核 Use-after-free | ⚪ 高危 | 24 |
+| [CVE-2026-43499](CVE-2026-43499-Cxyofficial_x200-cve-2026-43499.md) | CVE-2026-43499 - Linux内核 权限提升 | ⚪ 高危 | 24 |
+| [CVE-2026-43499](CVE-2026-43499-HYCQAQ_Logitech-G-Cloud-GhostLock-CVE-2026-43499.md) | CVE-2026-43499 - Logitech G Cloud 权限提升 | ⚪ 高 | 24 |
+| [CVE-2026-43499](CVE-2026-43499-JoinChang_ghostlock-oneplus.md) | CVE-2026-43499 - Linux Kernel 本地权限提升 | ⚪ 高危 | 24 |
+| [CVE-2026-43499](CVE-2026-43499-Kananosa_CVE-2026-43499-For-Xiaomi-17T-chagall.md) | CVE-2026-43499 - Linux内核 栈释放后重用 | ⚪ 高危 | 24 |
+| [CVE-2026-43499](CVE-2026-43499-Linuxoid-cn_Mi8E5-Unlocker-by-CVE-2026-43499.md) | CVE-2026-43499 - Linux内核所有主流发行版 权限提升 | ⚪ 高危 | 24 |
+| [CVE-2026-43499](CVE-2026-43499-Petalrain224_CVE-2026-43499-Redmi-Turbo5.md) | CVE-2026-43499 - Xiaomi Redmi Turbo 5 本地权限提升 | ⚪ 高 | 24 |
+| [CVE-2026-43499](CVE-2026-43499-SlightNeko_ghostlock-rothko.md) | CVE-2026-43499 - Linux Kernel 本地权限提升 | ⚪ 高危 | 24 |
+| [CVE-2026-43499](CVE-2026-43499-Thiasap_oppo-pgem10-ghostlock.md) | CVE-2026-43499 - Linux Kernel Use-After-Free | ⚪ 高危 | 24 |
+| [CVE-2026-43499](CVE-2026-43499-Wtrwx_smt878u-ionstack-poc.md) | CVE-2026-43499 - Linux内核 本地权限提升 | ⚪ 高 | 24 |
+| [CVE-2026-43499](CVE-2026-43499-Yakayna_SpringPeace.md) | CVE-2026-43499 - Linux内核 本地权限提升 | ⚪ 高危 | 24 |
+| [CVE-2026-43499](CVE-2026-43499-ayyy7128_CVE-2026-43499-jinghu.md) | CVE-2026-43499 - Linux Kernel 权限提升 | ⚪ 高危 | 24 |
+| [CVE-2026-43499](CVE-2026-43499-caspy123_CVE-2026-43499.md) | CVE-2026-43499 - Linux内核 权限提升漏洞 | ⚪ 高危 | 24 |
+| [CVE-2026-43499](CVE-2026-43499-d224407_CVE-2026-43499.md) | CVE-2026-43499 - Linux Kernel 权限提升 | ⚪ 高危 | 24 |
+| [CVE-2026-43499](CVE-2026-43499-fuukliam_vivo-x-fold6-ghostlock.md) | CVE-2026-43499 - Linux内核 权限提升 | ⚪ 高危 | 24 |
+| [CVE-2026-43499](CVE-2026-43499-geecjdj_CVE-2026-43499.md) | CVE-2026-43499 - Linux Kernel 本地权限提升 | ⚪ 高危 | 24 |
+| [CVE-2026-43499](CVE-2026-43499-soralis0912_CVE-2026-43499-aristotle-apk.md) | CVE-2026-43499 - Linux Kernel 本地权限提升 | ⚪ 高 | 24 |
+| [CVE-2026-43499](CVE-2026-43499-soralis0912_CVE-2026-43499-aristotle.md) | CVE-2026-43499 - Linux Kernel 本地权限提升 | ⚪ 高危 | 24 |
+| [CVE-2026-43499](CVE-2026-43499-sorrow404Null_CVE-2026-43499-RMX5200.md) | CVE-2026-43499 - Linux内核 本地提权 | ⚪ 高危 | 24 |
+| [CVE-2026-43499](CVE-2026-43499-x-spy_CVE-2026-43499-popsicle.md) | CVE-2026-43499 - Linux Kernel, Android 提权漏洞 | ⚪ 高危 | 24 |
 | [CVE-2026-43500](CVE-2026-43500-attaattaatta_CVE-2026-43500.md) | CVE-2026-43284 - Linux Kernel 提权漏洞 | ⚪ 高危 | 1 |
 | [CVE-2026-43503](CVE-2026-43503-SecureWithUmer_CVE-2026-43503.md) | CVE-2026-43503 - Linux kernel 本地权限提升 | ⚪ 高危 | 5 |
 | [CVE-2026-43503](CVE-2026-43503-aexdyhaxor_CVE-2026-43503-DirtyClone.md) | CVE-2026-43503 - Linux Kernel 本地权限提升 | ⚪ 高危 | 5 |
