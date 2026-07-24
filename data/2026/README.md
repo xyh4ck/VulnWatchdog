@@ -1,6 +1,6 @@
 # 2026年 CVE漏洞列表
 
-> 📊 共收录 **416** 个CVE漏洞
+> 📊 共收录 **417** 个CVE漏洞
 
 ---
 
@@ -406,6 +406,7 @@
 | [CVE-2026-6307](CVE-2026-6307-0xsha_CVE-2026-6307.md) | CVE-2026-6307 - Google Chrome / Chromium V8 引擎 类型混淆/远程代码执行 | ⚪ 严重 | 2 |
 | [CVE-2026-6307](CVE-2026-6307-J4ck3LSyN-Gen2_CVE-2026-6307-Longinus.md) | CVE-2026-6307 - Google V8 JavaScript 引擎（d8 shell/Chromium 相关... | ⚪ 高危 | 2 |
 | [CVE-2026-6433](CVE-2026-6433-murrez_CVE-2026-6433.md) | CVE-2026-6433 - FlipperCode Custom CSS, JS & PHP SQL注入/远程代码执... | ⚪ 高危 | 1 |
+| [CVE-2026-65650](CVE-2026-65650-swornim619_CVE-2026-65650.md) | CVE-2026-65650 - Elgg 拒绝服务 | ⚪ 中等 | 1 |
 | [CVE-2026-8181](CVE-2026-8181-HudzaifahArrantisi_CVE-2026-8181.md) | CVE-2026-8181 - WordPress Burst Statistics 认证绕过 | ⚪ 高 | 3 |
 | [CVE-2026-8181](CVE-2026-8181-Squamity_CVE-2026-8181-PoC.md) | CVE-2026-8181 - Burst Statistics 认证绕过 | ⚪ 严重 (Critical) | 3 |
 | [CVE-2026-8181](CVE-2026-8181-rootdirective-sec_CVE-2026-8181-Lab.md) | CVE-2026-8181 - Burst Statistics – Privacy-Friendly WordPres... | ⚪ 高 | 3 |
