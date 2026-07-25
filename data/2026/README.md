@@ -1,6 +1,6 @@
 # 2026年 CVE漏洞列表
 
-> 📊 共收录 **424** 个CVE漏洞
+> 📊 共收录 **425** 个CVE漏洞
 
 ---
 
@@ -115,53 +115,54 @@
 | [CVE-2026-23744](CVE-2026-23744-z4yd3_PoC-CVE-2026-23744.md) | CVE-2026-23744 - MCPJam Inspector 远程代码执行 | ⚪ 严重（Critical） | 27 |
 | [CVE-2026-23869](CVE-2026-23869-yohannslm_CVE-2026-23869.md) | CVE-2026-23869 - React Server Components 拒绝服务（DoS） | ⚪ 高危 | 1 |
 | [CVE-2026-2406](CVE-2026-2406-ridpath_Terrminus-CVE-2026-2406.md) | CVE-2026-24061 - Telnet Daemon (telnetd) 认证绕过, 权限提升 | ⚪ 高危 | 1 |
-| [CVE-2026-24061](CVE-2026-24061-0p5cur_CVE-2026-24061-POC.md) | CVE-2026-24061 - GNU InetUtils telnetd 认证绕过/参数注入 | ⚪ 严重/关键 | 47 |
-| [CVE-2026-24061](CVE-2026-24061-0x7556_CVE-2026-24061.md) | CVE-2026-24061 - GNU InetUtils telnetd 远程认证绕过, 提权, 远程代码执行 | ⚪ 严重 | 47 |
-| [CVE-2026-24061](CVE-2026-24061-0xXyc_telnet-inetutils-auth-bypass-CVE-2026-24061.md) | CVE-2026-24061 - GNU InetUtils telnetd 参数注入导致的认证绕过 | ⚪ 严重 | 47 |
-| [CVE-2026-24061](CVE-2026-24061-FurkanKAYAPINAR_CVE-2026-24061-telnet2root.md) | CVE-2026-24061 - GNU Inetutils telnetd 远程认证绕过, 参数注入, 提权 (Pre... | ⚪ 严重 (Critical) | 47 |
-| [CVE-2026-24061](CVE-2026-24061-Good123321-bot_CVE-2026-24061-POC.md) | CVE-2026-24061 - GNU InetUtils telnetd 远程认证绕过, 提权 | ⚪ 严重 | 47 |
-| [CVE-2026-24061](CVE-2026-24061-Good123321-bot_good123321-bot.github.io.md) | CVE-2026-24061 - GNU InetUtils telnetd 参数注入 (Argument Inject... | ⚪ 严重 (Critical) | 47 |
-| [CVE-2026-24061](CVE-2026-24061-HD0x01_CVE-2026-24061-NSE.md) | CVE-2026-24061 - GNU InetUtils telnetd 认证绕过 | ⚪ 严重 | 47 |
-| [CVE-2026-24061](CVE-2026-24061-K3ysTr0K3R_CVE-2026-24061.md) | CVE-2026-24061 - GNU Inetutils telnetd 认证绕过/参数注入 | ⚪ 高危 | 47 |
-| [CVE-2026-24061](CVE-2026-24061-Lingzesec_CVE-2026-24061-GUI.md) | CVE-2026-24061 - GNU InetUtils telnetd 身份认证绕过/提权 | ⚪ 高危 | 47 |
-| [CVE-2026-24061](CVE-2026-24061-MY0723_GNU-Inetutils-telnet-CVE-2026-24061-.md) | CVE-2026-24061 - GNU InetUtils Telnetd 认证绕过 | ⚪ 严重 | 47 |
-| [CVE-2026-24061](CVE-2026-24061-Moxxic1_Tell-Me-Root.md) | CVE-2026-24061 - GNU InetUtils telnetd 远程认证绕过 | ⚪ 高危 (Critical) | 47 |
-| [CVE-2026-24061](CVE-2026-24061-Moxxic1_moxxic1.github.io.md) | CVE-2026-24061 - GNU InetUtils telnetd 远程身份验证绕过 (Argument In... | 🔴 Critical | 47 |
-| [CVE-2026-24061](CVE-2026-24061-Parad0x7e_CVE-2026-24061.md) | CVE-2026-24061 - GNU InetUtils telnetd 远程认证绕过, 参数注入, 提权 (Rem... | 🔴 Critical | 47 |
-| [CVE-2026-24061](CVE-2026-24061-Remnant-DB_CVE-2026-24061.md) | CVE-2026-24061 - GNU InetUtils telnetd 认证绕过, 权限提升, 远程代码执行 | ⚪ 高危 | 47 |
-| [CVE-2026-24061](CVE-2026-24061-SeptembersEND_CVE--2026-24061.md) | CVE-2026-24061 - GNU InetUtils telnetd 远程认证绕过/提权/参数注入 | ⚪ 高危 | 47 |
-| [CVE-2026-24061](CVE-2026-24061-SystemVll_CVE-2026-24061.md) | CVE-2026-24061 - GNU inetutils-telnetd 认证绕过 | 🔴 Critical | 47 |
-| [CVE-2026-24061](CVE-2026-24061-X-croot_CVE-2026-24061_POC.md) | CVE-2026-24061 - GNU InetUtils telnetd 远程代码执行 (认证绕过) | ⚪ 高危 | 47 |
-| [CVE-2026-24061](CVE-2026-24061-ahmadsadeeq_TelnetdBypass-.md) | CVE-2026-24061 - GNU InetUtils telnetd 认证绕过/参数注入 | 🔴 Critical | 47 |
-| [CVE-2026-24061](CVE-2026-24061-akpmarcelin_CVE-2026-24061-lab.md) | CVE-2026-24061 - GNU InetUtils telnetd 认证绕过/参数注入 | 🔴 Critical | 47 |
-| [CVE-2026-24061](CVE-2026-24061-anxs3c_CVE-2026-24061-GNU-InetUtils-telnetd.md) | CVE-2026-24061 - GNU InetUtils telnetd 认证绕过/参数注入 | 🔴 Critical | 47 |
-| [CVE-2026-24061](CVE-2026-24061-athack-ctf_chall2026-telneted.md) | CVE-2026-0001 - Telnet服务及其CTF挑战实现 认证绕过/信息泄露 | ⚪ 中危 | 47 |
-| [CVE-2026-24061](CVE-2026-24061-buzz075_CVE-2026-24061.md) | CVE-2026-24061 - GNU InetUtils telnetd 参数注入 (Argument Inject... | 🔴 Critical (高危) | 47 |
-| [CVE-2026-24061](CVE-2026-24061-canpilayda_inetutils-telnetd-cve-2026-24061.md) | CVE-2026-24061 - GNU Inetutils telnetd 认证绕过 | ⚪ 严重 | 47 |
-| [CVE-2026-24061](CVE-2026-24061-cumakurt_tscan.md) | CVE-2026-24061 - GNU Inetutils telnetd 身份认证绕过 | ⚪ 严重 | 47 |
-| [CVE-2026-24061](CVE-2026-24061-cyberpoul_CVE-2026-24061-POC.md) | CVE-2026-24061 - GNU InetUtils telnetd 远程认证绕过、特权升级、任意代码执行 | ⚪ 高危。攻击者可远程绕过认证 | 47 |
-| [CVE-2026-24061](CVE-2026-24061-dotelpenguin_telnetd_CVE-2026-24061_tester.md) | CVE-2026-24061 - GNU InetUtils telnetd 认证绕过 / 环境变量注入 | ⚪ 高危 (Critical) | 47 |
-| [CVE-2026-24061](CVE-2026-24061-ekomsSavior_telnet_scan.md) | CVE-2026-24061 - GNU InetUtils telnetd 认证绕过/参数注入 | 🔴 Critical | 47 |
-| [CVE-2026-24061](CVE-2026-24061-franckferman_CVE-2026-24061.md) | CVE-2026-24061 - GNU InetUtils telnetd 认证绕过 | 🔴 Critical | 47 |
-| [CVE-2026-24061](CVE-2026-24061-franckferman_CVE_2026_24061_PoC.md) | CVE-2026-24061 - GNU InetUtils telnetd 认证绕过/环境注入/提权 (RCE) | ⚪ 非常高危 | 47 |
-| [CVE-2026-24061](CVE-2026-24061-hilwa24_CVE-2026-24061.md) | CVE-2026-24061 - Telnet 服务 认证绕过 (Authentication Bypass) | ⚪ 高危 | 47 |
-| [CVE-2026-24061](CVE-2026-24061-ibrahmsql_CVE-2026-24061-PoC.md) | CVE-2026-24061 - GNU Inetutils telnetd Authentication Bypass | 🔴 Critical | 47 |
-| [CVE-2026-24061](CVE-2026-24061-jacubes_CVE-2026-24061.md) | CVE-2026-24061 - GNU Inetutils telnetd 认证绕过/权限提升 | 🔴 critical | 47 |
-| [CVE-2026-24061](CVE-2026-24061-killsystema_scan-cve-2026-24061.md) | CVE-2026-24061 - GNU inetutils telnetd 认证绕过/权限提升 | 🔴 Critical | 47 |
-| [CVE-2026-24061](CVE-2026-24061-kyukazamiqq_CVE-2026-24061.md) | CVE-2026-24061 - GNU Inetutils telnetd 认证绕过/参数注入 | ⚪ 严重 | 47 |
-| [CVE-2026-24061](CVE-2026-24061-lavabyte_telnet-CVE-2026-24061.md) | CVE-2026-24061 - GNU InetUtils telnetd 认证绕过, 参数注入, 权限提升 | ⚪ 高危/关键 | 47 |
-| [CVE-2026-24061](CVE-2026-24061-madfxr_Twenty-Three-Scanner.md) | CVE-2026-24061 - GNU InetUtils telnetd 远程认证绕过, 参数注入 | ⚪ 高危 | 47 |
-| [CVE-2026-24061](CVE-2026-24061-mbanyamer_CVE-2026-24061-GNU-Inetutils-telnetd-Remote-Authentication-Bypass-Root-Shell-.md) | CVE-2026-24061 - GNU InetUtils telnetd 认证绕过 | 🔴 Critical | 47 |
-| [CVE-2026-24061](CVE-2026-24061-midox008_CVE-2026-24061.md) | CVE-2026-24061 - GNU Inetutils telnetd 认证绕过/参数注入 | 🔴 Critical | 47 |
-| [CVE-2026-24061](CVE-2026-24061-nrnw_CVE-2026-24061-GNU-inetutils-Telnet-Detector.md) | CVE-2026-24061 - GNU InetUtils Telnetd 认证绕过 | ⚪ 严重高危 | 47 |
-| [CVE-2026-24061](CVE-2026-24061-obrunolima1910_CVE-2026-24061.md) | CVE-2026-24061 - GNU InetUtils telnetd 远程认证绕过/提权 | ⚪ 严重 | 47 |
-| [CVE-2026-24061](CVE-2026-24061-obrunolima1910_obrunolima1910.github.io.md) | CVE-2026-24061 - GNU InetUtils telnetd 远程认证绕过 / 参数注入 (Remote... | ⚪ 严重 (Critical) | 47 |
-| [CVE-2026-24061](CVE-2026-24061-przemytn_CVE-2026-24061.md) | CVE-2026-24061 - GNU InetUtils telnetd 认证绕过/参数注入 | ⚪ 关键/严重 | 47 |
-| [CVE-2026-24061](CVE-2026-24061-scumfrog_cve-2026-24061.md) | CVE-2026-24061 - GNU InetUtils telnetd 认证绕过/参数注入 | 🔴 Critical | 47 |
-| [CVE-2026-24061](CVE-2026-24061-setuju_telnetd.md) | CVE-2026-24061 - GNU InetUtils 认证绕过 | ⚪ 关键级 | 47 |
-| [CVE-2026-24061](CVE-2026-24061-sh4den_CVE-2026-24061.md) | CVE-2026-24061 - GNU inetutils-telnetd RCE | 🔴 Critical | 47 |
-| [CVE-2026-24061](CVE-2026-24061-tc4dy_CVE-2026-24061-PoC-Exploit.md) | CVE-2026-24061 - GNU inetutils-telnetd 认证绕过/参数注入 | ⚪ 严重/关键 | 47 |
-| [CVE-2026-24061](CVE-2026-24061-tiborscholtz_CVE-2026-24061.md) | CVE-2026-24061 - GNU InetUtils telnetd 认证绕过/参数注入 | ⚪ 严重 | 47 |
+| [CVE-2026-24061](CVE-2026-24061-0p5cur_CVE-2026-24061-POC.md) | CVE-2026-24061 - GNU InetUtils telnetd 认证绕过/参数注入 | ⚪ 严重/关键 | 48 |
+| [CVE-2026-24061](CVE-2026-24061-0x7556_CVE-2026-24061.md) | CVE-2026-24061 - GNU InetUtils telnetd 远程认证绕过, 提权, 远程代码执行 | ⚪ 严重 | 48 |
+| [CVE-2026-24061](CVE-2026-24061-0xXyc_telnet-inetutils-auth-bypass-CVE-2026-24061.md) | CVE-2026-24061 - GNU InetUtils telnetd 参数注入导致的认证绕过 | ⚪ 严重 | 48 |
+| [CVE-2026-24061](CVE-2026-24061-FurkanKAYAPINAR_CVE-2026-24061-telnet2root.md) | CVE-2026-24061 - GNU Inetutils telnetd 远程认证绕过, 参数注入, 提权 (Pre... | ⚪ 严重 (Critical) | 48 |
+| [CVE-2026-24061](CVE-2026-24061-Good123321-bot_CVE-2026-24061-POC.md) | CVE-2026-24061 - GNU InetUtils telnetd 远程认证绕过, 提权 | ⚪ 严重 | 48 |
+| [CVE-2026-24061](CVE-2026-24061-Good123321-bot_good123321-bot.github.io.md) | CVE-2026-24061 - GNU InetUtils telnetd 参数注入 (Argument Inject... | ⚪ 严重 (Critical) | 48 |
+| [CVE-2026-24061](CVE-2026-24061-HD0x01_CVE-2026-24061-NSE.md) | CVE-2026-24061 - GNU InetUtils telnetd 认证绕过 | ⚪ 严重 | 48 |
+| [CVE-2026-24061](CVE-2026-24061-K3ysTr0K3R_CVE-2026-24061.md) | CVE-2026-24061 - GNU Inetutils telnetd 认证绕过/参数注入 | ⚪ 高危 | 48 |
+| [CVE-2026-24061](CVE-2026-24061-Lingzesec_CVE-2026-24061-GUI.md) | CVE-2026-24061 - GNU InetUtils telnetd 身份认证绕过/提权 | ⚪ 高危 | 48 |
+| [CVE-2026-24061](CVE-2026-24061-MY0723_GNU-Inetutils-telnet-CVE-2026-24061-.md) | CVE-2026-24061 - GNU InetUtils Telnetd 认证绕过 | ⚪ 严重 | 48 |
+| [CVE-2026-24061](CVE-2026-24061-Moxxic1_Tell-Me-Root.md) | CVE-2026-24061 - GNU InetUtils telnetd 远程认证绕过 | ⚪ 高危 (Critical) | 48 |
+| [CVE-2026-24061](CVE-2026-24061-Moxxic1_moxxic1.github.io.md) | CVE-2026-24061 - GNU InetUtils telnetd 远程身份验证绕过 (Argument In... | 🔴 Critical | 48 |
+| [CVE-2026-24061](CVE-2026-24061-Parad0x7e_CVE-2026-24061.md) | CVE-2026-24061 - GNU InetUtils telnetd 远程认证绕过, 参数注入, 提权 (Rem... | 🔴 Critical | 48 |
+| [CVE-2026-24061](CVE-2026-24061-Remnant-DB_CVE-2026-24061.md) | CVE-2026-24061 - GNU InetUtils telnetd 认证绕过, 权限提升, 远程代码执行 | ⚪ 高危 | 48 |
+| [CVE-2026-24061](CVE-2026-24061-SeptembersEND_CVE--2026-24061.md) | CVE-2026-24061 - GNU InetUtils telnetd 远程认证绕过/提权/参数注入 | ⚪ 高危 | 48 |
+| [CVE-2026-24061](CVE-2026-24061-SystemVll_CVE-2026-24061.md) | CVE-2026-24061 - GNU inetutils-telnetd 认证绕过 | 🔴 Critical | 48 |
+| [CVE-2026-24061](CVE-2026-24061-X-croot_CVE-2026-24061_POC.md) | CVE-2026-24061 - GNU InetUtils telnetd 远程代码执行 (认证绕过) | ⚪ 高危 | 48 |
+| [CVE-2026-24061](CVE-2026-24061-ahmadsadeeq_TelnetdBypass-.md) | CVE-2026-24061 - GNU InetUtils telnetd 认证绕过/参数注入 | 🔴 Critical | 48 |
+| [CVE-2026-24061](CVE-2026-24061-akpmarcelin_CVE-2026-24061-lab.md) | CVE-2026-24061 - GNU InetUtils telnetd 认证绕过/参数注入 | 🔴 Critical | 48 |
+| [CVE-2026-24061](CVE-2026-24061-anxs3c_CVE-2026-24061-GNU-InetUtils-telnetd.md) | CVE-2026-24061 - GNU InetUtils telnetd 认证绕过/参数注入 | 🔴 Critical | 48 |
+| [CVE-2026-24061](CVE-2026-24061-athack-ctf_chall2026-telneted.md) | CVE-2026-0001 - Telnet服务及其CTF挑战实现 认证绕过/信息泄露 | ⚪ 中危 | 48 |
+| [CVE-2026-24061](CVE-2026-24061-buzz075_CVE-2026-24061.md) | CVE-2026-24061 - GNU InetUtils telnetd 参数注入 (Argument Inject... | 🔴 Critical (高危) | 48 |
+| [CVE-2026-24061](CVE-2026-24061-canpilayda_inetutils-telnetd-cve-2026-24061.md) | CVE-2026-24061 - GNU Inetutils telnetd 认证绕过 | ⚪ 严重 | 48 |
+| [CVE-2026-24061](CVE-2026-24061-cumakurt_tscan.md) | CVE-2026-24061 - GNU Inetutils telnetd 身份认证绕过 | ⚪ 严重 | 48 |
+| [CVE-2026-24061](CVE-2026-24061-cyberpoul_CVE-2026-24061-POC.md) | CVE-2026-24061 - GNU InetUtils telnetd 远程认证绕过、特权升级、任意代码执行 | ⚪ 高危。攻击者可远程绕过认证 | 48 |
+| [CVE-2026-24061](CVE-2026-24061-dotelpenguin_telnetd_CVE-2026-24061_tester.md) | CVE-2026-24061 - GNU InetUtils telnetd 认证绕过 / 环境变量注入 | ⚪ 高危 (Critical) | 48 |
+| [CVE-2026-24061](CVE-2026-24061-ekomsSavior_telnet_scan.md) | CVE-2026-24061 - GNU InetUtils telnetd 认证绕过/参数注入 | 🔴 Critical | 48 |
+| [CVE-2026-24061](CVE-2026-24061-franckferman_CVE-2026-24061.md) | CVE-2026-24061 - GNU InetUtils telnetd 认证绕过 | 🔴 Critical | 48 |
+| [CVE-2026-24061](CVE-2026-24061-franckferman_CVE_2026_24061_PoC.md) | CVE-2026-24061 - GNU InetUtils telnetd 认证绕过/环境注入/提权 (RCE) | ⚪ 非常高危 | 48 |
+| [CVE-2026-24061](CVE-2026-24061-hilwa24_CVE-2026-24061.md) | CVE-2026-24061 - Telnet 服务 认证绕过 (Authentication Bypass) | ⚪ 高危 | 48 |
+| [CVE-2026-24061](CVE-2026-24061-ibrahmsql_CVE-2026-24061-PoC.md) | CVE-2026-24061 - GNU Inetutils telnetd Authentication Bypass | 🔴 Critical | 48 |
+| [CVE-2026-24061](CVE-2026-24061-jacubes_CVE-2026-24061.md) | CVE-2026-24061 - GNU Inetutils telnetd 认证绕过/权限提升 | 🔴 critical | 48 |
+| [CVE-2026-24061](CVE-2026-24061-killsystema_scan-cve-2026-24061.md) | CVE-2026-24061 - GNU inetutils telnetd 认证绕过/权限提升 | 🔴 Critical | 48 |
+| [CVE-2026-24061](CVE-2026-24061-kyukazamiqq_CVE-2026-24061.md) | CVE-2026-24061 - GNU Inetutils telnetd 认证绕过/参数注入 | ⚪ 严重 | 48 |
+| [CVE-2026-24061](CVE-2026-24061-lavabyte_telnet-CVE-2026-24061.md) | CVE-2026-24061 - GNU InetUtils telnetd 认证绕过, 参数注入, 权限提升 | ⚪ 高危/关键 | 48 |
+| [CVE-2026-24061](CVE-2026-24061-madfxr_Twenty-Three-Scanner.md) | CVE-2026-24061 - GNU InetUtils telnetd 远程认证绕过, 参数注入 | ⚪ 高危 | 48 |
+| [CVE-2026-24061](CVE-2026-24061-mbanyamer_CVE-2026-24061-GNU-Inetutils-telnetd-Remote-Authentication-Bypass-Root-Shell-.md) | CVE-2026-24061 - GNU InetUtils telnetd 认证绕过 | 🔴 Critical | 48 |
+| [CVE-2026-24061](CVE-2026-24061-midox008_CVE-2026-24061.md) | CVE-2026-24061 - GNU Inetutils telnetd 认证绕过/参数注入 | 🔴 Critical | 48 |
+| [CVE-2026-24061](CVE-2026-24061-nrnw_CVE-2026-24061-GNU-inetutils-Telnet-Detector.md) | CVE-2026-24061 - GNU InetUtils Telnetd 认证绕过 | ⚪ 严重高危 | 48 |
+| [CVE-2026-24061](CVE-2026-24061-obrunolima1910_CVE-2026-24061.md) | CVE-2026-24061 - GNU InetUtils telnetd 远程认证绕过/提权 | ⚪ 严重 | 48 |
+| [CVE-2026-24061](CVE-2026-24061-obrunolima1910_obrunolima1910.github.io.md) | CVE-2026-24061 - GNU InetUtils telnetd 远程认证绕过 / 参数注入 (Remote... | ⚪ 严重 (Critical) | 48 |
+| [CVE-2026-24061](CVE-2026-24061-przemytn_CVE-2026-24061.md) | CVE-2026-24061 - GNU InetUtils telnetd 认证绕过/参数注入 | ⚪ 关键/严重 | 48 |
+| [CVE-2026-24061](CVE-2026-24061-s-vx_CVE-2026-24061.md) | CVE-2026-24061 - GNU InetUtils 身份验证绕过 | ⚪ 严重 | 48 |
+| [CVE-2026-24061](CVE-2026-24061-scumfrog_cve-2026-24061.md) | CVE-2026-24061 - GNU InetUtils telnetd 认证绕过/参数注入 | 🔴 Critical | 48 |
+| [CVE-2026-24061](CVE-2026-24061-setuju_telnetd.md) | CVE-2026-24061 - GNU InetUtils 认证绕过 | ⚪ 关键级 | 48 |
+| [CVE-2026-24061](CVE-2026-24061-sh4den_CVE-2026-24061.md) | CVE-2026-24061 - GNU inetutils-telnetd RCE | 🔴 Critical | 48 |
+| [CVE-2026-24061](CVE-2026-24061-tc4dy_CVE-2026-24061-PoC-Exploit.md) | CVE-2026-24061 - GNU inetutils-telnetd 认证绕过/参数注入 | ⚪ 严重/关键 | 48 |
+| [CVE-2026-24061](CVE-2026-24061-tiborscholtz_CVE-2026-24061.md) | CVE-2026-24061 - GNU InetUtils telnetd 认证绕过/参数注入 | ⚪ 严重 | 48 |
 | [CVE-2026-2441](CVE-2026-2441-D3b0j33t_CVE-2026-2441-PoC.md) | CVE-2026-2441 - Google Chrome / Chromium-based browsers Use-... | ⚪ 高危 | 7 |
 | [CVE-2026-2441](CVE-2026-2441-MartinaStarone_CVE-2026-2441.md) | CVE-2026-2441 - Google Chrome Blink CSS引擎 Use-After-Free/RCE | ⚪ 高危 | 7 |
 | [CVE-2026-2441](CVE-2026-2441-NetVanguard-cmd_CVE-2026-2441.md) | CVE-2026-2441 - Google Chrome Use-after-free (UAF), Remote C... | ⚪ 高危 (High) | 7 |
@@ -336,8 +337,8 @@
 | [CVE-2026-45585](CVE-2026-45585-Desireeontrial76_yellowkey-bitlocker.md) | CVE-2026-45585 - Microsoft Windows 10, Windows 11 绕过 | ⚪ 高 | 6 |
 | [CVE-2026-45585](CVE-2026-45585-andrei-majer_bitlocker-hardening.md) | CVE-2026-45585 - Microsoft BitLocker (Windows 11) 安全功能绕过 | ⚪ 高危 | 6 |
 | [CVE-2026-45585](CVE-2026-45585-bjbakker1984_Yellowkey-mitigation.md) | CVE-2026-45585 - Windows 11 安全功能绕过 | ⚪ 高 | 6 |
-| [CVE-2026-45585](CVE-2026-45585-everest90909_YellowKey-WinRE-Remediation.md) | CVE-2026-45585 - Windows 11 安全功能绕过 | ⚪ 高 | 6 |
-| [CVE-2026-45585](CVE-2026-45585-tchuin2609_YellowKey-Bitlocker.md) | CVE-2026-45585 - Windows 10, Windows 11 安全功能绕过 | ⚪ 高 | 6 |
+| [CVE-2026-45585](CVE-2026-45585-everest90909_YellowKey-WinRE-Remediation.md) | CVE-2026-45585 - Microsoft Windows 安全功能绕过 | ⚪ 高 | 6 |
+| [CVE-2026-45585](CVE-2026-45585-tchuin2609_YellowKey-Bitlocker.md) | CVE-2026-45585 - Windows 10, Windows 11 安全绕过 | ⚪ 高 | 6 |
 | [CVE-2026-45585](CVE-2026-45585-yellowkey-exploit_YellowKey-Bitlocker.md) | CVE-2026-45585 - Windows 10/11 安全功能绕过 | ⚪ 高危 | 6 |
 | [CVE-2026-45729](CVE-2026-45729-yeahhbean_CVE-2026-45729.md) | CVE-2026-45729 - ThorVG 内存安全 | ⚪ 中等 | 1 |
 | [CVE-2026-46215](CVE-2026-46215-bluedragonsecurity_CVE-2026-46215-EXPLOIT.md) | CVE-2026-46215 - Linux Kernel Use After Free | 🟠 High | 2 |
