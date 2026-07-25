@@ -305,7 +305,7 @@
 | [CVE-2026-43499](CVE-2026-43499-JoinChang_ghostlock-oneplus.md) | CVE-2026-43499 - Linux Kernel 本地权限提升 | ⚪ 高危 | 28 |
 | [CVE-2026-43499](CVE-2026-43499-Kananosa_CVE-2026-43499-For-Xiaomi-17T-chagall.md) | CVE-2026-43499 - Linux内核 栈释放后重用 | ⚪ 高危 | 28 |
 | [CVE-2026-43499](CVE-2026-43499-Linuxoid-cn_Mi8E5-Unlocker-by-CVE-2026-43499.md) | CVE-2026-43499 - Linux内核所有主流发行版 权限提升 | ⚪ 高危 | 28 |
-| [CVE-2026-43499](CVE-2026-43499-No-22-Github_UnPlus.md) | CVE-2026-43499 - Linux Kernel 提权漏洞 | ⚪ 高危 | 28 |
+| [CVE-2026-43499](CVE-2026-43499-No-22-Github_UnPlus.md) | CVE-2026-43499 - Linux内核 本地权限提升 | ⚪ 高危 | 28 |
 | [CVE-2026-43499](CVE-2026-43499-Petalrain224_CVE-2026-43499-Redmi-Turbo5.md) | CVE-2026-43499 - Xiaomi Redmi Turbo 5 本地权限提升 | ⚪ 高 | 28 |
 | [CVE-2026-43499](CVE-2026-43499-SlightNeko_ghostlock-rothko.md) | CVE-2026-43499 - Linux Kernel 本地权限提升 | ⚪ 高危 | 28 |
 | [CVE-2026-43499](CVE-2026-43499-Thiasap_oppo-pgem10-ghostlock.md) | CVE-2026-43499 - Linux Kernel Use-After-Free | ⚪ 高危 | 28 |
@@ -318,7 +318,7 @@
 | [CVE-2026-43499](CVE-2026-43499-d224407_CVE-2026-43499.md) | CVE-2026-43499 - Linux Kernel 权限提升 | ⚪ 高危 | 28 |
 | [CVE-2026-43499](CVE-2026-43499-fuukliam_vivo-x-fold6-ghostlock.md) | CVE-2026-43499 - Linux内核 权限提升 | ⚪ 高危 | 28 |
 | [CVE-2026-43499](CVE-2026-43499-geecjdj_CVE-2026-43499.md) | CVE-2026-43499 - Linux Kernel 本地提权 | ⚪ 高危 | 28 |
-| [CVE-2026-43499](CVE-2026-43499-mumaosong_cve-2026-43499-CyberMeowfia.md) | CVE-2026-43499 - Linux Kernel 权限提升 | ⚪ 高危 | 28 |
+| [CVE-2026-43499](CVE-2026-43499-mumaosong_cve-2026-43499-CyberMeowfia.md) | CVE-2026-43499 - Linux Kernel 本地权限提升 | ⚪ 高危 | 28 |
 | [CVE-2026-43499](CVE-2026-43499-soralis0912_CVE-2026-43499-aristotle-apk.md) | CVE-2026-43499 - Linux Kernel 本地权限提升 | ⚪ 高 | 28 |
 | [CVE-2026-43499](CVE-2026-43499-soralis0912_CVE-2026-43499-aristotle.md) | CVE-2026-43499 - Linux Kernel 本地权限提升 | ⚪ 高危 | 28 |
 | [CVE-2026-43499](CVE-2026-43499-sorrow404Null_CVE-2026-43499-RMX5200.md) | CVE-2026-43499 - Linux内核 本地提权 | ⚪ 高危 | 28 |
