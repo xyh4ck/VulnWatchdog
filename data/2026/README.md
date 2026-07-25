@@ -1,6 +1,6 @@
 # 2026年 CVE漏洞列表
 
-> 📊 共收录 **423** 个CVE漏洞
+> 📊 共收录 **424** 个CVE漏洞
 
 ---
 
@@ -249,6 +249,7 @@
 | [CVE-2026-39987](CVE-2026-39987-h3raklez_CVE-2026-39987.md) | CVE-2026-39987 - Marimo 远程代码执行(RCE) | ⚪ 危害等级严重 | 2 |
 | [CVE-2026-39987](CVE-2026-39987-mki9_CVE-2026-39987_exploit.md) | CVE-2026-39987 - 未指明产品 RCE | ⚪ 高 | 2 |
 | [CVE-2026-41089](CVE-2026-41089-ADScanPro_CVE-2026-41089-LongLogon.md) | CVE-2026-41089 - Windows Netlogon RCE | ⚪ 高危 | 1 |
+| [CVE-2026-41651](CVE-2026-41651-shibaaa204_Pack2TheRoot.md) | CVE-2026-41651 - Linux PackageKit 本地权限提升 | ⚪ 高危 | 1 |
 | [CVE-2026-41940](CVE-2026-41940-Christian93111_CVE-2026-41940.md) | CVE-2026-41940 - cPanel & WHM 认证绕过/CRLF注入/会话伪造 | ⚪ 高危 | 21 |
 | [CVE-2026-41940](CVE-2026-41940-Jenderal92_CVE-2026-41940.md) | CVE-2026-41940 - cPanel/WHM 认证绕过 | ⚪ 高危 | 21 |
 | [CVE-2026-41940](CVE-2026-41940-MrOplus_CVE-2026-41940.md) | CVE-2024-XXXX - cPanel & WHM 认证绕过/会话伪造 | ⚪ 高危 | 21 |
@@ -336,7 +337,7 @@
 | [CVE-2026-45585](CVE-2026-45585-andrei-majer_bitlocker-hardening.md) | CVE-2026-45585 - Microsoft BitLocker (Windows 11) 安全功能绕过 | ⚪ 高危 | 6 |
 | [CVE-2026-45585](CVE-2026-45585-bjbakker1984_Yellowkey-mitigation.md) | CVE-2026-45585 - Windows 11 安全功能绕过 | ⚪ 高 | 6 |
 | [CVE-2026-45585](CVE-2026-45585-everest90909_YellowKey-WinRE-Remediation.md) | CVE-2026-45585 - Windows 11 安全功能绕过 | ⚪ 高 | 6 |
-| [CVE-2026-45585](CVE-2026-45585-tchuin2609_YellowKey-Bitlocker.md) | CVE-2026-45585 - BitLocker 安全功能绕过 | ⚪ 中高危 | 6 |
+| [CVE-2026-45585](CVE-2026-45585-tchuin2609_YellowKey-Bitlocker.md) | CVE-2026-45585 - Windows 10, Windows 11 安全功能绕过 | ⚪ 高 | 6 |
 | [CVE-2026-45585](CVE-2026-45585-yellowkey-exploit_YellowKey-Bitlocker.md) | CVE-2026-45585 - Windows 10/11 安全功能绕过 | ⚪ 高危 | 6 |
 | [CVE-2026-45729](CVE-2026-45729-yeahhbean_CVE-2026-45729.md) | CVE-2026-45729 - ThorVG 内存安全 | ⚪ 中等 | 1 |
 | [CVE-2026-46215](CVE-2026-46215-bluedragonsecurity_CVE-2026-46215-EXPLOIT.md) | CVE-2026-46215 - Linux Kernel Use After Free | 🟠 High | 2 |
