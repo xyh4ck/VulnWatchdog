@@ -1,6 +1,6 @@
 # 2026年 CVE漏洞列表
 
-> 📊 共收录 **422** 个CVE漏洞
+> 📊 共收录 **423** 个CVE漏洞
 
 ---
 
@@ -317,7 +317,7 @@
 | [CVE-2026-43499](CVE-2026-43499-ctn-Qvo_auto_extract_offsets.md) | CVE-2026-43499 - Linux内核 权限提升 | ⚪ 高危 | 28 |
 | [CVE-2026-43499](CVE-2026-43499-d224407_CVE-2026-43499.md) | CVE-2026-43499 - Linux Kernel 权限提升 | ⚪ 高危 | 28 |
 | [CVE-2026-43499](CVE-2026-43499-fuukliam_vivo-x-fold6-ghostlock.md) | CVE-2026-43499 - Linux内核 权限提升 | ⚪ 高危 | 28 |
-| [CVE-2026-43499](CVE-2026-43499-geecjdj_CVE-2026-43499.md) | CVE-2026-43499 - Linux Kernel 本地提权 | ⚪ 高危 | 28 |
+| [CVE-2026-43499](CVE-2026-43499-geecjdj_CVE-2026-43499.md) | CVE-2026-43499 - Linux内核 本地权限提升 | ⚪ 高 | 28 |
 | [CVE-2026-43499](CVE-2026-43499-mumaosong_cve-2026-43499-CyberMeowfia.md) | CVE-2026-43499 - Linux Kernel 本地权限提升 | ⚪ 高危 | 28 |
 | [CVE-2026-43499](CVE-2026-43499-soralis0912_CVE-2026-43499-aristotle-apk.md) | CVE-2026-43499 - Linux Kernel 本地权限提升 | ⚪ 高 | 28 |
 | [CVE-2026-43499](CVE-2026-43499-soralis0912_CVE-2026-43499-aristotle.md) | CVE-2026-43499 - Linux Kernel 本地权限提升 | ⚪ 高危 | 28 |
@@ -335,7 +335,7 @@
 | [CVE-2026-45585](CVE-2026-45585-Desireeontrial76_yellowkey-bitlocker.md) | CVE-2026-45585 - Microsoft Windows 10, Windows 11 绕过 | ⚪ 高 | 6 |
 | [CVE-2026-45585](CVE-2026-45585-andrei-majer_bitlocker-hardening.md) | CVE-2026-45585 - Microsoft BitLocker (Windows 11) 安全功能绕过 | ⚪ 高危 | 6 |
 | [CVE-2026-45585](CVE-2026-45585-bjbakker1984_Yellowkey-mitigation.md) | CVE-2026-45585 - Windows 11 安全功能绕过 | ⚪ 高 | 6 |
-| [CVE-2026-45585](CVE-2026-45585-everest90909_YellowKey-WinRE-Remediation.md) | CVE-2026-45585 - Microsoft Windows BitLocker 安全功能绕过 | ⚪ 中高危（CVSS 3.1评分6.8） | 6 |
+| [CVE-2026-45585](CVE-2026-45585-everest90909_YellowKey-WinRE-Remediation.md) | CVE-2026-45585 - Windows 11 安全功能绕过 | ⚪ 高 | 6 |
 | [CVE-2026-45585](CVE-2026-45585-tchuin2609_YellowKey-Bitlocker.md) | CVE-2026-45585 - BitLocker 安全功能绕过 | ⚪ 中高危 | 6 |
 | [CVE-2026-45585](CVE-2026-45585-yellowkey-exploit_YellowKey-Bitlocker.md) | CVE-2026-45585 - Windows 10/11 安全功能绕过 | ⚪ 高危 | 6 |
 | [CVE-2026-45729](CVE-2026-45729-yeahhbean_CVE-2026-45729.md) | CVE-2026-45729 - ThorVG 内存安全 | ⚪ 中等 | 1 |
@@ -412,6 +412,7 @@
 | [CVE-2026-6307](CVE-2026-6307-J4ck3LSyN-Gen2_CVE-2026-6307-Longinus.md) | CVE-2026-6307 - Google V8 JavaScript 引擎（d8 shell/Chromium 相关... | ⚪ 高危 | 2 |
 | [CVE-2026-6433](CVE-2026-6433-murrez_CVE-2026-6433.md) | CVE-2026-6433 - FlipperCode Custom CSS, JS & PHP SQL注入/远程代码执... | ⚪ 高危 | 1 |
 | [CVE-2026-65650](CVE-2026-65650-swornim619_CVE-2026-65650.md) | CVE-2026-65650 - Elgg 拒绝服务 | ⚪ 中等 | 1 |
+| [CVE-2026-65694](CVE-2026-65694-abdugafforov-bobur_CVE-2026-65694-PoC.md) | CVE-2026-65694 - Microweber CMS 路径遍历 | ⚪ 高 | 1 |
 | [CVE-2026-8181](CVE-2026-8181-HudzaifahArrantisi_CVE-2026-8181.md) | CVE-2026-8181 - WordPress Burst Statistics 认证绕过 | ⚪ 高 | 3 |
 | [CVE-2026-8181](CVE-2026-8181-Squamity_CVE-2026-8181-PoC.md) | CVE-2026-8181 - Burst Statistics 认证绕过 | ⚪ 严重 (Critical) | 3 |
 | [CVE-2026-8181](CVE-2026-8181-rootdirective-sec_CVE-2026-8181-Lab.md) | CVE-2026-8181 - Burst Statistics – Privacy-Friendly WordPres... | ⚪ 高 | 3 |
