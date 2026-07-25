@@ -316,7 +316,7 @@
 | [CVE-2026-43499](CVE-2026-43499-ctn-Qvo_auto_extract_offsets.md) | CVE-2026-43499 - Linux内核 权限提升 | ⚪ 高危 | 27 |
 | [CVE-2026-43499](CVE-2026-43499-d224407_CVE-2026-43499.md) | CVE-2026-43499 - Linux Kernel 权限提升 | ⚪ 高危 | 27 |
 | [CVE-2026-43499](CVE-2026-43499-fuukliam_vivo-x-fold6-ghostlock.md) | CVE-2026-43499 - Linux内核 权限提升 | ⚪ 高危 | 27 |
-| [CVE-2026-43499](CVE-2026-43499-geecjdj_CVE-2026-43499.md) | CVE-2026-43499 - Linux Kernel 权限提升 | ⚪ 高危 | 27 |
+| [CVE-2026-43499](CVE-2026-43499-geecjdj_CVE-2026-43499.md) | CVE-2026-43499 - Linux Kernel 本地权限提升 | ⚪ 高危 | 27 |
 | [CVE-2026-43499](CVE-2026-43499-mumaosong_cve-2026-43499-CyberMeowfia.md) | CVE-2026-43499 - Linux Kernel 权限提升 | ⚪ 高危 | 27 |
 | [CVE-2026-43499](CVE-2026-43499-soralis0912_CVE-2026-43499-aristotle-apk.md) | CVE-2026-43499 - Linux Kernel 本地权限提升 | ⚪ 高 | 27 |
 | [CVE-2026-43499](CVE-2026-43499-soralis0912_CVE-2026-43499-aristotle.md) | CVE-2026-43499 - Linux Kernel 本地权限提升 | ⚪ 高危 | 27 |
@@ -334,7 +334,7 @@
 | [CVE-2026-45585](CVE-2026-45585-Desireeontrial76_yellowkey-bitlocker.md) | CVE-2026-45585 - Microsoft Windows 10, Windows 11 绕过 | ⚪ 高 | 5 |
 | [CVE-2026-45585](CVE-2026-45585-andrei-majer_bitlocker-hardening.md) | CVE-2026-45585 - Microsoft BitLocker (Windows 11) 安全功能绕过 | ⚪ 高危 | 5 |
 | [CVE-2026-45585](CVE-2026-45585-bjbakker1984_Yellowkey-mitigation.md) | CVE-2026-45585 - Windows 11 安全功能绕过 | ⚪ 高 | 5 |
-| [CVE-2026-45585](CVE-2026-45585-everest90909_YellowKey-WinRE-Remediation.md) | CVE-2026-45585 - Windows 11 安全功能绕过 | ⚪ 高 | 5 |
+| [CVE-2026-45585](CVE-2026-45585-everest90909_YellowKey-WinRE-Remediation.md) | CVE-2026-45585 - Microsoft Windows BitLocker 安全功能绕过 | ⚪ 中高危（CVSS 3.1评分6.8） | 5 |
 | [CVE-2026-45585](CVE-2026-45585-yellowkey-exploit_YellowKey-Bitlocker.md) | CVE-2026-45585 - Windows 10/11 安全功能绕过 | ⚪ 高危 | 5 |
 | [CVE-2026-45729](CVE-2026-45729-yeahhbean_CVE-2026-45729.md) | CVE-2026-45729 - ThorVG 内存安全 | ⚪ 中等 | 1 |
 | [CVE-2026-46215](CVE-2026-46215-bluedragonsecurity_CVE-2026-46215-EXPLOIT.md) | CVE-2026-46215 - Linux Kernel Use After Free | 🟠 High | 2 |
@@ -439,4 +439,4 @@
 
 ---
 
-*最后更新: 2026-07-24*
+*最后更新: 2026-07-25*
