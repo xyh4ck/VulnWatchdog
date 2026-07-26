@@ -157,7 +157,7 @@
 | [CVE-2026-24061](CVE-2026-24061-obrunolima1910_CVE-2026-24061.md) | CVE-2026-24061 - GNU InetUtils telnetd 远程认证绕过/提权 | ⚪ 严重 | 48 |
 | [CVE-2026-24061](CVE-2026-24061-obrunolima1910_obrunolima1910.github.io.md) | CVE-2026-24061 - GNU InetUtils telnetd 远程认证绕过 / 参数注入 (Remote... | ⚪ 严重 (Critical) | 48 |
 | [CVE-2026-24061](CVE-2026-24061-przemytn_CVE-2026-24061.md) | CVE-2026-24061 - GNU InetUtils telnetd 认证绕过/参数注入 | ⚪ 关键/严重 | 48 |
-| [CVE-2026-24061](CVE-2026-24061-s-vx_CVE-2026-24061.md) | CVE-2026-24061 - Debian 认证绕过 | ⚪ 高 | 48 |
+| [CVE-2026-24061](CVE-2026-24061-s-vx_CVE-2026-24061.md) | CVE-2026-24061 - GNU InetUtils 远程认证绕过 | ⚪ 关键 | 48 |
 | [CVE-2026-24061](CVE-2026-24061-scumfrog_cve-2026-24061.md) | CVE-2026-24061 - GNU InetUtils telnetd 认证绕过/参数注入 | 🔴 Critical | 48 |
 | [CVE-2026-24061](CVE-2026-24061-setuju_telnetd.md) | CVE-2026-24061 - GNU InetUtils 认证绕过 | ⚪ 关键级 | 48 |
 | [CVE-2026-24061](CVE-2026-24061-sh4den_CVE-2026-24061.md) | CVE-2026-24061 - GNU inetutils-telnetd RCE | 🔴 Critical | 48 |
@@ -307,7 +307,7 @@
 | [CVE-2026-43499](CVE-2026-43499-JoinChang_ghostlock-oneplus.md) | CVE-2026-43499 - Linux Kernel 本地权限提升 | ⚪ 高危 | 28 |
 | [CVE-2026-43499](CVE-2026-43499-Kananosa_CVE-2026-43499-For-Xiaomi-17T-chagall.md) | CVE-2026-43499 - Linux内核 栈释放后重用 | ⚪ 高危 | 28 |
 | [CVE-2026-43499](CVE-2026-43499-Linuxoid-cn_Mi8E5-Unlocker-by-CVE-2026-43499.md) | CVE-2026-43499 - Linux内核所有主流发行版 权限提升 | ⚪ 高危 | 28 |
-| [CVE-2026-43499](CVE-2026-43499-No-22-Github_UnPlus.md) | CVE-2026-43499 - Linux内核 本地权限提升 | ⚪ 高危 | 28 |
+| [CVE-2026-43499](CVE-2026-43499-No-22-Github_UnPlus.md) | CVE-2026-43499 - Linux内核 权限提升 | ⚪ 高 | 28 |
 | [CVE-2026-43499](CVE-2026-43499-Petalrain224_CVE-2026-43499-Redmi-Turbo5.md) | CVE-2026-43499 - Xiaomi Redmi Turbo 5 本地权限提升 | ⚪ 高 | 28 |
 | [CVE-2026-43499](CVE-2026-43499-SlightNeko_ghostlock-rothko.md) | CVE-2026-43499 - Linux Kernel 本地权限提升 | ⚪ 高危 | 28 |
 | [CVE-2026-43499](CVE-2026-43499-Thiasap_oppo-pgem10-ghostlock.md) | CVE-2026-43499 - Linux Kernel Use-After-Free | ⚪ 高危 | 28 |
@@ -338,7 +338,7 @@
 | [CVE-2026-45585](CVE-2026-45585-andrei-majer_bitlocker-hardening.md) | CVE-2026-45585 - Microsoft BitLocker (Windows 11) 安全功能绕过 | ⚪ 高危 | 7 |
 | [CVE-2026-45585](CVE-2026-45585-bjbakker1984_Yellowkey-mitigation.md) | CVE-2026-45585 - Windows 11 安全功能绕过 | ⚪ 高 | 7 |
 | [CVE-2026-45585](CVE-2026-45585-everest90909_YellowKey-WinRE-Remediation.md) | CVE-2026-45585 - Microsoft Windows 安全功能绕过 | ⚪ 高 | 7 |
-| [CVE-2026-45585](CVE-2026-45585-tchuin2609_YellowKey-Bitlocker.md) | CVE-2026-45585 - Microsoft BitLocker 安全功能绕过 | ⚪ 中高危 | 7 |
+| [CVE-2026-45585](CVE-2026-45585-tchuin2609_YellowKey-Bitlocker.md) | CVE-2026-45585 - Windows 11 绕过漏洞 | ⚪ 高 | 7 |
 | [CVE-2026-45585](CVE-2026-45585-tchuin2609_tchuin2609.github.io.md) | CVE-2026-45585 - Windows 10, Windows 11 安全功能绕过 | ⚪ 高 | 7 |
 | [CVE-2026-45585](CVE-2026-45585-yellowkey-exploit_YellowKey-Bitlocker.md) | CVE-2026-45585 - Microsoft BitLocker 安全功能绕过 | ⚪ 中高危 | 7 |
 | [CVE-2026-45729](CVE-2026-45729-yeahhbean_CVE-2026-45729.md) | CVE-2026-45729 - ThorVG 内存安全 | ⚪ 中等 | 1 |
