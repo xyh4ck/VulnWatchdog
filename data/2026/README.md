@@ -157,7 +157,7 @@
 | [CVE-2026-24061](CVE-2026-24061-obrunolima1910_CVE-2026-24061.md) | CVE-2026-24061 - GNU InetUtils telnetd 远程认证绕过/提权 | ⚪ 严重 | 48 |
 | [CVE-2026-24061](CVE-2026-24061-obrunolima1910_obrunolima1910.github.io.md) | CVE-2026-24061 - GNU InetUtils telnetd 远程认证绕过 / 参数注入 (Remote... | ⚪ 严重 (Critical) | 48 |
 | [CVE-2026-24061](CVE-2026-24061-przemytn_CVE-2026-24061.md) | CVE-2026-24061 - GNU InetUtils telnetd 认证绕过/参数注入 | ⚪ 关键/严重 | 48 |
-| [CVE-2026-24061](CVE-2026-24061-s-vx_CVE-2026-24061.md) | CVE-2026-24061 - GNU InetUtils 身份验证绕过 | ⚪ 严重 | 48 |
+| [CVE-2026-24061](CVE-2026-24061-s-vx_CVE-2026-24061.md) | CVE-2026-24061 - Debian 认证绕过 | ⚪ 高 | 48 |
 | [CVE-2026-24061](CVE-2026-24061-scumfrog_cve-2026-24061.md) | CVE-2026-24061 - GNU InetUtils telnetd 认证绕过/参数注入 | 🔴 Critical | 48 |
 | [CVE-2026-24061](CVE-2026-24061-setuju_telnetd.md) | CVE-2026-24061 - GNU InetUtils 认证绕过 | ⚪ 关键级 | 48 |
 | [CVE-2026-24061](CVE-2026-24061-sh4den_CVE-2026-24061.md) | CVE-2026-24061 - GNU inetutils-telnetd RCE | 🔴 Critical | 48 |
@@ -444,4 +444,4 @@
 
 ---
 
-*最后更新: 2026-07-25*
+*最后更新: 2026-07-26*
