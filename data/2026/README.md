@@ -325,7 +325,7 @@
 | [CVE-2026-43499](CVE-2026-43499-soralis0912_CVE-2026-43499-aristotle-apk.md) | CVE-2026-43499 - Linux Kernel 本地权限提升 | ⚪ 高 | 30 |
 | [CVE-2026-43499](CVE-2026-43499-soralis0912_CVE-2026-43499-aristotle.md) | CVE-2026-43499 - Linux Kernel 本地权限提升 | ⚪ 高危 | 30 |
 | [CVE-2026-43499](CVE-2026-43499-sorrow404Null_CVE-2026-43499-RMX5200.md) | CVE-2026-43499 - Linux内核 本地提权 | ⚪ 高危 | 30 |
-| [CVE-2026-43499](CVE-2026-43499-woshimaniubi8_CVE-2026-43499-root-KernelSU.md) | CVE-2026-43499 - Linux内核 提权漏洞 | ⚪ 高危 | 30 |
+| [CVE-2026-43499](CVE-2026-43499-woshimaniubi8_CVE-2026-43499-root-KernelSU.md) | CVE-2026-43499 - Linux内核 权限提升 | ⚪ 高危 | 30 |
 | [CVE-2026-43499](CVE-2026-43499-x-spy_CVE-2026-43499-popsicle.md) | CVE-2026-43499 - Linux Kernel, Android 提权漏洞 | ⚪ 高危 | 30 |
 | [CVE-2026-43500](CVE-2026-43500-attaattaatta_CVE-2026-43500.md) | CVE-2026-43284 - Linux Kernel 提权漏洞 | ⚪ 高危 | 1 |
 | [CVE-2026-43503](CVE-2026-43503-SecureWithUmer_CVE-2026-43503.md) | CVE-2026-43503 - Linux kernel 本地权限提升 | ⚪ 高危 | 5 |
@@ -340,7 +340,7 @@
 | [CVE-2026-45585](CVE-2026-45585-andrei-majer_bitlocker-hardening.md) | CVE-2026-45585 - Microsoft BitLocker (Windows 11) 安全功能绕过 | ⚪ 高危 | 7 |
 | [CVE-2026-45585](CVE-2026-45585-bjbakker1984_Yellowkey-mitigation.md) | CVE-2026-45585 - Windows 11 安全功能绕过 | ⚪ 高 | 7 |
 | [CVE-2026-45585](CVE-2026-45585-everest90909_YellowKey-WinRE-Remediation.md) | CVE-2026-45585 - Microsoft BitLocker 安全功能绕过 | ⚪ 中高危 | 7 |
-| [CVE-2026-45585](CVE-2026-45585-tchuin2609_YellowKey-Bitlocker.md) | CVE-2026-45585 - Microsoft BitLocker 安全功能绕过 | ⚪ 中高危 | 7 |
+| [CVE-2026-45585](CVE-2026-45585-tchuin2609_YellowKey-Bitlocker.md) | CVE-2026-45585 - Windows 10, Windows 11 身份验证绕过 | ⚪ 高 | 7 |
 | [CVE-2026-45585](CVE-2026-45585-tchuin2609_tchuin2609.github.io.md) | CVE-2026-45585 - Microsoft BitLocker 安全功能绕过 | ⚪ 中高危/高危 | 7 |
 | [CVE-2026-45585](CVE-2026-45585-yellowkey-exploit_YellowKey-Bitlocker.md) | CVE-2026-45585 - Windows 10/11 安全功能绕过 | ⚪ 中高危 | 7 |
 | [CVE-2026-45729](CVE-2026-45729-yeahhbean_CVE-2026-45729.md) | CVE-2026-45729 - ThorVG 内存安全 | ⚪ 中等 | 1 |
