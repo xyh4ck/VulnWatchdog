@@ -340,7 +340,7 @@
 | [CVE-2026-45585](CVE-2026-45585-andrei-majer_bitlocker-hardening.md) | CVE-2026-45585 - Microsoft BitLocker (Windows 11) 安全功能绕过 | ⚪ 高危 | 7 |
 | [CVE-2026-45585](CVE-2026-45585-bjbakker1984_Yellowkey-mitigation.md) | CVE-2026-45585 - Windows 11 安全功能绕过 | ⚪ 高 | 7 |
 | [CVE-2026-45585](CVE-2026-45585-everest90909_YellowKey-WinRE-Remediation.md) | CVE-2026-45585 - Microsoft BitLocker 安全功能绕过 | ⚪ 中高危 | 7 |
-| [CVE-2026-45585](CVE-2026-45585-tchuin2609_YellowKey-Bitlocker.md) | CVE-2026-45585 - Windows 10, Windows 11 身份验证绕过 | ⚪ 高 | 7 |
+| [CVE-2026-45585](CVE-2026-45585-tchuin2609_YellowKey-Bitlocker.md) | CVE-2026-45585 - Windows 10, Windows 11 安全功能绕过 | ⚪ 中高危 | 7 |
 | [CVE-2026-45585](CVE-2026-45585-tchuin2609_tchuin2609.github.io.md) | CVE-2026-45585 - Microsoft BitLocker 安全功能绕过 | ⚪ 中高危/高危 | 7 |
 | [CVE-2026-45585](CVE-2026-45585-yellowkey-exploit_YellowKey-Bitlocker.md) | CVE-2026-45585 - Windows 10/11 安全功能绕过 | ⚪ 中高危 | 7 |
 | [CVE-2026-45729](CVE-2026-45729-yeahhbean_CVE-2026-45729.md) | CVE-2026-45729 - ThorVG 内存安全 | ⚪ 中等 | 1 |
