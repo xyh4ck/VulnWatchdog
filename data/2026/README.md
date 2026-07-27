@@ -342,7 +342,7 @@
 | [CVE-2026-45585](CVE-2026-45585-everest90909_YellowKey-WinRE-Remediation.md) | CVE-2026-45585 - Microsoft Windows 安全功能绕过 | ⚪ 高 | 7 |
 | [CVE-2026-45585](CVE-2026-45585-tchuin2609_YellowKey-Bitlocker.md) | CVE-2026-45585 - Windows 10, Windows 11 安全功能绕过 | ⚪ 高危 | 7 |
 | [CVE-2026-45585](CVE-2026-45585-tchuin2609_tchuin2609.github.io.md) | CVE-2026-45585 - Windows 10, Windows 11 安全功能绕过 | ⚪ 高 | 7 |
-| [CVE-2026-45585](CVE-2026-45585-yellowkey-exploit_YellowKey-Bitlocker.md) | CVE-2026-45585 - Microsoft BitLocker 安全功能绕过 | ⚪ 中高危 | 7 |
+| [CVE-2026-45585](CVE-2026-45585-yellowkey-exploit_YellowKey-Bitlocker.md) | CVE-2026-45585 - Windows 10/11 安全功能绕过 | ⚪ 中高危 | 7 |
 | [CVE-2026-45729](CVE-2026-45729-yeahhbean_CVE-2026-45729.md) | CVE-2026-45729 - ThorVG 内存安全 | ⚪ 中等 | 1 |
 | [CVE-2026-46215](CVE-2026-46215-bluedragonsecurity_CVE-2026-46215-EXPLOIT.md) | CVE-2026-46215 - Linux Kernel Use After Free | 🟠 High | 2 |
 | [CVE-2026-46215](CVE-2026-46215-bluedragonsecurity_CVE-2026-46215-exploit-linux-7.0-uaf-stable.md) | CVE-2026-46215 - Linux Kernel 提权漏洞 | ⚪ 高危 | 2 |
@@ -447,4 +447,4 @@
 
 ---
 
-*最后更新: 2026-07-26*
+*最后更新: 2026-07-27*
