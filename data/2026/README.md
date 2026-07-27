@@ -1,6 +1,6 @@
 # 2026年 CVE漏洞列表
 
-> 📊 共收录 **428** 个CVE漏洞
+> 📊 共收录 **429** 个CVE漏洞
 
 ---
 
@@ -341,7 +341,7 @@
 | [CVE-2026-45585](CVE-2026-45585-bjbakker1984_Yellowkey-mitigation.md) | CVE-2026-45585 - Windows 11 安全功能绕过 | ⚪ 高 | 7 |
 | [CVE-2026-45585](CVE-2026-45585-everest90909_YellowKey-WinRE-Remediation.md) | CVE-2026-45585 - Microsoft BitLocker 安全功能绕过 | ⚪ 中高危 | 7 |
 | [CVE-2026-45585](CVE-2026-45585-tchuin2609_YellowKey-Bitlocker.md) | CVE-2026-45585 - Microsoft BitLocker 安全功能绕过 | ⚪ 中高危 | 7 |
-| [CVE-2026-45585](CVE-2026-45585-tchuin2609_tchuin2609.github.io.md) | CVE-2026-45585 - Windows 10, Windows 11 安全功能绕过 | ⚪ 高 | 7 |
+| [CVE-2026-45585](CVE-2026-45585-tchuin2609_tchuin2609.github.io.md) | CVE-2026-45585 - Microsoft BitLocker 安全功能绕过 | ⚪ 中高危/高危 | 7 |
 | [CVE-2026-45585](CVE-2026-45585-yellowkey-exploit_YellowKey-Bitlocker.md) | CVE-2026-45585 - Windows 10/11 安全功能绕过 | ⚪ 中高危 | 7 |
 | [CVE-2026-45729](CVE-2026-45729-yeahhbean_CVE-2026-45729.md) | CVE-2026-45729 - ThorVG 内存安全 | ⚪ 中等 | 1 |
 | [CVE-2026-46215](CVE-2026-46215-bluedragonsecurity_CVE-2026-46215-EXPLOIT.md) | CVE-2026-46215 - Linux Kernel Use After Free | 🟠 High | 2 |
@@ -406,6 +406,7 @@
 | [CVE-2026-56290](CVE-2026-56290-shinthink_pbck-exploit.md) | CVE-2026-56290 - Joomla Page Builder CK（com_pagebuilderck） 任... | 🔴 Critical | 1 |
 | [CVE-2026-56782](CVE-2026-56782-BiiTts_CVE-2026-56782-Gorse-Auth-Bypass.md) | CVE-2026-56782 - Master HTTP 管理服务（dashboard/master 8088 端口） ... | ⚪ 高危：默认配置下可直接未授权访问管理接口 | 1 |
 | [CVE-2026-57517](CVE-2026-57517-shinthink_CVE-2026-57517.md) | CVE-2026-57517 - Control Web Panel (CWP) SQL注入/盲注/远程代码执行 | ⚪ 严重/Critical | 1 |
+| [CVE-2026-57973](CVE-2026-57973-riddhimaan-sth404_CVE-2026-57973.md) | CVE-2026-57973 - Windows Subsystem for Linux (WSL) TOCTOU ra... | ⚪ 高危 | 1 |
 | [CVE-2026-58116](CVE-2026-58116-Hunt-Benito_llama-factory-webui-rce-cve-2026-58116-trust-remote-code-model-path-injection.md) | CVE-2026-58116 - LLaMA-Factory WebUI 远程代码执行（RCE） | ⚪ 严重/Critical | 1 |
 | [CVE-2026-58138](CVE-2026-58138-BiiTts_CVE-2026-58138-Conductor-Unauth-RCE.md) | CVE-2026-58138 - Netflix Conductor 远程代码执行 | ⚪ 严重 | 1 |
 | [CVE-2026-63030](CVE-2026-63030-4minx_CVE-2026-63030.md) | CVE-2026-63030 - WordPress 远程代码执行 | ⚪ 高危 | 5 |
