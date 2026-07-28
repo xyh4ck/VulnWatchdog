@@ -249,7 +249,7 @@
 | [CVE-2026-39492](CVE-2026-39492-shinthink_CVE-2026-39492.md) | CVE-2026-39492 - WP Maps插件 SQL注入 | ⚪ 危害等级：严重 | 1 |
 | [CVE-2026-39987](CVE-2026-39987-h3raklez_CVE-2026-39987.md) | CVE-2026-39987 - Marimo 远程代码执行(RCE) | ⚪ 危害等级严重 | 2 |
 | [CVE-2026-39987](CVE-2026-39987-mki9_CVE-2026-39987_exploit.md) | CVE-2026-39987 - 未指明产品 RCE | ⚪ 高 | 2 |
-| [CVE-2026-40000](CVE-2026-40000-Skorpion96_CVE-2026-40000.md) | CVE-2026-40000 - ZTE File Manager 文件读取 | ⚪ 高危 | 1 |
+| [CVE-2026-40000](CVE-2026-40000-Skorpion96_CVE-2026-40000.md) | CVE-2026-40000 - ZTE File Manager RCE | ⚪ 高 | 1 |
 | [CVE-2026-41089](CVE-2026-41089-ADScanPro_CVE-2026-41089-LongLogon.md) | CVE-2026-41089 - Windows Netlogon RCE | ⚪ 高危 | 1 |
 | [CVE-2026-41651](CVE-2026-41651-shibaaa204_Pack2TheRoot.md) | CVE-2026-41651 - Linux PackageKit 本地权限提升 | ⚪ 高危 | 1 |
 | [CVE-2026-41940](CVE-2026-41940-Christian93111_CVE-2026-41940.md) | CVE-2026-41940 - cPanel & WHM 认证绕过/CRLF注入/会话伪造 | ⚪ 高危 | 21 |
@@ -319,7 +319,7 @@
 | [CVE-2026-43499](CVE-2026-43499-ctn-Qvo_CVE-2026-43499-so-build.md) | CVE-2026-43499 - Linux内核 本地权限提升 | ⚪ 高危 | 31 |
 | [CVE-2026-43499](CVE-2026-43499-ctn-Qvo_auto_extract_offsets.md) | CVE-2026-43499 - Linux内核 权限提升 | ⚪ 高危 | 31 |
 | [CVE-2026-43499](CVE-2026-43499-d224407_CVE-2026-43499.md) | CVE-2026-43499 - Linux Kernel 权限提升 | ⚪ 高危 | 31 |
-| [CVE-2026-43499](CVE-2026-43499-dnlid_CVE-2026-43499.md) | CVE-2026-43499 - Linux Kernel Use-After-Free | ⚪ 高 | 31 |
+| [CVE-2026-43499](CVE-2026-43499-dnlid_CVE-2026-43499.md) | CVE-2026-43499 - Linux Kernel 栈上Use-After-Free | ⚪ 高危 | 31 |
 | [CVE-2026-43499](CVE-2026-43499-fusiondrive_CVE-2026-43499-S24U.md) | CVE-2026-43499 - Linux内核, Galaxy S24 Ultra 栈上Use-After-Free | ⚪ 高危 | 31 |
 | [CVE-2026-43499](CVE-2026-43499-fuukliam_vivo-x-fold6-ghostlock.md) | CVE-2026-43499 - Linux内核 权限提升 | ⚪ 高危 | 31 |
 | [CVE-2026-43499](CVE-2026-43499-geecjdj_CVE-2026-43499.md) | CVE-2026-43499 - Linux内核 本地权限提升 | ⚪ 高 | 31 |

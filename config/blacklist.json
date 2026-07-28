@@ -1,7 +1,7 @@
 {
   "$schema": "blacklist-schema.json",
   "version": "1.0.0",
-  "last_updated": "2026-07-28T06:28:47.592065Z",
+  "last_updated": "2026-07-28T10:37:19.372122Z",
   "description": "VulnWatchdog 黑名单配置文件 - 用于过滤低质量POC和恶意仓库",
   "settings": {
     "auto_blacklist_enabled": true,
@@ -18334,6 +18334,66 @@
         "last_quality_score": 9,
         "last_poisoning_risk": 80,
         "notes": "自动拉黑 - 失败原因: 投毒风险过高: 80%, 有效性分析过短: 341 字符 (最少500字符)"
+      },
+      {
+        "username": "ma4the",
+        "reason": "投毒风险持续过高(最近风险: 75%)",
+        "added_date": "2026-07-28",
+        "added_by": "auto",
+        "fail_count": 1,
+        "last_quality_score": 8,
+        "last_poisoning_risk": 75,
+        "notes": "自动拉黑 - 失败原因: 投毒风险过高: 75, 有效性分析过短: 462 字符 (最少500字符)"
+      },
+      {
+        "username": "sarabpal-dev",
+        "reason": "投毒风险持续过高(最近风险: 80%)",
+        "added_date": "2026-07-28",
+        "added_by": "auto",
+        "fail_count": 1,
+        "last_quality_score": 7,
+        "last_poisoning_risk": 80,
+        "notes": "自动拉黑 - 失败原因: 投毒风险过高: 80%, 有效性分析过短: 466 字符 (最少500字符)"
+      },
+      {
+        "username": "RevShellXD",
+        "reason": "投毒风险持续过高(最近风险: 85%)",
+        "added_date": "2026-07-28",
+        "added_by": "auto",
+        "fail_count": 1,
+        "last_quality_score": 8,
+        "last_poisoning_risk": 85,
+        "notes": "自动拉黑 - 失败原因: 投毒风险过高: 85%, 有效性分析过短: 405 字符 (最少500字符)"
+      },
+      {
+        "username": "jonas-fernandez-as",
+        "reason": "投毒风险持续过高(最近风险: 80%)",
+        "added_date": "2026-07-28",
+        "added_by": "auto",
+        "fail_count": 1,
+        "last_quality_score": 9,
+        "last_poisoning_risk": 80,
+        "notes": "自动拉黑 - 失败原因: 投毒风险过高: 80%, 有效性分析过短: 409 字符 (最少500字符)"
+      },
+      {
+        "username": "samael0x4",
+        "reason": "投毒风险持续过高(最近风险: 80%)",
+        "added_date": "2026-07-28",
+        "added_by": "auto",
+        "fail_count": 1,
+        "last_quality_score": 8,
+        "last_poisoning_risk": 80,
+        "notes": "自动拉黑 - 失败原因: 投毒风险过高: 80%"
+      },
+      {
+        "username": "bha-vin",
+        "reason": "投毒风险持续过高(最近风险: 80%)",
+        "added_date": "2026-07-28",
+        "added_by": "auto",
+        "fail_count": 1,
+        "last_quality_score": 7,
+        "last_poisoning_risk": 80,
+        "notes": "自动拉黑 - 失败原因: 投毒风险过高: 80%"
       }
     ],
     "repositories": [
@@ -18369,11 +18429,11 @@
     "repositories": []
   },
   "statistics": {
-    "total_blocked": 25317,
-    "blocked_by_author": 25316,
+    "total_blocked": 25408,
+    "blocked_by_author": 25407,
     "blocked_by_repository": 1,
     "blocked_by_cve": 0,
-    "auto_blacklisted_authors": 1831,
+    "auto_blacklisted_authors": 1837,
     "auto_blacklisted_repositories": 0
   }
 }
