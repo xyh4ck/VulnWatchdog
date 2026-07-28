@@ -1,6 +1,6 @@
 # 2026年 CVE漏洞列表
 
-> 📊 共收录 **431** 个CVE漏洞
+> 📊 共收录 **432** 个CVE漏洞
 
 ---
 
@@ -411,6 +411,7 @@
 | [CVE-2026-57973](CVE-2026-57973-riddhimaan-sth404_CVE-2026-57973.md) | CVE-2026-57973 - Windows Subsystem for Linux TOCTOU竞争条件 | ⚪ 重要 | 1 |
 | [CVE-2026-58116](CVE-2026-58116-Hunt-Benito_llama-factory-webui-rce-cve-2026-58116-trust-remote-code-model-path-injection.md) | CVE-2026-58116 - LLaMA-Factory WebUI 远程代码执行（RCE） | ⚪ 严重/Critical | 1 |
 | [CVE-2026-58138](CVE-2026-58138-BiiTts_CVE-2026-58138-Conductor-Unauth-RCE.md) | CVE-2026-58138 - Netflix Conductor 远程代码执行 | ⚪ 严重 | 1 |
+| [CVE-2026-59891](CVE-2026-59891-gyubin02_cve-2026-59891-control-lab.md) | CVE-2026-59891 - @sigstore/oci RCE | ⚪ 高 | 1 |
 | [CVE-2026-63030](CVE-2026-63030-4minx_CVE-2026-63030.md) | CVE-2026-63030 - WordPress 远程代码执行 | ⚪ 高危 | 5 |
 | [CVE-2026-63030](CVE-2026-63030-ZephrFish_wp2shell-scanner.md) | CVE-2026-63030 - WordPress RCE | 🔴 Critical | 5 |
 | [CVE-2026-63030](CVE-2026-63030-gbrsh_CVE-2026-63030.md) | CVE-2026-63030 - WordPress 远程代码执行 | ⚪ 高 | 5 |
