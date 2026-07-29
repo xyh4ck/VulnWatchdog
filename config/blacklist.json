@@ -1,7 +1,7 @@
 {
   "$schema": "blacklist-schema.json",
   "version": "1.0.0",
-  "last_updated": "2026-07-28T21:10:56.151858Z",
+  "last_updated": "2026-07-29T01:46:29.076739Z",
   "description": "VulnWatchdog 黑名单配置文件 - 用于过滤低质量POC和恶意仓库",
   "settings": {
     "auto_blacklist_enabled": true,
@@ -18554,6 +18554,36 @@
         "last_quality_score": 9,
         "last_poisoning_risk": 85,
         "notes": "自动拉黑 - 失败原因: 投毒风险过高: 85%, 有效性分析过短: 408 字符 (最少500字符)"
+      },
+      {
+        "username": "WadesWeaponShed",
+        "reason": "投毒风险持续过高(最近风险: 80%)",
+        "added_date": "2026-07-29",
+        "added_by": "auto",
+        "fail_count": 1,
+        "last_quality_score": 7,
+        "last_poisoning_risk": 80,
+        "notes": "自动拉黑 - 失败原因: 投毒风险过高: 80"
+      },
+      {
+        "username": "praksokchea",
+        "reason": "投毒风险持续过高(最近风险: 80%)",
+        "added_date": "2026-07-29",
+        "added_by": "auto",
+        "fail_count": 1,
+        "last_quality_score": 8,
+        "last_poisoning_risk": 80,
+        "notes": "自动拉黑 - 失败原因: 投毒风险过高: 80%, 有效性分析过短: 481 字符 (最少500字符)"
+      },
+      {
+        "username": "extratao",
+        "reason": "POC质量持续过低(最近评分: 0/10)",
+        "added_date": "2026-07-29",
+        "added_by": "auto",
+        "fail_count": 1,
+        "last_quality_score": 0,
+        "last_poisoning_risk": 0,
+        "notes": "自动拉黑 - 失败原因: POC质量过低: 0-2, 有效性分析过短: 439 字符 (最少500字符)"
       }
     ],
     "repositories": [
@@ -18589,11 +18619,11 @@
     "repositories": []
   },
   "statistics": {
-    "total_blocked": 25642,
-    "blocked_by_author": 25641,
+    "total_blocked": 25667,
+    "blocked_by_author": 25666,
     "blocked_by_repository": 1,
     "blocked_by_cve": 0,
-    "auto_blacklisted_authors": 1853,
+    "auto_blacklisted_authors": 1856,
     "auto_blacklisted_repositories": 0
   }
 }
